@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/sentences/","tags":["epistemology","linguistics","definitions"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/sentences/","tags":["epistemology","definitions"],"noteIcon":""}
 ---
 
 
