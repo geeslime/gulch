@@ -32,7 +32,7 @@
         width: 100%;
         height: 100%;
         background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0)),
-                    linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.1) 20%, rgba(255, 255, 255, 0.1) 80%, rgba(255, 255, 255, 0));
+                    linear-gradient(to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
     }
     .scrolling-links {
         position: fixed;
@@ -139,7 +139,7 @@ If you would like to contribute to this vault — or discuss about its contents 
           var d = document, s = d.createElement('script');
           s.src = 'https://https-gulch-vercel-app.disqus.com/embed.js';
           s.setAttribute('data-timestamp', +new Date());
-          (d.head || d.body).appendChild(s);
+          (d.head or d.body).appendChild(s);
       })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
