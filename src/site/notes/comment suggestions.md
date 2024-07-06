@@ -14,9 +14,18 @@
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/comment-suggestions/" />
   <meta property="og:site_name" content="gulch" />
+<style>
+    .bottom-banner {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        background-color: #fff;
+        text-align: center;
+        padding: 10px;
+        box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+    }
+</style>
 </head>
-
-<center><h2>COMMENT BELOW</h2></center>
 
 
 <body>
@@ -36,4 +45,12 @@
       })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  
 </body>
+    <div class="bottom-banner">
+        <img src="https://media.tenor.com/sH2FJCIdiGYAAAAi/speech-bubble-speech-bubble-boss.gif" alt="Speech Bubble Banner">
+    </div>
+
+</body>
+</html>
+
