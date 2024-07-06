@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Many commentators on Heisenbergs Uncertainty Principle claim that, because we cannot at the same time specify fully the position and momentum of subatomic particles, their action is not entirely..." />
+  <meta property="og:description" content="Many commentators on Heisenbergs Uncertainty Principle claim that, because we cannot at the same time specify fully the position and momentum of subatomic particles, their action is not entirely...." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/the-heisenberg-uncertainty-principle-as-a-refutation-of-causality/" />
   <meta property="og:site_name" content="gulch" />

@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="The Law of Causality relates an entity and its actions, some misinterpret this law as relating antecedent circumstances to necessary consequent circumstances---for instance asserting a mechanistic..." />
+  <meta property="og:description" content="The Law of Causality relates an entity and its actions, some misinterpret this law as relating antecedent circumstances to necessary consequent circumstances---for instance asserting a mechanistic...." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/the-error-of-mechanistic-causality/" />
   <meta property="og:site_name" content="gulch" />

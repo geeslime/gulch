@@ -12,9 +12,9 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="1. Infinity refers to a potential, not an actual---infinity means larger than any specific quantity, which means no specific quantity
-  2. At any point in gaining knowledge you must have gained a specific amount of knowledge.
-  3. Therefore you cannot gain infinite knowledge." />
+  <meta property="og:description" content="1. Infinity refers to a potential, not an actual---infinity means larger than any specific quantity, which means no specific quantity.
+  1. At any point in gaining knowledge you must have gained a specific amount of knowledge.
+  2. Therefore you cannot gain infinite knowledge." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/the-impossibility-of-gaining-omniscence/" />
   <meta property="og:site_name" content="gulch" />
