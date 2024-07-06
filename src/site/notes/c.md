@@ -3,8 +3,8 @@
 ---
 
 <head>
-  <title>comment suggestions</title>
-  <meta property="og:title" content="comment suggestions" />
+  <title>c</title>
+  <meta property="og:title" content="c" />
   <meta property="og:type" content="article" />
   <meta property="og:image" content="https://geeslime.github.io/img/thing/atlas_resized.svgw=400&h=300&fit=crop&crop=faces&q=50&dpr=2" />
   <meta property="og:image:secure_url" content="https://geeslime.github.io/img/thing/atlas_resized.svg" />
@@ -12,7 +12,7 @@
   <meta property="og:image:width" content="300" />
   <meta property="og:image:height" content="300" />
   <meta property="og:locale" content="en_US" />
-  <meta property="og:url" content="https://gulch.vercel.app/comment-suggestions/" />
+  <meta property="og:url" content="https://gulch.vercel.app/c/" />
   <meta property="og:site_name" content="gulch" />
 </head>
 
@@ -23,8 +23,8 @@
   <div id="disqus_thread"></div>
   <script>
       var disqus_config = function () {
-          this.page.url = "https://gulch.vercel.app/comment-suggestions/";  // Replace with your page's canonical URL variable
-          this.page.identifier = "comment-suggestions"; // Replace with your page's unique identifier variable
+          this.page.url = "https://gulch.vercel.app/c/";  // Replace with your page's canonical URL variable
+          this.page.identifier = "c"; // Replace with your page's unique identifier variable
       };
       (function() {  // DON'T EDIT BELOW THIS LINE
           var d = document, s = d.createElement('script');
