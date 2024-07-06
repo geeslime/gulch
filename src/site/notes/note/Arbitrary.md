@@ -7,11 +7,11 @@
   <title>Arbitrary</title>
   <meta property="og:title" content="Arbitrary" />
   <meta property="og:type" content="article" />
-  <meta property="og:image" content="https://imgix.bustle.com/uploads/image/2021/11/11/9c47edfc-6de0-4c71-9530-d39a73a2064e-longevityhacks_brain_final_01.jpg?w=400&h=300&fit=crop&crop=faces&q=50&dpr=2" />
-  <meta property="og:image:secure_url" content="https://imgix.bustle.com/uploads/image/2021/11/11/9c47edfc-6de0-4c71-9530-d39a73a2064e-longevityhacks_brain_final_01.jpg?w=400&h=300&fit=crop&crop=faces&q=50&dpr=2" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
+  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:type" content="image/jpeg" />
-  <meta property="og:image:width" content="400" />
-  <meta property="og:image:height" content="300" />
+  <meta property="og:image:width" content="688" />
+  <meta property="og:image:height" content="419" />
   <meta property="og:description" content="Some ideas have a basis. If you didnt have the knowledge that some ideas have a basis or proof of some kind, it would be impossible for you to identify an idea as being without a basis, in other..." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/arbitrary/" />
