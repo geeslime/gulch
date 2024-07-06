@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/note/conscious-action/","tags":["philosophy","epistemology"],"noteIcon":""}
 ---
 
-<head
+<head>
   <titleConscious Action</title
   <meta property="og:title" content="Conscious Action" /
   <meta property="og:type" content="article" /
@@ -15,7 +15,7 @@
   <meta property="og:locale" content="en_US" /
   <meta property="og:url" content="https://gulch.vercel.app/note/conscious-action/" /
   <meta property="og:site_name" content="gulch" /
-</head
+</head>
 
 >"Action" here means the [[Metaphysical Action\|action]] of [[note/Consciousness\|consciousness]] in regard to its [[note/Conscious Content\|content]], such as thinking, remembering, imagining. [[note/The Attack on the Senses from their Limitation\|Awareness, as we know, is not a passive condition]], but a process of continuous activity.[^1]
 

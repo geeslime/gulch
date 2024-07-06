@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/note/conscious-content/","tags":["philosophy","epistemology"],"noteIcon":""}
 ---
 
-<head
+<head>
   <titleConscious Content</title
   <meta property="og:title" content="Conscious Content" /
   <meta property="og:type" content="article" /
@@ -15,7 +15,7 @@
   <meta property="og:locale" content="en_US" /
   <meta property="og:url" content="https://gulch.vercel.app/note/conscious-content/" /
   <meta property="og:site_name" content="gulch" /
-</head
+</head>
 
 >"Content" here means the object of [[note/Consciousness\|consciousness]], that of which it is aware, whether by [[Extrospection\|extrospection]] or [[Introspection\|introspection]]. Directly or indirectly, the object must be some aspect of existence; even states of consciousness can be grasped ultimately only in relation to the external world.[^1]
 
