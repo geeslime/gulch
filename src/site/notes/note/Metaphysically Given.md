@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="What is meant by a "metaphysically given" fact is a fact inherent in existence apart from human action, as against man-made facts, which refer to those facts caused by the choices of man..." />
+  <meta property="og:description" content="What is meant by a metaphysically given fact is a fact inherent in existence apart from human action, as against man-made facts, which refer to those facts caused by the choices of man..." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/metaphysically-given/" />
   <meta property="og:site_name" content="gulch" />
