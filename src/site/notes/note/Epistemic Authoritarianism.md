@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-Authoritarianism is the [[note/Epistemology\|epistemic]] position that knowledge derives from appeals to relevant authorities. A typical authoritarian would not forward his viewpoint by demonstrating its correspondence to reality, or providing arguments as to its [[note/Validation\|validity]], but rather by saying something like "[[note/Plato\|Plato]] agreed with this," or "these [[The Church Fathers\|Church fathers]] agreed with this."
+Authoritarianism is the [[note/Epistemology\|epistemic]] position that knowledge derives from appeals to relevant authorities. A typical authoritarian would not forward his viewpoint by demonstrating its correspondence to reality, or providing arguments as to its [[note/Validation\|validity]], but rather by saying something like "[[people/Plato\|Plato]] agreed with this," or "these [[The Church Fathers\|Church fathers]] agreed with this."
 
 
 
