@@ -6,7 +6,7 @@
   <title>Welcome Page</title>
   <meta property="og:title" content="Welcome Page" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://geeslime.github.io/img/thing/atlas_resized.svgw=400&h=300&fit=crop&crop=faces&q=50&dpr=2" />
+  <meta property="og:image" content="https://geeslime.github.io/img/thing/atlas_resized.svg" />
   <meta property="og:image:secure_url" content="https://geeslime.github.io/img/thing/atlas_resized.svg" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="300" />
