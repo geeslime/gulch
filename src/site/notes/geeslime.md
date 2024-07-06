@@ -10,7 +10,7 @@
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
-  <meta property="og:image:height" "419" />
+  <meta property="og:image:height" content="419" />
   <meta property="og:description" content="Geeslime, or gee, is the creator of this vault and owner of this discord server: https://discord.gg/k5pJuUTpnQ" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/geeslime/" />
