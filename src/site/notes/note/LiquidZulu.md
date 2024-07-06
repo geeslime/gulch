@@ -6,11 +6,11 @@
   <title>Liquidzulu</title>
   <meta property="og:title" content="Liquidzulu" />
   <meta property="og:type" content="article" />
-  <meta property="og:image" content="https://i.pinimg.com/originals/31/b6/54/31b65459b1ae9b535bbf2737536c0084.png" />
-  <meta property="og:image:secure_url" content="https://i.pinimg.com/originals/31/b6/54/31b65459b1ae9b535bbf2737536c0084.png" />
-  <meta property="og:image:type" content="image/png" />
-  <meta property="og:image:width" content="300" />
-  <meta property="og:image:height" content="400" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/bcabf2fb1a59f4514ebb36da30045c835b5a4d85/thing/atlas.png" />
+  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/bcabf2fb1a59f4514ebb36da30045c835b5a4d85/thing/atlas.png" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="688" />
+  <meta property="og:image:height" content="419" />
   <meta property="og:description" content="LiquidZulu is a YouTuber who creates Anarcho-Capitalism, Austrian Economics, and Objectivist content. He is the creator of Philosophy Distilled(httpsliquidzulu.github.io)." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/liquidzulu/" />
