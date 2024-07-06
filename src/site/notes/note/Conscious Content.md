@@ -3,18 +3,18 @@
 ---
 
 <head>
-  <titleConscious Content</title
-  <meta property="og:title" content="Conscious Content" /
-  <meta property="og:type" content="article" /
+  <title>Conscious Content</title>
+  <meta property="og:title" content="Conscious Content" />
+  <meta property="og:type" content="article" />
   <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Content here means the object of consciousness, that of which it is aware, whether by extrospection or introspection. Directly or indirectly, the object must be some aspect of existence; even states of consciousness can be grasped ultimately only in relation to the external world..." /
-  <meta property="og:locale" content="en_US" /
-  <meta property="og:url" content="https://gulch.vercel.app/note/conscious-content/" /
-  <meta property="og:site_name" content="gulch" /
+  <meta property="og:description" content="Content here means the object of consciousness, that of which it is aware, whether by extrospection or introspection. Directly or indirectly, the object must be some aspect of existence; even states of consciousness can be grasped ultimately only in relation to the external world..." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:url" content="https://gulch.vercel.app/note/conscious-content/" />
+  <meta property="og:site_name" content="gulch" />
 </head>
 
 >"Content" here means the object of [[note/Consciousness\|consciousness]], that of which it is aware, whether by [[Extrospection\|extrospection]] or [[Introspection\|introspection]]. Directly or indirectly, the object must be some aspect of existence; even states of consciousness can be grasped ultimately only in relation to the external world.[^1]
