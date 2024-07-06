@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/note/past-lives-as-an-example-of-the-arbitrary/","tags":["epistemology"],"noteIcon":""}
 ---
 
-
+ 
 <head>
   <title>Past Lives As An Example Of The Arbitrary</title>
   <meta property="og:title" content="Past Lives As An Example Of The Arbitrary" />
