@@ -1,16 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/note/liquid-zulu/","tags":["person"],"noteIcon":""}
+tags:
+  - person
+aliases:
+  - liquidzulu
+dg-publish: true
 ---
-
 <head>
   <title>Liquidzulu</title>
   <meta property="og:title" content="Liquidzulu" />
   <meta property="og:type" content="article" />
+  
   <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
+
   <meta property="og:description" content="LiquidZulu is a YouTuber who creates Anarcho-Capitalism, Austrian Economics, and Objectivist content. He is the creator of Philosophy Distilled(httpsliquidzulu.github.io)." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/liquidzulu/" />
