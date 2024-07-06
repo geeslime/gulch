@@ -6,8 +6,8 @@
   <title>Liquidzulu</title>
   <meta property="og:title" content="Liquidzulu" />
   <meta property="og:type" content="article" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/bcabf2fb1a59f4514ebb36da30045c835b5a4d85/thing/atlas.png" />
-  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/bcabf2fb1a59f4514ebb36da30045c835b5a4d85/thing/atlas.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
+  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
