@@ -12,8 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Nominalism implies sensualism, and sensualism implies nominalism; with nominalism as the metaphysical component, and sensualism as the epistemic one. 
-On nominalism, universals are not real, they do not exist in reality." />
+  <meta property="og:description" content="Nominalism implies sensualism, and sensualism implies nominalism; with nominalism as the metaphysical component, and sensualism as the epistemic one. On nominalism, universals are not real, they do not exist in reality." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/nominalism-iff-sensualism/" />
   <meta property="og:site_name" content="gulch" />
@@ -21,7 +20,7 @@ On nominalism, universals are not real, they do not exist in reality." />
 
 [[note/Nominalism\|Nominalism]] implies [[note/Sensualism\|sensualism]], and sensualism implies nominalism; with nominalism as the [[note/Metaphysics\|metaphysical]] component, and sensualism as the [[note/Epistemology\|epistemic]] one.
 
-On nominalism, [[note/Concept\|universals]] are not real, they do not exist in reality. If there are no universals, only [[Particular\|particulars]], then there is nothing for man to do cognitively than to [[note/Sense Perception\|perceive]] these particulars. So all thought is sense perception. Therefore nominalism -> sensualism.
+On nominalism, [[note/Concept\|universals]] are not real, they do not exist in reality. If there are no universals, only particulars, then there is nothing for man to do cognitively than to [[note/Sense Perception\|perceive]] these particulars. So all thought is sense perception. Therefore nominalism -> sensualism.
 
 On sensualism, man only has the faculty of sense perception. Of course, you do not directly grasp universals through sense perception, so man could never come to discover any *real* universals. This leaves concepts as being mere arbitrary names for groupings of particulars. Therefore sensualism -> nominalism.
 

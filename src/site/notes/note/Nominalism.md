@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-Nominalism is a position on [[note/The Metaphysical Status of Concepts\|the metaphysical status of concepts]] which asserts that [[note/Concept\|concepts]] do not actually exist in reality. The nominalist holds that concepts are mere names for an arbitrary grouping of [[Particular\|concretes]]. [[note/Nominalism iff Sensualism\|Nominalism is the metaphysical component of nominalism-sensualism]].
+Nominalism is a position on [[note/The Metaphysical Status of Concepts\|the metaphysical status of concepts]] which asserts that [[note/Concept\|concepts]] do not actually exist in reality. The nominalist holds that concepts are mere names for an arbitrary grouping of [[Abstract vs. Concrete\|concretes]]. [[note/Nominalism iff Sensualism\|Nominalism is the metaphysical component of nominalism-sensualism]].
 
 <body>
 <!-- Disqus Comments Section -->

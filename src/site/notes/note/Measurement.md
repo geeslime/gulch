@@ -20,7 +20,7 @@
 
 >Measurement is the [[note/The Law of Identity\|identification]] of \[...] a [[Quantitative\|quantitative]] relationship established by means of a standard that serves as a unit.[^1]
 
-Let's apply this to the [[Particular\|concrete]] of a lead pipe. This pipe is an [[note/Entity\|entity]] with various corresponding attributes---it has a certain mass, velocity, volume, etc. One can *measure* the relationship between its diameter and its circumference by first establishing standard units. For instance, the diameter might be 5cm and the circumference 15.7cm. The standard unit here is the metre. 
+Let's apply this to the [[Abstract vs. Concrete\|concrete]] of a lead pipe. This pipe is an [[note/Entity\|entity]] with various corresponding attributes---it has a certain mass, velocity, volume, etc. One can *measure* the relationship between its diameter and its circumference by first establishing standard units. For instance, the diameter might be 5cm and the circumference 15.7cm. The standard unit here is the metre. 
 
 In saying that the above pipe has a diameter of 5cm, what one is doing is identifying the relationship between this pipe's diameter and the already understood length of a metre---it is allowing one to cognitively grasp this new concrete length in relation to the previously established concrete standard that is the metre.
 

@@ -28,7 +28,7 @@
 1. [[Fallacy of Package-Dealing\|Fallacy of Package-Dealing]]
 2. [[Fallacy of Equivocation\|Fallacy of Equivocation]]
 3. [[note/Fallacy of Reification of the Zero\|Fallacy of Reification of the Zero]]
-4. [[Fallacy of Rewriting Reality\|Fallacy of Rewriting Reality]]
+4. [[note/The Error in Regarding the Metaphysically Given as Mutable\|Fallacy of Rewriting Reality]]
 5. [[Fallacy of Self-Exclusion\|Fallacy of Self-Exclusion]]
 6. [[Fallacy of the Frozen Abstraction\|Fallacy of the Frozen Abstraction]]
 7. [[Fallacy of Begging the Question\|Fallacy of Begging the Question]]

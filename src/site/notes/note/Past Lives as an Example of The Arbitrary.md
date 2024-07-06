@@ -64,7 +64,7 @@ Let's contrast that with Shirley MacLaine channeling, and her claim is that her 
 
 </blockquote>
 
-Shirley MacLaine's side of the discussion consists of [[note/Arbitrary\|arbitrary hypotheses and assertions]] that [[note/Evasion\|evade]] the need for [[note/Evidence\|evidence]]. She dismisses the need for present evidence by arguing that future evidence will eventually validate her claims. However, the notion that we can't have evidence today but will somehow have it someday does not align with rational standards of cognition i.e. she fails to provide any [[Particular\|concrete]], observable facts or logical deductions that relate her ideas to reality.
+Shirley MacLaine's side of the discussion consists of [[note/Arbitrary\|arbitrary hypotheses and assertions]] that [[note/Evasion\|evade]] the need for [[note/Evidence\|evidence]]. She dismisses the need for present evidence by arguing that future evidence will eventually validate her claims. However, the notion that we can't have evidence today but will somehow have it someday does not align with rational standards of cognition i.e. she fails to provide any [[Abstract vs. Concrete\|concrete]], observable facts or logical deductions that relate her ideas to reality.
 
 
 
