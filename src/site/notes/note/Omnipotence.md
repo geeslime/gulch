@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/omnipotence/","tags":["philosophy","metaphysics"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/omnipotence/","tags":["philosophy","metaphysics","definitions"],"noteIcon":""}
 ---
 
 

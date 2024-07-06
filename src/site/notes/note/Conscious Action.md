@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/conscious-action/","tags":["philosophy","epistemology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/conscious-action/","tags":["philosophy","epistemology","definitions"],"noteIcon":""}
 ---
 
 <head>

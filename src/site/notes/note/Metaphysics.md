@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/metaphysics/","tags":["philosophy","metaphysics"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/metaphysics/","tags":["philosophy","metaphysics","definitions"],"noteIcon":""}
 ---
 
 

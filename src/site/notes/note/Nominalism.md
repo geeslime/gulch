@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/nominalism/","tags":["metaphysics","philosophy","history-of-philosophy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/nominalism/","tags":["metaphysics","philosophy","history-of-philosophy","ideos"],"noteIcon":""}
 ---
 
 

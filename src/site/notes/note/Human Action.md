@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/human-action/","tags":["praxeology","economics"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/human-action/","tags":["praxeology","economics","definitions"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/idealism/","tags":["philosophy","metaphysics"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/idealism/","tags":["philosophy","metaphysics","ideos"],"noteIcon":""}
 ---
 
 

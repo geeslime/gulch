@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/philosophy/","tags":["philosophy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/philosophy/","tags":["philosophy","definitions"],"noteIcon":""}
 ---
 
 

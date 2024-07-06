@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/free-will/","tags":["philosophy","epistemology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/free-will/","tags":["philosophy","epistemology","definitions"],"noteIcon":""}
 ---
 
 

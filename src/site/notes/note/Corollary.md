@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/corollary/","tags":["philosophy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/corollary/","tags":["philosophy","definitions"],"noteIcon":""}
 ---
 
 

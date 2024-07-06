@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/economics/","tags":["praxeology","economics"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/economics/","tags":["praxeology","economics","definitions"],"noteIcon":""}
 ---
 
 

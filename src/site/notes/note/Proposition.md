@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/proposition/","tags":["epistemology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/proposition/","tags":["epistemology","definitions"],"noteIcon":""}
 ---
 
 

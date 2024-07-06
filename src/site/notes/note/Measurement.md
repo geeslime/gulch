@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/measurement/","tags":["philosophy","epistemology","mathematics"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/measurement/","tags":["philosophy","epistemology","mathematics","definitions"],"noteIcon":""}
 ---
 
 

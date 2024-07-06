@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/generalization/","tags":["epistemology","Induction"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/generalization/","tags":["epistemology","Induction","definitions"],"noteIcon":""}
 ---
 
 

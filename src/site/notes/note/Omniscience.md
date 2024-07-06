@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/omniscience/","tags":["philosophy","epistemology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/omniscience/","tags":["philosophy","epistemology","definitions"],"noteIcon":""}
 ---
 
 

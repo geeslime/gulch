@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/objectivism/","tags":["philosophy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/objectivism/","tags":["philosophy","ideos","definitions"],"noteIcon":""}
 ---
 
 

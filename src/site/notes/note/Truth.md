@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/truth/","tags":["epistemology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/truth/","tags":["epistemology","definitions"],"noteIcon":""}
 ---
 
 

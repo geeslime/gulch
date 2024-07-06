@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/percept/","tags":["epistemology","philosophy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/percept/","tags":["epistemology","philosophy","definitions"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/consciousness/","tags":["philosophy","epistemology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/consciousness/","tags":["philosophy","epistemology","definitions"],"noteIcon":""}
 ---
 
 

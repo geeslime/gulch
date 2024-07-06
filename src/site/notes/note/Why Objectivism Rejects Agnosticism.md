@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/why-objectivism-rejects-agnosticism/","tags":["epistemology","philosophy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/why-objectivism-rejects-agnosticism/","tags":["epistemology","philosophy","ideos"],"noteIcon":""}
 ---
 
 

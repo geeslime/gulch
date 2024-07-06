@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/scientism/","tags":["philosophy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/scientism/","tags":["philosophy","ideos"],"noteIcon":""}
 ---
 
 

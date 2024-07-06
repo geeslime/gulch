@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/rationalism/","tags":["epistemology","philosophy","history-of-philosophy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/rationalism/","tags":["epistemology","philosophy","history-of-philosophy","ideos"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/refute/","tags":["epistemology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/refute/","tags":["epistemology","definitions"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/sensualism/","tags":["epistemology","philosophy","history-of-philosophy"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/sensualism/","tags":["epistemology","philosophy","history-of-philosophy","ideos"],"noteIcon":""}
 ---
 
 
