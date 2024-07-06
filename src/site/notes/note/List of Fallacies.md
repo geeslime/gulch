@@ -1,12 +1,7 @@
 ---
-tags:
-  - epistemology
-  - philosophy
-aliases:
-  - fallacies
-dg-publish: true
-authors: "[[note/LiquidZulu\|LiquidZulu]]"
+{"dg-publish":true,"permalink":"/note/list-of-fallacies/","tags":["epistemology","philosophy"],"noteIcon":""}
 ---
+
 
 <head>
   <title>List of Fallacies</title>
