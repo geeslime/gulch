@@ -1,34 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/note/concept/","tags":["philosophy","epistemology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/innate-ideas/","tags":["philosophy","epistemology"],"noteIcon":""}
 ---
 
 
 <head>
-  <title>Concept</title>
-  <meta property="og:title" content="Concept" />
+  <title>Innate Ideas</title>
+  <meta property="og:title" content="Innate Ideas" />
   <meta property="og:type" content="article" />
   <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content=">A concept is a mental integration of two or more units possessing the same distinguishing characteristic(s), with their particular measurements omitted..." />
+  <meta property="og:description" content="Innate knowledge is that which is known without having being learned. An example of this would be the Platonist World of Forms, where knowledge of the forms is said to be eternal." />
   <meta property="og:locale" content="en_US" />
-  <meta property="og:url" content="https://gulch.vercel.app/note/concept/" />
+  <meta property="og:url" content="https://gulch.vercel.app/note/innate-ideas/" />
   <meta property="og:site_name" content="gulch" />
 </head>
 
->A concept is a mental [[note/Integration\|integration]] of two or more [[note/Unit (Epistemology)\|units]] possessing the same distinguishing characteristic(s), with their particular [[note/Measurement\|measurements]] omitted.[^1]
-
-[^1]: [[gbooks/ITOE\|ITOE]], 13
+"Innate" [[Knowledge\|knowledge]] is that which is known [[note/Innate Knowledge as a Violation of Causality\|without having being learned]]. An example of this would be the [[Platonism\|Platonist]] "[[Plato's World of Forms\|World of Forms]]," where knowledge of the [[note/Concept\|forms]] [[The Platonist Theory of Concepts\|is said to be eternal]].
 
 <body>
 <!-- Disqus Comments Section -->
   <div id="disqus_thread"></div>
   <script>
       var disqus_config = function () {
-          this.page.url = "https://gulch.vercel.app/note/concept/";  // Replace with your page's canonical URL variable
-          this.page.identifier = "concept"; // Replace with your page's unique identifier variable
+          this.page.url = "https://gulch.vercel.app/note/innate-ideas/";  // Replace with your page's canonical URL variable
+          this.page.identifier = "innate-ideas"; // Replace with your page's unique identifier variable
       };
       (function() {  // DON'T EDIT BELOW THIS LINE
           var d = document, s = d.createElement('script');

@@ -1,10 +1,7 @@
 ---
-tags:
-  - person
-aliases:
-  - liquidzulu
-dg-publish: true
+{"dg-publish":true,"permalink":"/note/liquid-zulu/","tags":["person"],"noteIcon":""}
 ---
+
 <head>
   <title>Liquidzulu</title>
   <meta property="og:title" content="Liquidzulu" />

@@ -26,7 +26,7 @@ The philosopher (at least a good one) does not use "axiom" to mean some arbitrar
 >An axiomatic concept is the identification of a primary fact of reality, which cannot be analyzed, i.e., reduced to other facts or broken into component parts. It is implicit in all facts and in all knowledge. It is the fundamentally given and directly perceived or experienced, which requires no proof or explanation, but on which all proofs and explanations rest.[^2]
 
 [^1]: Here the term "[[Logic\|logic]]" is also used incorrectly by the modern mathematician.
-[^2]: [[note/ITOE\|ITOE]], p. 55
+[^2]: [[gbooks/ITOE\|ITOE]], p. 55
 
 <body>
 <!-- Disqus Comments Section -->

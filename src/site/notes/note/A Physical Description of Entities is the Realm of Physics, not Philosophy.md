@@ -21,7 +21,7 @@ At various points in the history of philosophy going right back to the ancient G
 
 >The task of identifying the [[note/The Law of Identity\|nature]] of physical objects as they are apart from [[note/Different Forms of Sense Perception does not Invalidate Sense Perception\|man's form of perception]] does not belong to philosophy, but to [[Physics\|physics]]. There is no philosophic method of discovering the fundamental attributes of matter; there is only the scientist's method of specialized observation, experimentation, and inductive inference. Whatever such attributes turn out to be, however, they have no philosophic significance, neither in regard to [[note/Metaphysics\|metaphysics]] nor to [[note/Epistemology\|epistemology]].[^1]
 
-[[note/Leonard Peikoff\|Peikoff]] highlights this by supposing that one day physicists are able to reduce every physical phenomenon down to so-called "puffs of meta-energy:"
+[[people/Leonard Peikoff\|Peikoff]] highlights this by supposing that one day physicists are able to reduce every physical phenomenon down to so-called "puffs of meta-energy:"
 
 >At this stage of cognition, scientists have discovered that the material world as men perceive it, the world of three-dimensional objects possessing color, texture, size, and shape is not a primary, but merely an effect, an effect of various combinations of puffs acting on men's means of perception.[^2]
 

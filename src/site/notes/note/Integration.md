@@ -1,34 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/note/concept/","tags":["philosophy","epistemology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/integration/","tags":["philosophy","epistemology"],"noteIcon":""}
 ---
 
 
 <head>
-  <title>Concept</title>
-  <meta property="og:title" content="Concept" />
+  <title>Integration</title>
+  <meta property="og:title" content="Integration" />
   <meta property="og:type" content="article" />
   <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content=">A concept is a mental integration of two or more units possessing the same distinguishing characteristic(s), with their particular measurements omitted..." />
+  <meta property="og:description" content="Integration is the great tying-together done by your consciousness---it is the process of bringing together disparate elements into one united whole." />
   <meta property="og:locale" content="en_US" />
-  <meta property="og:url" content="https://gulch.vercel.app/note/concept/" />
+  <meta property="og:url" content="https://gulch.vercel.app/note/integration/" />
   <meta property="og:site_name" content="gulch" />
 </head>
 
->A concept is a mental [[note/Integration\|integration]] of two or more [[note/Unit (Epistemology)\|units]] possessing the same distinguishing characteristic(s), with their particular [[note/Measurement\|measurements]] omitted.[^1]
-
-[^1]: [[gbooks/ITOE\|ITOE]], 13
+Integration is the great "tying-together" done by your [[note/Consciousness\|consciousness]]---it is the process of bringing together disparate elements into one united whole.
 
 <body>
 <!-- Disqus Comments Section -->
   <div id="disqus_thread"></div>
   <script>
       var disqus_config = function () {
-          this.page.url = "https://gulch.vercel.app/note/concept/";  // Replace with your page's canonical URL variable
-          this.page.identifier = "concept"; // Replace with your page's unique identifier variable
+          this.page.url = "https://gulch.vercel.app/note/integration/";  // Replace with your page's canonical URL variable
+          this.page.identifier = "integration"; // Replace with your page's unique identifier variable
       };
       (function() {  // DON'T EDIT BELOW THIS LINE
           var d = document, s = d.createElement('script');
