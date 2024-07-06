@@ -95,7 +95,7 @@
 This online <a href="https://obsidian.md/">obsidian</a> vault is meant to serve as a community-driven resource and wiki.
 <center><h1>INFO</h1></center>
 
-This vault is maintained by [[geeslime\|geeslime]]. It was initially a clone of [[note/LiquidZulu\|LiquidZulu's]] obsidian vault — similarly hosted online at <a href="https://liquidzulu.github.io/brain/">liquidzulu.github.io/brain</a> (this vault can be seen as a less highly curated but more community-driven and diversified addition to his overall project).
+This vault is maintained by [[note/geeslime\|geeslime]]. It was initially a clone of [[note/LiquidZulu\|LiquidZulu's]] obsidian vault — similarly hosted online at <a href="https://liquidzulu.github.io/brain/">liquidzulu.github.io/brain</a> (this vault can be seen as a less highly curated but more community-driven and diversified addition to his overall project).
  
 <center><h2>CONTRIBUTING</h2></center>
 
