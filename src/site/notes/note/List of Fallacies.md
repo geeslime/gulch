@@ -7,13 +7,11 @@
   <title>List of Fallacies</title>
   <meta property="og:title" content="List of Fallacies" />
   <meta property="og:type" content="article" />
-  
   <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-
   <meta property="og:description" content="(list is not exhaustive and will be filled out gradually)
   1. Fallacy of Package-Dealing
   2. Fallacy of Equivocation
