@@ -12,11 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="The "conceptual common denominator" (CCD) is what allows for abstract differentiation to occur. In the words of Ayn Rand, the CCD is:
-
->The characteristic(s) reducible to a unit of measurement, by means of which man differentiates two or more existents from other existents possessing it.[^1]
-
-So, we can reduce the shape of a table down to a unit of measurement, namely feet, and radians, etc.---we *define* the shape of a specific table with reference to the concepts of length, and angle." />
+  <meta property="og:description" content="The conceptual common denominator (CCD) is what allows for abstract differentiation to occur. In the words of Ayn Rand, the CCD is..." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/conceptual-common-denominator/" />
   <meta property="og:site_name" content="gulch" />

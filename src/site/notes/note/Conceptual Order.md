@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Concepts can be seen as having a certain order (analogous to the order of a capital good in economics)---concepts of the first order are those that are formed directly from perceptual data. From this basis one is capable of abstracting further and forming *higher-level* concepts" />
+  <meta property="og:description" content="Concepts can be seen as having a certain order (analogous to the order of a capital good in economics)---concepts of the first order are those that are formed directly from perceptual data. From this basis one is capable of abstracting further and forming higher-level concepts" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/conceptual-order/" />
   <meta property="og:site_name" content="gulch" />

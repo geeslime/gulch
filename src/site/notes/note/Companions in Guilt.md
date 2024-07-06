@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Hume's guillotine can be stated that it is impossible to deduce an *ought* from an *is*---the implication being that no normative claims can be true. The issue with this view is that it wipes itself out---the Humean is asserting an epistemic norm that you should only believe in certain types of claims..." />
+  <meta property="og:description" content="Hume's guillotine can be stated that it is impossible to deduce an ought from an is---the implication being that no normative claims can be true. The issue with this view is that it wipes itself out---the Humean is asserting an epistemic norm that you should only believe in certain types of claims..." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/companions-in-guilt/" />
   <meta property="og:site_name" content="gulch" />
