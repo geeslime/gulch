@@ -31,8 +31,8 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 1)),
-                    linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.1) 20%, rgba(255, 255, 255, 0.1) 80%, rgba(255, 255, 255, 1));
+        background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0)),
+                    linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.1) 20%, rgba(255, 255, 255, 0.1) 80%, rgba(255, 255, 255, 0));
     }
     .scrolling-links {
         position: fixed;
@@ -100,10 +100,6 @@ This vault is maintained by [[geeslime\|geeslime]]. It was initially a clone of 
 <center><h2>CONTRIBUTING</h2></center>
 
 If you would like to contribute to this vault — or discuss about its contents with any of its [[contributors\|contributors]] — you can do so by joining this discord server: <a href="https://discord.gg/k5pJuUTpnQ">https://discord.gg/k5pJuUTpnQ</a> and asking me (gee.).
-
-
-
-
 
 <body>
   </div>
