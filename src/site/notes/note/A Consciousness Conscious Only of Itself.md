@@ -22,7 +22,7 @@ The notion of a [[note/Consciousness\|consciousness]] conscious only of itself i
 
 >If nothing exists, there can be no consciousness: a consciousness with nothing to be conscious of is a contradiction in terms. A consciousness conscious of nothing but itself is a contradiction in terms: before it could identify itself as consciousness, it had to be conscious of something. If that which you claim to perceive does not exist, what you possess is not consciousness.[^1]
 
-This specific form of the primacy of consciousness is seen in [[peeople/Aristotle\|Aristotle's]] [[Aristotle's Unmoved Mover\|unmoved mover]].
+This specific form of the primacy of consciousness is seen in [[people/Aristotle\|Aristotle's]] [[Aristotle's Unmoved Mover\|unmoved mover]].
 
 [^1]: [[gbooks/AS\|AS]], p. 942
 
