@@ -31,8 +31,8 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 1)),
-                    linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.1) 20%, rgba(255, 255, 255, 0.1) 80%, rgba(255, 255, 255, 1));
+        background: linear-gradient(to bottom, rgba(252, 252, 252, 0.1), rgba(252, 252, 252, 1)),
+                    linear-gradient(to right, rgba(252, 252, 252, 1), rgba(252, 252, 252, 0.1) 20%, rgba(252, 252, 252, 0.1) 80%, rgba(252, 252, 252, 1));
     }
     .scrolling-links {
         position: fixed;
