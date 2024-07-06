@@ -6,11 +6,11 @@
   <title>Welcome Page</title>
   <meta property="og:title" content="Welcome Page" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://geeslime.github.io/img/thing/atlas_resized.svg" />
-  <meta property="og:image:secure_url" content="https://geeslime.github.io/img/thing/atlas_resized.svg" />
-  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image" content="https://i.pinimg.com/originals/31/b6/54/31b65459b1ae9b535bbf2737536c0084.png" />
+  <meta property="og:image:secure_url" content="https://i.pinimg.com/originals/31/b6/54/31b65459b1ae9b535bbf2737536c0084.png" />
+  <meta property="og:image:type" content="image/png" />
   <meta property="og:image:width" content="300" />
-  <meta property="og:image:height" content="300" />
+  <meta property="og:image:height" content="400" />
   <meta property="og:description" content="This online Obsidian vault is meant to serve as a community-driven resource and wiki." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/welcome-page" />
