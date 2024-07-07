@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
->“True” and “false” are assessments within the field of they designate a relationship of correspondence or contradiction between an [[Thought\|idea]] and [[note/Existence Exists\|reality]]. . . . The false is established as false by reference to a body of evidence and within a [[Context\|context]], and is pronounced false because it contradicts the evidence.[^1]
+>“True” and “false” are assessments within the field of human cognition: they designate a relationship [of] correspondence or [[The Law of Non Contradiction\|contradiction]] between an |idea and [[note/Existence Exists\|reality]]. . . . The false is established as false by reference to a body of [[note/Evidence\|evidence]] and within a [[Context\|context]], and is pronounced false because it contradicts the evidence.[^1]
 
 Falsehood is the [[note/Evasion\|evasion]] of [[note/Truth\|truth]]. Every false conclusion is drawn from man [[note/The Secondary Choice Being The Choice to Think or Evade\|choosing evasion over truth]].
 
