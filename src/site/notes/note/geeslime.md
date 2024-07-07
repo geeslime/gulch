@@ -18,7 +18,7 @@
 </head>
 
 Geeslime, or "gee", pronounced like the letter G, is the creator of this vault and owner of this discord server: https://discord.gg/k5pJuUTpnQ
-
+ 
 Notes contributed by gee:
 
 <style>

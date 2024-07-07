@@ -21,7 +21,7 @@
 [[Context\|Some ideas have a basis.]] If you didn't have the [[Knowledge\|knowledge]] that some ideas have a basis or [[note/Proof\|proof]] of some kind, it would be impossible for you to identify an idea as being without a basis, in other words, arbitrary.
 
 The arbitrary is a claim with no basis—neither [[note/Sense Perception\|perceptual]] nor [[note/The Objectivist Theory of Concepts\|conceptual]]—[[note/The Arbitrary as Neither True nor False\|it is neither true nor false]]. Arbitrary claims are not merely a linguistic issue but a cognitive one. A claim is not arbitrary if it is made within a [[Context\|Context]] where [[note/Evidence\|evidence]] is accessible, even if not verbalized. Arbitrary means detached from any rational, contextually available evidence.
-
+ 
 In effect it is a [[Irrationalism\|blind cognitive whim]] adhering to no [[Logic\|logical]] rules or standards, merely uttered by [[Fiat\|fiat]]. This [[note/Definition\|definition]] can be [[Induction\|induced]] from examples where arbitrary claims provide no [[note/The Epistemic Sense of Objectivity\|probative observations]] or [[note/Argumentative Soundness\|logical arguments]]:
 
 -  [[note/Past Lives as an Example of The Arbitrary\|Past Lives as an Example of The Arbitrary]]
