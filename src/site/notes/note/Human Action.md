@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-Human action is [[note/Free Will\|purposeful]] behaviour i.e. [[Means and Ends\|the employment of some scarce means to attain a chosen end]]. The [[Human Action as Undeniable\|undeniable]] fact that [[Man\|man]] engages in actions as described is the foundation of the [[Science\|science]], [[Praxeology\|Praxeology]]—the cornerstone of the [[note/Austrian Economics\|Austrian school]].
+Human action is [[note/Free Will\|purposeful]] behaviour i.e. [[Means and Ends\|the employment of some scarce means to attain a chosen end]]. The [[Human Action as Undeniable\|undeniable]] fact that [[note/Man\|man]] engages in actions as described is the foundation of the [[note/Science\|science]], [[Praxeology\|Praxeology]]—the cornerstone of the [[note/Austrian Economics\|Austrian school]].
 
 <body>
 <!-- Disqus Comments Section -->

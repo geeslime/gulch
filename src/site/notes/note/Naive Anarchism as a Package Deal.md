@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-Properly understood, [[Anarcho-Capitalism\|anarchism]] is a [[Law\|legal]] doctrine which prohibits [[Aggression\|aggression]]. The naïve (or proto-) anarchist thesis lumps this in with the absence of hierarchy. We have a [[Fallacy of Package-Dealing\|package deal]]: no aggression <em>and</em> no hierarchy. The two [[note/Concept\|concepts]] do not belong together and must be analysed separately. Abolishing hierarchy would require that aggression be used against people who wish to form a hierarchy---hierarchy is a term that refers to the specific structure of society, aggression is a term that refers to a type of [[note/Human Action\|action]], these are simply different areas of study. 
+Properly understood, [[Anarcho-Capitalism\|anarchism]] is a [[note/Law\|legal]] doctrine which prohibits [[Aggression\|aggression]]. The naïve (or proto-) anarchist thesis lumps this in with the absence of hierarchy. We have a [[Fallacy of Package-Dealing\|package deal]]: no aggression <em>and</em> no hierarchy. The two [[note/Concept\|concepts]] do not belong together and must be analysed separately. Abolishing hierarchy would require that aggression be used against people who wish to form a hierarchy---hierarchy is a term that refers to the specific structure of society, aggression is a term that refers to a type of [[note/Human Action\|action]], these are simply different areas of study. 
 
 
 

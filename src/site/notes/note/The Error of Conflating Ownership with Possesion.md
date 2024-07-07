@@ -1,0 +1,82 @@
+---
+{"dg-publish":true,"permalink":"/note/the-error-of-conflating-ownership-with-possesion/","tags":["law","praxeology"],"noteIcon":""}
+---
+
+<head>
+  <title>The Error of Conflating Ownership with Possesion</title>
+  <meta property="og:title" content="The Error of Conflating Ownership with Possesion" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
+  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="688" />
+  <meta property="og:image:height" content="419" />
+  <meta property="og:description" content="The error of conflating ownership and possession is a significant error that undermines the very foundation of property rights and leads to self-contradictory ethical systems such as the law of the jungle...." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:url" content="https://gulch.vercel.app/note/the-error-of-conflating-ownership-with-possesion/" />
+  <meta property="og:site_name" content="gulch" />
+</head>
+
+
+
+
+| <!-- --> | <!-- -->                                                                                                                                                                                                                                                                                                                                           |
+| -------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     (p1) | [[Property Rights\|Ownership]] and possession are distinct; ownership entails a moral right to possession.                                                                                                                                                                                                                                         |
+|     (p2) | [[The Stirnerite Anti-Ethic\|The law of the jungle posits that possession equals ownership, meaning whoever physically controls a resource is considered its owner.]]                                                                                                                                                                              |
+|     (c1) | $\therefore$ The law of the jungle [[Fallacy of Equivocation\|conflates]] the [[note/Concept\|concepts]] of possession with ownership. (p1-p2)                                                                                                                                                                                                          |
+|          |                                                                                                                                                                                                                                                                                                                                                    |
+|     (p3) | Inherent in engaging in any [[Conflicts\|Conflicts]] over a [[scarce resource\|scarce resource]](not acquiescing to the other party's direction) necessarily pre-supposes the distinction between **ownership**(the right to exclusive control over a given scarce resource or *"justified possession"*) and **possession**(mere physical control).                            |
+|     (p4) | When a conflict over a resource arises, the [[Aggressor and Non-Agressor\|conflicting parties]] are inherently recognizing that there is a justified claim (ownership) to the resource beyond mere physical control (possession).                                                                                                                  |
+|     (c2) | $\therefore$ The [[note/Human Action\|act]] of engaging in conflict over a resource implies that the parties recognize and are contesting ownership rather than mere possession. (p3-p4)                                                                                                                                                                |
+|          |                                                                                                                                                                                                                                                                                                                                                    |
+|     (p5) | [[The Economic Principle of Scarcity\|The economic principle of scarcity implies that control of a resource excludes others from employing it towards ends that contradict yours.]]                                                                                                                                                                |
+|     (p6) | This recognition of exclusive control (ownership)—**implied by scarcity**—is necessary in attempting to [[Argumentation Ethics\|justify one's claim to the resource]].                                                                                                                                                                             |
+|     (c3) | $\therefore$ Engaging in any conflict over a scarce resource necessarily presupposes **the distinction between ownership and possession**. (c2, p5-p6)                                                                                                                                                                                             |
+|          |                                                                                                                                                                                                                                                                                                                                                    |
+|     (p7) | The law of the jungle, by equating possession with ownership, leads to a situation where any defense of possession as ownership inherently contradicts itself.                                                                                                                                                                                     |
+|     (p8) | This is because the defender must necessarily presuppose the distinction between ownership and possession (c3) to justify their control over the resource, thereby contradicting the premise that possession equals ownership.                                                                                                                     |
+|     (c4) | $\therefore$ The law of the jungle leads to inherent contradictions in defending possession as ownership. (p7-p8)                                                                                                                                                                                                                                  |
+|          |                                                                                                                                                                                                                                                                                                                                                    |
+|     (p9) | The law of the jungle reduces to whim-worship, implying that subjective whims determine reality (in this case, which party objectively ought to win out in conflicts over a given scarce resource).                                                                                                                                                |
+|    (p10) | This is based on [[note/The Primacy of Existence vs The Primacy of Consciousness\|the fallacy of the primacy of consciousness]], which posits that one's consciousness or whims dictate [[note/Existence Exists\|existence]], rather than recognizing that [[note/The Axiom of Consciousness\|consciousness is dependent on the existence of objective reality]]. |
+|     (c5) | $\therefore$ The law of the jungle is based on the fallacy of the primacy of consciousness. (p9-p10)                                                                                                                                                                                                                                               |
+|          |                                                                                                                                                                                                                                                                                                                                                    |
+|     (c6) | $\therefore$ The law of the jungle is fundamentally a [[note/Falsehood\|self-contradictory]] [[Law as a Subset of Ethics\|legal ethic.]] (c4, c5)                                                                                                                                                                                                       |
+
+The **error of conflating ownership and possession** is a significant error that undermines the very foundation of [[Property Rights\|property rights]] and leads to [[note/Falsehood\|self-contradictory]] ethical systems such as [[The Stirnerite Anti-Ethic\|the law of the jungle.]] **Ownership**, as we have established, entails a moral right to possession. It is not merely about having physical control over a resource, but having a justifiable claim to it. **Possession**, on the other hand, is simply about who currently holds or controls the resource. The law of the jungle, however, conflates these two concepts by positing that whoever physically controls a resource is considered its owner.
+
+[[Praxeology\|Praxeology]], the study of [[note/Human Action\|human action]], helps us understand why this [[Fallacy of Equivocation\|conflation]] is erroneous. [[Means and Ends\|All action involves the employment of scarce means to attain the most valued ends.]] Implying that man has the choice of using the scarce means for various alternative ends, and the ends that he chooses are the ones he values most highly. *This choice necessarily reflects an individual's values and beliefs about how to achieve their goals.* In a [[Conflicts\|conflict]] over a scarce resource, [[Aggressor and Non-Agressor\|both parties]] believe they have a [[Property Rights\|justified claim]] to the resource, which is why they are engaging in the conflict. This belief necessarily presupposes the distinction between ownership and possession. If Crusoe and Friday both want to employ the same stick towards attaining their two contradicting ends, their conflict implies that they each believe they have a justified claim to the stick, not just that they physically possess it. This is because [[The Economic Principle of Scarcity\|the economic principle of scarcity]], applied to conflicts, implies that employment of a scarce means excludes others from using it towards ends that contradict the director's use.
+
+Further, when individuals employ a scarce resource in action, they demonstrate through their actions that they believe they should use the resource for their purpose as opposed to someone else's. This belief is not arbitrary; it is based on their [[Value\|values]] and [[Knowledge\|understanding of reality]]. For instance, when Crusoe uses the stick for spearfishing, he demonstrates that he values this use *higher than any other possible uses.* Similarly, when Friday [[Aggression\|attempts to take the stick]], he believes he *should* possess and use it for his purposes. By acting on this belief, Friday shows that he values his use of the stick more than Crusoe's use, which his necessary acceptence of to even take this line of action leads him into contradiction:(c3, c4.)
+
+> [...] ownership–which we can define as the *right* to possess a given scarce good–is necessarily distinct from possession. If there is some dispute between A and B over who *should* be the one to control a given property, then *both* A and B **must pre-suppose** this to be the case. A is asserting that **though B might be able to actually obtain control, it would nevertheless be the case that A should be the one to control it**, and similarly B is asserting that **though A might be able to actually obtain control, it would nevertheless be the case that B should be the one to actually control it**.[^1]
+
+A further proof of the existence of rights is found in the concept of enforceability. If any right exists, it is the right of an individual to have or do something without others preventing it. For a rights-skeptic to challenge a person's asserted right, they must challenge the enforceability(**i.e. whether or not it is justified**) of that right. This presents a problem for the rights-skeptic because [[Argumentation Ethics\|they must hold that enforcement requires justification. To challenge the legitimacy of enforcement]], they must recognize a right held by the opposing party, leading to a contradiction in denying the existence of rights. 
+
+The self-contradictory nature of the law of the jungle becomes even more evident when considering its practical implications. To be consistent, [[The Stirnerite Anti-Ethic\|advocates of the law of the jungle]] would have to acquiesce to any force used against them, as they cannot assert any moral right to resist. This leads to an untenable ethical position where individuals must accept any direction of their body and other property without objection, contradicting the very nature of human action, which is directed towards actually achieving goals.
+
+Each time the actor ranks and chooses between various ends, the highest valued ones he acts on while the less urgent wants are those that remain unsatisfied *on purpose,* he is making [[Value-Judegment\|a judgment of their value]] to him. [[Action as an Exchange\|All action is an attempt to exchange a less satisfactory state of affairs for a more satisfactory one.]] The actor finds himself (or expects to find himself) in a nonperfect state, and, by attempting to attain his most urgently desired ends, expects to be in a better state. [[The Utilitarian Ethic\|He cannot measure the gain in satisfaction]], but he does know which of his wants are more urgent than others, and he does know when his condition has improved. Therefore, all action involves exchange—an exchange of one state of affairs, X, for Y, which the actor anticipates will be a more satisfactory one (and therefore higher on his [[Scale of Values\|value scale]]). 
+
+In summary, [[The Stirnerite Anti-Ethic\|the law of the jungle]], by ignoring this *almost* obvious distinction, fails to provide a coherent answer to the narrow question [[note/Law\|law]] seeks to answer—[[Conflicts\|the problem of conflicts over scarce resources]]—and reduces to whim-worship. Establishing the distinction between ownership and possession means we can [[Inference\|infer]] a futher derivation in our rational legal theory: [[The Homesteading Principle\|the firstcomer-latecomer distinction.]]
+
+[^1] [[note/LiquidZulu\|LiquidZulu]],[An Ethical Defense of Private Property](https://drive.google.com/file/d/1YaGg72SsnCH_5H2ENym28ccVhF3ri_NM/view?usp=sharing), p. 2
+
+<body>
+  </div>
+  <!-- Disqus Comments Section -->
+  <div id="disqus_thread"></div>
+  <script>
+      var disqus_config = function () {
+          this.page.url = "https://gulch.vercel.app/note/the-error-of-conflating-ownership-with-possesion/";  // Replace with your page's canonical URL variable
+          this.page.identifier = "c"; // Replace with your page's unique identifier variable
+      };
+      (function() {  // DON'T EDIT BELOW THIS LINE
+          var d = document, s = d.createElement('script');
+          s.src = 'https://https-gulch-vercel-app.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</body>

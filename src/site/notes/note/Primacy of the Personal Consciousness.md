@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-This is the individualistic version of the [[note/Primacy of the Social Consciousness\|primacy of the social consciousness]], formulated prominently by [[people/Protagoras\|Protagoras]] as: "[[Man\|Man]]" being "the measure of all things." On this view, each man inhabits his own universe created by his own mind---there is only private reality, not reality for all.
+This is the individualistic version of the [[note/Primacy of the Social Consciousness\|primacy of the social consciousness]], formulated prominently by [[people/Protagoras\|Protagoras]] as: "[[note/Man\|Man]]" being "the measure of all things." On this view, each man inhabits his own universe created by his own mind---there is only private reality, not reality for all.
 
 > [[note/Epistemology\|Epistemologically]], therefore, there are no standards or data of any kind to which a person must conform. There is only truth "for me" vs. truth "for you"---which truth is, for any individual, whatever he arbitrarily decrees it to be.[^1]
 

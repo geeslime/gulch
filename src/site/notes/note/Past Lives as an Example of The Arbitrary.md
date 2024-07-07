@@ -26,7 +26,7 @@ Let's contrast that with Shirley MacLaine channeling, and her claim is that her 
 
 >**You object:** But we know that the soul is intimately connected with the body and the brain and can't survive its destruction, so there can't be any past lives.
 >
->**Shirley MacLaine:** Oh yes, it can because you're talking about the prosaic soul of science. That's all. I'm sure it can't survive. Or you're talking about the [[note/Consciousness\|Objectivist definition of consciousness]]. I'm sure that can't survive either. But who said that [[Science\|science]] or [[people/Ayn Rand\|Ayn Rand]] knows everything about consciousness? We don't even know what consciousness consists of. It must have some kind of elements, and something can't become nothing, so these elements must have always existed in some form, even before this century. QED.
+>**Shirley MacLaine:** Oh yes, it can because you're talking about the prosaic soul of science. That's all. I'm sure it can't survive. Or you're talking about the [[note/Consciousness\|Objectivist definition of consciousness]]. I'm sure that can't survive either. But who said that [[note/Science\|science]] or [[people/Ayn Rand\|Ayn Rand]] knows everything about consciousness? We don't even know what consciousness consists of. It must have some kind of elements, and something can't become nothing, so these elements must have always existed in some form, even before this century. QED.
 >
 >**You say:** But if you don't know about these elements, what they are, or how they survive by your own statement, how can you say what forms they take before birth?
 >

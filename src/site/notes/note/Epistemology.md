@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-Epistemology is the general [[Science\|science]] of [[Knowledge\|knowledge]]; it is the study of the nature and means of man's knowledge.
+Epistemology is the general [[note/Science\|science]] of [[Knowledge\|knowledge]]; it is the study of the nature and means of man's knowledge.
 
 <body>
 <!-- Disqus Comments Section -->
