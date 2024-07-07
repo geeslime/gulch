@@ -125,7 +125,7 @@ It should be clear now that what the Austrian School of Economics is referring t
 ---
 
 from [An Anthropogenic Theory of Value](https://drive.google.com/file/d/1t0siZh5sHXjiKQP_9nvlIYyduVbssh1F/view), written by [[Stratino Lampino\|Stratino Lampino]]
-<center><h2>FOOTNOTES</h2></center>
+
 
 [^1]: Ricardo, David (1823), 'Absolute Value and Exchange Value', in *The Works and Correspondence of David Ricardo*, Volume 4, Cambridge University Press, 1951 and Sraffa, Piero and Maurice Dobb (1951), 'Introduction', in *The Works and Correspondence of David Ricardo*, Volume 1, Cambridge University Press, 1951.
 [^2]: Menger, C. *Principles of Economics. The Theory of Value*. pp. 120
