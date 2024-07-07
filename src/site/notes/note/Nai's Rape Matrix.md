@@ -36,6 +36,8 @@
 | <span style="color:red">No</span>    | <span style="color:red">No</span>    | <span style="color:green">Yes</span> | <span style="color:red">No</span>    | <span style="color:orange">Willing sex</span>  | Sting operation (mens rea)                                             |
 | <span style="color:red">No</span>    | <span style="color:red">No</span>    | <span style="color:red">No</span>    | <span style="color:green">Yes</span> | <span style="color:gray">Impossible</span>     |                                                                        |
 | <span style="color:red">No</span>    | <span style="color:red">No</span>    | <span style="color:red">No</span>    | <span style="color:red">No</span>    | <span style="color:red">Rape</span>            | The usual kind                                                         |
+
+---
 [^1]
 Definitions:
 
