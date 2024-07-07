@@ -28,9 +28,9 @@ Law deals with the narrow question of who *should win* in conflicts. We say that
 
 Legal theory—[[EOL Natural Law as Science\|natural law as science]]—*is not* a prescription for personal morality.[^2] It only expresses *what ought to be permitted*, not what is *desirable* or *proper.* There is a critical distinction between *the right* to take a particular action and the [[Autistic and Inter-Personal Ethics\|autistic morality]]of that action, differentiating between **natural rights** and the morality or immorality of the exercise of *those rights.* Legal theorists are concerned solely with building a system of rules consistent with social cooperation, interpersonal conduct, and the maintenance and facilitation of human life.[^3] 
 
-[^1] [The Nature of Law](https://liquidzulu.github.io/the-nature-of-law/), [[note/LiquidZulu\|LiquidZulu]]
-[^2] Similar to [[notes/Economics\|economics]], **law** is studied using the [[Praxeology\|praxeological method]] as its foundation—the study of **law** is *[[Value-Free Science\|value-free]].*
-[^3] [[Murray N. Rothbard\|Rothbard]] deduced an entire body of a libertarian law code including the principles of appropriation, contract, and punishment in [[EOL Contents\|Ethics of Liberty]]. 
+[^1]: [The Nature of Law](https://liquidzulu.github.io/the-nature-of-law/), [[note/LiquidZulu\|LiquidZulu]]
+[^2]: Similar to [[notes/Economics\|economics]], **law** is studied using the [[Praxeology\|praxeological method]] as its foundation—the study of **law** is *[[Value-Free Science\|value-free]].*
+[^3]: [[Murray N. Rothbard\|Rothbard]] deduced an entire body of a libertarian law code including the principles of appropriation, contract, and punishment in [[EOL Contents\|Ethics of Liberty]]. 
 
 
 <body>

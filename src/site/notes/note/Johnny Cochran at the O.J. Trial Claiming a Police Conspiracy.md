@@ -40,7 +40,7 @@ Contrast Cochran to a reasonable situation. A defense team who *would claim* a p
 
 Notice here that precisely because the basis is given, there is a way, in theory, of [[note/Refute\|refuting]] it, assuming it's [[note/Falsehood\|false]], whereas the actual Cochran allegation is *irrefutable* because [[note/Non-Existence\|there's nothing whatever to refute]]. You can't go on anything. But, if Cochran put forth all these witnesses on the stand, then, theoretically at least, the DA could come back and put on another witness who testifies that Cochran paid a million dollars apiece to each of these five or ten policemen. Then the DA produces deposit slips from their bank accounts and then frisks them in court, finding tickets to Brazil in each witness's pocket for a plane that's leaving at 4:00. Then you *can say* there *wasn't* a conspiracy, they're being paid off to save O.J. The message is that *if* you have a basis, *even a mistaken basis*, that is the opposite of [[note/The Arbitrary as Neither True nor False\|spouting only irrelevant data and groundless interpretations]], even if no [[note/Omnipotence\|supernatural]] or [[note/Mysticism\|sixth sense]] is involved.
 
-[^1] Example from [[people/Leonard Peikoff\|Peikoff's]] Lecture: "The Arbitray as Neither True or False"
+[^1]: Example from [[people/Leonard Peikoff\|Peikoff's]] Lecture: "The Arbitray as Neither True or False"
 
 <body>
 <!-- Disqus Comments Section -->

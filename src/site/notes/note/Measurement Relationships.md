@@ -24,8 +24,8 @@ In [[note/The Objectivist Theory of Concepts\|concept formation]], you can [[not
 
 Children, while forming and identifying concepts, are [[note/Differentiation\|primarily aware of similarities and differences]] among [[note/Entity\|objects]], not the precise measurement relationships underlying these concepts. This understanding of measurement relationships is a more advanced cognitive development identified by [[note/Epistemology\|epistemologists]].
 
-[^1] The canine shape, though [[note/The Sensory-Perceptual Level as Automatic\|instantly recognizable]], is [[note/Conceptual Common Denominator\|a complex set of ratios]], such as of maximum height to maximum length and thickness, head size to body size, eye separation to head size, etc. 
-[^2][[Neuroscience\|Neuroscience]] supports that all [[note/Conscious Content\|mental content]], including concepts, [[note/Consciousness as Naturalistic\|is stored in the nervous system in physical form]], involving changes in [[Nueron\|neurons]] and their [[Synaptic Connections\|synaptic connections]](For a well-written, popularized history of some very recent discoveries concerning how the brain stores memories, see McDermott, 2011.)
+[^1]: The canine shape, though [[note/The Sensory-Perceptual Level as Automatic\|instantly recognizable]], is [[note/Conceptual Common Denominator\|a complex set of ratios]], such as of maximum height to maximum length and thickness, head size to body size, eye separation to head size, etc. 
+[^2]: [[Neuroscience\|Neuroscience]] supports that all [[note/Conscious Content\|mental content]], including concepts, [[note/Consciousness as Naturalistic\|is stored in the nervous system in physical form]], involving changes in [[Nueron\|neurons]] and their [[Synaptic Connections\|synaptic connections]](For a well-written, popularized history of some very recent discoveries concerning how the brain stores memories, see McDermott, 2011.)
 
 <body>
 <!-- Disqus Comments Section -->

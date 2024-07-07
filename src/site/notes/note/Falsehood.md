@@ -26,8 +26,8 @@ Falsehood is the [[note/Evasion\|evasion]] of [[note/Truth\|truth]]. Every false
 >
 >When making a statement about an existent, one has, ultimately, only two alternatives: “[[note/The Law of Identity\|X (which means X, the existent, including all its characteristics) is what it is]]”—or: “X _is not_ what it is.” The choice between truth and falsehood is the choice between “tautology” (in the sense explained) and self-contradiction.[^2]
 
-[^1] Leonard Peikoff,  The Philosophy of Objectivism lecture series, Lecture 6
-[^2] Leonard Peikoff, “The Analytic-Synthetic Dichotomy,”  [[gbooks/ITOE\|ITOE]], 100–*101*
+[^1]: Leonard Peikoff,  The Philosophy of Objectivism lecture series, Lecture 6
+[^2]: Leonard Peikoff, “The Analytic-Synthetic Dichotomy,”  [[gbooks/ITOE\|ITOE]], 100–*101*
 
 <body>
 <!-- Disqus Comments Section -->

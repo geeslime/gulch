@@ -28,10 +28,10 @@ Claiming to know something does not exist requires evidence that excludes its ex
 > 
 > [...] the familiar idea that it is impossible to prove a “negative” actually means: it is impossible to disprove an [[note/Arbitrary\|Arbitrary]] assertion; it is impossible to proceed under the assumption that any assertion stands until refuted, or that only a disproof of an assertion would justify not accepting it as a “maybe.”[^4]
 
-[^1] It is [[note/Proof\|proved]] **through a process of [[note/Validation\|Validation]].** [[note/Why The Onus of Proof Principle Does Not Apply Equally to Negatives\|The burden of proof principle does not apply equally to negative statements]].
-[^2] Asserting the existence of a negative entity as a different kind of existent constitutes the [[note/Fallacy of Reification of the Zero\|fallacy of the Reification of the Zero]], a variant of the [[note/The Stolen Concept Fallacy\|fallacy of the Stolen Concept]].
-[^3] Example from [[people/Leonard Peikoff\|Peikoff's]] Lecture: "Objectivism on Certainty and the Error of Cartesian Doubt"
-[^4] [[How We Know\|How We Know]], p. 309
+[^1]: It is [[note/Proof\|proved]] **through a process of [[note/Validation\|Validation]].** [[note/Why The Onus of Proof Principle Does Not Apply Equally to Negatives\|The burden of proof principle does not apply equally to negative statements]].
+[^2]: Asserting the existence of a negative entity as a different kind of existent constitutes the [[note/Fallacy of Reification of the Zero\|fallacy of the Reification of the Zero]], a variant of the [[note/The Stolen Concept Fallacy\|fallacy of the Stolen Concept]].
+[^3]: Example from [[people/Leonard Peikoff\|Peikoff's]] Lecture: "Objectivism on Certainty and the Error of Cartesian Doubt"
+[^4]: [[How We Know\|How We Know]], p. 309
 
 <body>
 <!-- Disqus Comments Section -->

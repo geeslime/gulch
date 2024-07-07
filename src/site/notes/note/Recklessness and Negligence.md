@@ -27,7 +27,7 @@ A **disregard** is different to **failure**. Disregard implies an act of [[note/
 
 Thus, the reason why the [[Proportional Punishment\|punishment]] for **negligence** is *"less"* than **recklessness** is because there are mental processes in recklessness but those aimed at acting against the facts of reality. One is drifting insofar he is negligent, meaning there are no thought processes occuring regarding the activation of a [[Conflicts\|Conflicts]] in a particular way.[^1]
 
-[^1] from "[[The french are harlequins\|thefrenchareharlequins]],"  on [discord](https://discord.gg/75rmtAuKHr)
+[^1]: from "[[The french are harlequins\|thefrenchareharlequins]],"  on [discord](https://discord.gg/75rmtAuKHr)
 
 <body>
   </div>

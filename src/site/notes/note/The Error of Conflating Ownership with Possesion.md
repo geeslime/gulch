@@ -60,7 +60,7 @@ Each time the actor ranks and chooses between various ends, the highest valued o
 
 In summary, [[The Stirnerite Anti-Ethic\|the law of the jungle]], by ignoring this *almost* obvious distinction, fails to provide a coherent answer to the narrow question [[note/Law\|law]] seeks to answer—[[Conflicts\|the problem of conflicts over scarce resources]]—and reduces to whim-worship. Establishing the distinction between ownership and possession means we can [[Inference\|infer]] a futher derivation in our rational legal theory: [[The Homesteading Principle\|the firstcomer-latecomer distinction.]]
 
-[^1] [[note/LiquidZulu\|LiquidZulu]],[An Ethical Defense of Private Property](https://drive.google.com/file/d/1YaGg72SsnCH_5H2ENym28ccVhF3ri_NM/view?usp=sharing), p. 2
+[^1]: [[note/LiquidZulu\|LiquidZulu]],[An Ethical Defense of Private Property](https://drive.google.com/file/d/1YaGg72SsnCH_5H2ENym28ccVhF3ri_NM/view?usp=sharing), p. 2
 
 <body>
   </div>

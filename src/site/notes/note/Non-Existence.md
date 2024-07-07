@@ -24,8 +24,8 @@ Any notion of "non-existence" without recognizing the prior antecendent concept 
 
 >  [...] a non-existent is nothing. It is not a type of existence. It is not a special constituent of reality which gives off special effects or consequences which one could hope to detect. For instance, [[note/Arbitrary\|if somebody asserts there’s a convention of green gremlins over in the corner of the room]], now gremlins don’t exist. They are not a constituent of reality. What would be a possible answer for someone who would say, [[note/The Arbitrary as Neither True nor False\|“prove to me now that those gremlins do not exist; give me an argument, point out to me the effects or consequences of the non-gremlins in reality?”]] Well, obviously, there can be no special effects, consequences, traces, signs, or manifestations of non-gremlins. [[note/Dismissing the Arbitrary\|It is simply preposterous]] to say, “point out to me the facts in reality which follow from the non-existence of gremlins,” because gremlins are nothing and therefore nothing follows from nothing.[^2]
 
-[^1]Galt's Speech, [[For the New Intellectual\|For the New Intellectual]], p. 58
-[^2]from [[people/Leonard Peikoff\|Peikoff's]] Lecture: "Objectivism on Certainty and the Error of Cartesian Doubt"
+[^1]: Galt's Speech, [[For the New Intellectual\|For the New Intellectual]], p. 58
+[^2]: from [[people/Leonard Peikoff\|Peikoff's]] Lecture: "Objectivism on Certainty and the Error of Cartesian Doubt"
 
 <body>
 <!-- Disqus Comments Section -->

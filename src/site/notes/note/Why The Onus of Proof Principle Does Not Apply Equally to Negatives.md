@@ -26,7 +26,7 @@ This is why we demand evidence for positive claims. The absence of something (ne
 
 In short, the burden of proof is on positive claims because they introduce something new that requires evidence. Negative claims, indicating an absence, don't demand the same proof since they don't change our natural state of "inaction" until there's evidence that suggests otherwise.
 
-[^1] [[note/The Validation of Negative Propositions\|The burden of proof for negative statements is met through a proccess of validation.]] There are no degrees of meeting the burden of proof: it is either met or not, period. [[note/Proof\|“Proof ”]] requires conclusive [[note/Evidence\|evidence,]] evidence beyond a reasonable doubt. (Unreasonable doubts are [[note/Arbitrary\|Arbitrary]].) When an idea has fully met that burden, it is [[Certainty\|certain]].
+[^1]: [[note/The Validation of Negative Propositions\|The burden of proof for negative statements is met through a proccess of validation.]] There are no degrees of meeting the burden of proof: it is either met or not, period. [[note/Proof\|“Proof ”]] requires conclusive [[note/Evidence\|evidence,]] evidence beyond a reasonable doubt. (Unreasonable doubts are [[note/Arbitrary\|Arbitrary]].) When an idea has fully met that burden, it is [[Certainty\|certain]].
 
 <body>
 <!-- Disqus Comments Section -->

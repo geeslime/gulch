@@ -22,7 +22,7 @@
 
 A negative [[note/Concept\|Concept]] identifies the negation of another concept, [[note/The Epistemic Sense of Objectivity\|its object, upon which it logically depends]]. These concepts signify merely the absence of a specific object, not the presence of anything else. They are the [[Logic\|logical]] negation of the object, not an assertion of the existence of some other entity. The term "nothing" does not imply the existence of an entity called "nothing." There is no such thing as "nothing" in and of itself; it literally means no-thing, indicating only the absence of a thing. Similarly, the concept "non-existence" does not assert the existence of a "non-thing." Non-existence signifies merely the absence of something in existence, not the presence of seperate entity.[[note/The Validation of Negative Propositions\|Negative concepts must be understood in context]]. They refer to the absence of specific objects and should not be misconstrued as indicating the existence of alternative entities. The fallacy arises when one treats a negative concept as if it represents a [[note/Existence Exists\|distinct and positive reality]].
 
-[^1][[gbooks/ITOE\|ITOE]], p. 60
+[^1]: [[gbooks/ITOE\|ITOE]], p. 60
 
 <body>
 <!-- Disqus Comments Section -->

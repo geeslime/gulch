@@ -52,7 +52,7 @@ Insights:
 - Consent implies willingness, but willingness does not imply consent
 - Desire has no effect on the result
 
-[^1] from "[[Ian Hersum\|Nai]]"  
+[^1]: from "[[Ian Hersum\|Nai]]"  
 
 <body>
   </div>

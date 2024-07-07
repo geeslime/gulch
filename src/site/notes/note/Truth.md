@@ -20,7 +20,7 @@
 
 >***Truth** is the product of the recognition (i.e., [[note/The Law of Identity\|identification]]) of the facts of reality.* Man identifies and [[note/Integration\|integrates]] the facts of reality by means of [[note/Concept\|concepts]]. [[note/The Role of Language for a Conceptual Being\|He retains concepts in his mind by means of definitions]]. He organizes concepts into [[note/Proposition\|propositions]]—and the [[note/Truth\|Truth]] or [[note/Falsehood\|falsehood]] of his propositions rests, not only on their relation to the facts he asserts, but also on [[Descriptive Propositions\|the truth or falsehood of the definitions of the concepts he uses to assert them]], which rests on [[Classificatory Propositions\|the truth or falsehood of his designations of essential characteristics]].[^1]
 
-[^1][[gbooks/ITOE\|ITOE]], p. 48
+[^1]: [[gbooks/ITOE\|ITOE]], p. 48
 
 <body>
 <!-- Disqus Comments Section -->

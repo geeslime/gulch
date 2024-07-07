@@ -33,7 +33,7 @@ Each specialized science, while independent, *requires* these philosophical foun
 
 Further, **all sciences**, even the broadest fields, are centered around a [[Fundamentality\|fundamental]] question that defines its specific scope of inquiry. This core question guides the development of the discipline, focusing its efforts on a particular aspect of [[note/Existence Exists\|reality]]. Physics seeks to answer: *"What are the fundamental laws governing entities?"* Biology seeks to answer: *"What are the principles of [[Life\|life]] and living organisms?"* Chemistry seeks to answer: *"What are the properties and actions of substances and their relationships?"* etc. When a discipline successfully addresses its fundamental question, it implies a deeper understanding of reality within that domain, leading to the formulation of general principles and laws. Answering these core questions not only advances knowledge within the specific field but often raises new questions and interdisciplinary connections. Ultimately, each field's progress in advancing *the context of ones knowledge* depends on its ability, of its *lovers*, to refine and [[Reduction\|reduce]] its fundamental question—this is the *discipline* of a scientist.
 
-[^1] Introduction to the History of Western Philosophy,[[people/Leonard Peikoff\|Leonard Peikoff]]
+[^1]: Introduction to the History of Western Philosophy,[[people/Leonard Peikoff\|Leonard Peikoff]]
 
 
 <body>

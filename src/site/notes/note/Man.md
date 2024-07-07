@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/man/","tags":["law","metaphysics","praxeology"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/note/man/","tags":["law","metaphysics","praxeology","definitions"],"noteIcon":""}
 ---
 
 <head>
@@ -21,9 +21,9 @@
 Man is the being with the *capacity[^1]* to [[note/The Objectivist Theory of Concepts\|conceptualize]], and specifically to conceptualize [[Property Rights\|rights]]. A being who lacks this aspect simply isn't a concern to [[note/Law\|law]] and therefore has no rights—because they lack the *capacity* for [[note/Human Action\|human action]], they cannot come into any [[conflicts\|conflicts]] with **man**.
 
 
-[^1] [[Childrens Rights\|A child is a potential actor]]. Its nature is that given the current circumstances they will develop these faculties(this also applies to [[note/A Baby-in-a-Womb as an Entity\|babies in the womb]]) therefore it has a real *capacity* for [[note/Human Action\|human action]], conceptualization, and is thus considered—to have rights—to be a **man**(this is not an example of [[note/The Error of Conflating the Potential with the Actual\|conflating the potential with the actual]]—the capacity is actual i.e. it is a real aspect of the child's identity.)[^2] 
+[^1]: [[Childrens Rights\|A child is a potential actor]]. Its nature is that given the current circumstances they will develop these faculties(this also applies to [[note/A Baby-in-a-Womb as an Entity\|babies in the womb]]) therefore it has a real *capacity* for [[note/Human Action\|human action]], conceptualization, and is thus considered—to have rights—to be a **man**(this is not an example of [[note/The Error of Conflating the Potential with the Actual\|conflating the potential with the actual]]—the capacity is actual i.e. it is a real aspect of the child's identity.)[^2] 
 
-[^2] This can be further reflected on with the analogy of me having a gun that once i shoot a *non-actor* with it, it causes their dna to have been altered so that they will now develop into a conceptual being per their nature and the given set of circumstances currently at hand—one that can conceptualize rights. They aren't a potential actor until i shoot them—their nature is still that of an animal i.e. its not within their nature to develop higher [[note/The Levels of Consciousness\|levels of awareness]] and subsequently concepts. The possibility of some theoretical cirumstance happening won't change the animal's nature so that they will start morphing into a man. An animal is A, a man is B. Y set of circumstances causes A to morph into B. Still A is A, B is B, and Y is Y—[[note/The Law of Causality\|Y is not an aspect of A's identity or else A would be B and not A.]]
+[^2]: This can be further reflected on with the analogy of me having a gun that once i shoot a *non-actor* with it, it causes their dna to have been altered so that they will now develop into a conceptual being per their nature and the given set of circumstances currently at hand—one that can conceptualize rights. They aren't a potential actor until i shoot them—their nature is still that of an animal i.e. its not within their nature to develop higher [[note/The Levels of Consciousness\|levels of awareness]] and subsequently concepts. The possibility of some theoretical cirumstance happening won't change the animal's nature so that they will start morphing into a man. An animal is A, a man is B. Y set of circumstances causes A to morph into B. Still A is A, B is B, and Y is Y—[[note/The Law of Causality\|Y is not an aspect of A's identity or else A would be B and not A.]]
 
 
 <body>

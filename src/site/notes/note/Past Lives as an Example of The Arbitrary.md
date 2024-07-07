@@ -44,7 +44,7 @@ Shirley MacLaine's side of the discussion consists of [[note/Arbitrary\|arbitrar
 
 In terms of what she actually said, *not one jot of actual basis exists*, even of an early contextual kind. Her argument is *fundamentally detached* from any [[note/Sense Perception\|perceptual]] or [[note/The Objectivist Theory of Concepts\|conceptual]] evidence, relying instead on the idea that evidence will manifest *only* after death, when it is no longer accessible to us. Consequently, her claims remain [[note/The Arbitrary as Neither True nor False\|arbitrary and unprocessable by a rational mind]].
 
-[^1] Example from [[people/Leonard Peikoff\|Peikoff's]] Lecture: "The Arbitrary as Neither True or False"
+[^1]: Example from [[people/Leonard Peikoff\|Peikoff's]] Lecture: "The Arbitrary as Neither True or False"
 
 <body>
 <!-- Disqus Comments Section -->
