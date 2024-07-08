@@ -11,7 +11,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="poopdascooppoopooopoop" />
+  <meta property="og:description" content="The most destructive aspect of taxation is that it has this underlying decivilizing effect on the economy, due to its impact on individuals' time preferences. The positing of taxation runs counter to the natural tendency of time preference to fall, as it creates disincentives for saving and production. The prospect of being taxed for one's efforts to produce or save leads to an increase in time preference." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/the-decivilizing effect-of-taxation/" />
   <meta property="og:site_name" content="gulch" />
