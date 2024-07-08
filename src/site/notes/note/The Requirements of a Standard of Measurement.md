@@ -27,7 +27,7 @@ The "standard" in such a case is something like inches, or lbs, or dB, etc. This
 
 This is key to understanding why, on [[note/Objectivism\|Objectivism]], a standard though freely chosen is not in any way "[[Subjective\|subjective]]"---any rational unit refers to some specific concrete in reality that is what it is independent of any act of [[note/Consciousness\|consciousness]]. Measurement and [[Mathematics\|mathematics]] are not tasks performed by detaching one's cognition from reality and considering some [[Plato's World of Forms\|Platonic super-reality]]---they are and must be rooted in the apprehension of this world.
 
-[^1]: [[gbooks/ITOE\|ITOE]], 7
+[^1]: [[ITOE\|ITOE]], 7
 
 <body>
 <!-- Disqus Comments Section -->

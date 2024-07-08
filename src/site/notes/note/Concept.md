@@ -20,7 +20,7 @@
 
 >A concept is a mental [[note/Integration\|integration]] of two or more [[note/Unit (Epistemology)\|units]] possessing the same distinguishing characteristic(s), with their particular [[note/Measurement\|measurements]] omitted.[^1]
 
-[^1]: [[gbooks/ITOE\|ITOE]], 13
+[^1]: [[ITOE\|ITOE]], 13
 
 <body>
 <!-- Disqus Comments Section -->

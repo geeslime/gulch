@@ -30,7 +30,7 @@ Second, the thought about $x$[^2] will exist with a certain [[Psychological Inte
 
 [^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], 92; punctuation modified.
 [^2]: See: [[note/Concept-Formation as an Algebraic Process\|Concept-Formation as an Algebraic Process]]
-[^3]: [[gbooks/ITOE\|ITOE]], 31-32
+[^3]: [[ITOE\|ITOE]], 31-32
 
 <body>
 <!-- Disqus Comments Section -->

@@ -24,7 +24,7 @@ A proper definition is made of two parts, each of which follows from the nature 
 
 A definition in terms of genus and differentia is like a logical X-ray of a concept. It condenses into a brief, retainable statement the essence of the concept-forming process: it tells us what distinguishes the units and from what they are being distinguished, i.e., within what wider group the distinction is being made. To give the standard example: if we conceptualize man by differentiating men from dogs, cats, and horses, then "animal" would be the genus---"rational," the differentia.[^1]
 
-[^1]: See [[gbooks/ITOE\|ITOE]], "Definitions"
+[^1]: See [[ITOE\|ITOE]], "Definitions"
 [^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], 97&#160; [↩](#fnref-2)
 
 <body>

@@ -20,7 +20,7 @@
 
 A "unit" in [[note/Epistemology\|epistemology]] refers to "an [[note/Existence Exists\|existent]] regarded as a separate member of a group of two or more similar members."[^1]
 
-[^1]: [[gbooks/ITOE\|ITOE]], p. 6
+[^1]: [[ITOE\|ITOE]], p. 6
 
 <body>
 <!-- Disqus Comments Section -->

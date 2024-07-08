@@ -24,8 +24,8 @@ This means that to speak of *units* is to speak from a specifically human--or co
 
 >\[...] the concept "unit" involves an act of [[note/Consciousness\|consciousness]] (a selective [[note/Mental Focus\|focus]], a certain way of regarding things), but \[...] it is not an arbitrary creation of consciousness: it is a method of identification or classification according to the attributes which a consciousness observes in reality. This method permits any number of classifications and cross-classifications: one may classify things according to their shape or color or weight or size or atomic structure; but the criterion of classification is not invented, it is perceived in reality. Thus the concept "unit" is a bridge between [[note/Metaphysics\|metaphysics]] and [[note/Epistemology\|epistemology]]: units do not exist qua units, what exists are things, but units are things viewed by a consciousness in certain existing relationships.[^2]
 
-[^1]: [[gbooks/ITOE\|ITOE]], p. 6
-[^2]: [[gbooks/ITOE\|ITOE]], pp. 6-7
+[^1]: [[ITOE\|ITOE]], p. 6
+[^2]: [[ITOE\|ITOE]], pp. 6-7
 
 <body>
 <!-- Disqus Comments Section -->

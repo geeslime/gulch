@@ -28,7 +28,7 @@ A "bromide" is a bumper-sticker slogan used out of place as an [[note/Axioms as 
 + [[The Mystic Theory of Concepts as a Poison\|"you're making an abstract argument, I'm talking reality"]]
 + [[Conceptual Scepticism\|"this is all just a meaningless semantic disagreement, but people can use words anyhow"]]
 
-[^1]: [[gbooks/Fh\|Fh]], 567
+[^1]: [[Fh\|Fh]], 567
 
 <body>
 <!-- Disqus Comments Section -->

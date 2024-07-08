@@ -32,7 +32,7 @@ This analogy highlights that just as equations apply [[Mathematics\|mathematical
 Propositions can be [[Classificatory Propositions\|general]] or [[Descriptive Propositions\|specific]]. Specific propositions describe individual instances (e.g., "This chair is made of wood"), while general propositions (or [[note/Generalization\|generalizations]]) apply to all instances within a class (e.g., "A chair is man-made").  [[Methods for Induction\|The process of forming generalizations]] involves identifying [[note/Conceptual Common Denominator\|essential characteristics common to all instances]] of a concept while [[Method of Difference\|omitting non-essential measurements]]. 
 
 [^1]: [[How We Know\|How We Know]], p. 184
-[^2]: [[gbooks/ITOE\|ITOE]], p. 75
+[^2]: [[ITOE\|ITOE]], p. 75
 
 <body>
 <!-- Disqus Comments Section -->

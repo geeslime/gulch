@@ -33,7 +33,7 @@ It is so-named by [[people/Leonard Peikoff\|Leonard Peikoff]] as it is often rep
 
 Of course, if we are to view something as insignificant or irrelevant on these grounds, then we should equally discount the Grand Canyon argument itself. After all, its proponents are just monkeys on an insignificant pebble as against the vast enormity of the universe---why should we listen to what they have to say?
 
-[^1]: [[gbooks/Fh\|FH]], p. 391
+[^1]: [[FH\|FH]], p. 391
 
 <body>
 <!-- Disqus Comments Section -->

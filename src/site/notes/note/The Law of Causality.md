@@ -29,7 +29,7 @@ The implication of the above is that at any given time an entity has one and onl
 In Ayn Rand's words:
 >The law of causality is the law of identity applied to action. All actions are caused by entities. The nature of an action is caused and determined by the nature of the entities that act; a thing cannot act in contradiction to its nature.[^1]
 
-[^1]: [[gbooks/AS\|AS]], p. 962
+[^1]: [[AS\|AS]], p. 962
 
 <body>
 <!-- Disqus Comments Section -->

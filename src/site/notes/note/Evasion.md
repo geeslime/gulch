@@ -31,7 +31,7 @@ If the man is instead in a state of focus but is evading what he sees then perha
 
 For completeness, the man engaged in thought would be running away from the lava, or perhaps donning his suit of Rearden metal armour, or using the freeze ray that he invented last week, or sitting safely behind the anti-lava walls that were built decades ago the second people came and knew what volcanos are.
 
-[^1]: *Galt's Speech* in [[For the New Intellectual\|For the New Intellectual]], p. 127; also in [[gbooks/AS\|AS]]
+[^1]: *Galt's Speech* in [[For the New Intellectual\|For the New Intellectual]], p. 127; also in [[AS\|AS]]
 [^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 61
 [^3]: I put this in scare quotes because, to quote [[Harry Binswanger\|Harry Binswanger]]: "it scares me." (https://youtu.be/GwHAObb7tt8?t=22). I am not attempting to imply that the [[note/Common Bromides\|bromide]] of "[[Ignorance is Bliss\|ignorance is bliss]]" is in any way true.
 

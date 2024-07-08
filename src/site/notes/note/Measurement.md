@@ -28,9 +28,9 @@ From this, the relationship $c = \pi \cdot d$ can be further deduced.[^2] You wi
 
 >\[...] the standard provides only the form of notation, not the substance nor the result of the process of measuring. The facts established by measurement will be the same, regardless of the particular standard used; the standard can neither alter nor affect them. The requirements of a standard of measurement are: that it represent the appropriate attribute, that it be easily [[note/Sense Perception\|perceivable]] by man and that, once chosen, it remain immutable and absolute whenever used.[^3]
 
-[^1]: [[gbooks/ITOE\|ITOE]], 7
+[^1]: [[ITOE\|ITOE]], 7
 [^2]: On this, see: [[note/The Differing Challenges of Explicating a Standard of Measurement\|The Differing Challenges of Explicating a Standard of Measurement]]
-[^3]: [[gbooks/ITOE\|ITOE]], 7; see also: [[note/The Requirements of a Standard of Measurement\|The Requirements of a Standard of Measurement]]
+[^3]: [[ITOE\|ITOE]], 7; see also: [[note/The Requirements of a Standard of Measurement\|The Requirements of a Standard of Measurement]]
 
 <body>
 <!-- Disqus Comments Section -->

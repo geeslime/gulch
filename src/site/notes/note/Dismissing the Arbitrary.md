@@ -29,8 +29,8 @@ Dismissing arbitrary claims does not mean you're uncertain or ignorant about the
 
 > [...] For dismissal, the most that one needs is to show that one is informed of the state of the evidence and has found that there is none supporting the idea. (This is not [[note/Fallacy of Reification of the Zero\|a claim to be aware of non-existence]]: it means that one has looked where that evidence should have been but has found only data different from evidence for the assertion.)[^3]
 
-[^1]: [[gbooks/OPAR\|OPAR]], p. 169
-[^2]: [[gbooks/OPAR\|OPAR]], p. 169
+[^1]: [[OPAR\|OPAR]], p. 169
+[^2]: [[OPAR\|OPAR]], p. 169
 [^3]: [[How We Know\|How We Know]], p. 309
 
 <body>

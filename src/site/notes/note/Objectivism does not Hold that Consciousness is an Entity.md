@@ -29,7 +29,7 @@ For type (1), "consciousness" is being used to generalise some statement beyond 
 
 In the following quotes I have indicated in square parenthesis which sense of consciousness is being used, and how it is not being used to demonstrate that [[note/Consciousness\|consciousness]] is an entity in the usual sense of the word. Note, that I am taking the quotes provided on face value---it would be quite a task indeed for me to dig out the entire context of every quote presented especially considering how tightly integrated [[people/Ayn Rand\|Rand]]'s philosophy is. If for any of these quotes the additional context changes how specifically "consciousness" should be viewed, then I can address those individually, but not for the entire set.
 
->“It may be supposed that the concept “existent” is implicit even on the level of sensations---if and to the extent that ~~a consciousness~~ \[an animal] is able to discriminate on that level.” (*[[gbooks/ITOE\|ITOE]]*, 6)
+>“It may be supposed that the concept “existent” is implicit even on the level of sensations---if and to the extent that ~~a consciousness~~ \[an animal] is able to discriminate on that level.” (*[[ITOE\|ITOE]]*, 6)
 
 >“Note that the concept “unit” involves ~~an act of consciousness~~ \[an act which is related to the conscious faculty of the creature in question]…it is not an arbitrary creation of consciousness: it is a method of identification or classification according to the attributes which a consciousness observes in reality.” (_ITOE_, 7)
 

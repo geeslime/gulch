@@ -24,7 +24,7 @@ The notion of a [[note/Consciousness\|consciousness]] conscious only of itself i
 
 This specific form of the primacy of consciousness is seen in [[people/Aristotle\|Aristotle's]] [[Aristotle's Unmoved Mover\|unmoved mover]].
 
-[^1]: [[gbooks/AS\|AS]], p. 942
+[^1]: [[AS\|AS]], p. 942
 
 <body>
 <!-- Disqus Comments Section -->

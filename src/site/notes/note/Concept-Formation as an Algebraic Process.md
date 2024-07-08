@@ -24,7 +24,7 @@
 >
 >Let those who attempt to invalidate concepts by declaring that they cannot find "manness" in men, try to invalidate algebra by declaring that they cannot find "$a$-ness" in $5$ or in $5{,}000{,}000$.[^1]
 
-[^1]: [[gbooks/ITOE\|ITOE]], 18
+[^1]: [[ITOE\|ITOE]], 18
 
 <body>
 <!-- Disqus Comments Section -->

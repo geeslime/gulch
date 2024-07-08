@@ -28,7 +28,7 @@ So on the Kantian approach, [[note/Consciousness\|consciousness]] is invalid bec
 
 [^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 50
 [^2]: [[For the New Intellectual\|For the New Intellectual]], p. 30
-[^3]: [[gbooks/Fh\|FH]], p. 568
+[^3]: [[FH\|FH]], p. 568
 
 <body>
 <!-- Disqus Comments Section -->
