@@ -47,7 +47,7 @@ In physics, elasticity is a passive cause, becasue it is a property which causal
 
 > [...] these concepts are helpful because the actions which create an entity often reveal aspects of its [[note/The Law of Identity\|identity]]. When we ask *"what is the efficient cause of chemical compounds,"* or *"what kinds of actions cause them to form,"* we might notice that some reactions are endothermic. This means that they consume heat from their environment when taking place.
 > 
-> Since heat is the motion of particles involved in the reaction, and since chemical reactions are the *breaking* of some atomic bonds and the *formation* of other bonds, this allows us to [[Inference\|infer]] that atomic bonds *actually* contain [[Energy (Physics)\|energy]]. Since the energy of motion is *fused up* into the *formation* of such compounds, we say that the bonds contain energy. Now, I don't exactly know what it means for atomic bonds to create energy, but thanks to the concept of *efficient cause*, I intend to find out. 
+> Since heat is the motion of particles involved in the reaction, and since chemical reactions are the *breaking* of some atomic bonds and the *formation* of other bonds, this allows us to [[note/Inference\|infer]] that atomic bonds *actually* contain [[Energy (Physics)\|energy]]. Since the energy of motion is *fused up* into the *formation* of such compounds, we say that the bonds contain energy. Now, I don't exactly know what it means for atomic bonds to create energy, but thanks to the concept of *efficient cause*, I intend to find out. 
 
 
 ---

@@ -18,7 +18,7 @@
 </head>
 
 \
-**Science** is any discipline that systematically—*methodically*—studies a [[note/The Law of Identity\|distinct]] field of [[knowledge\|knowledge]] through [[note/Sense Perception\|observation]] and [[Reason\|reason]] where one can [[Inference\|infer]] further knowledge, to be subsumed into its *specific scope of inquiry*. Acquiring a body of knowledge that allows it to establish [[Principles\|principles]] and laws within its domain. Over time, as specific disciplines accumulate a sufficient stock of [[Context\|information]] and develop specialized methods, they become distinct fields of study, splitting off from the broader category of philosophy, which initially encompasses all forms of knowledge-seeking endeavors.
+**Science** is any discipline that systematically—*methodically*—studies a [[note/The Law of Identity\|distinct]] field of [[knowledge\|knowledge]] through [[note/Sense Perception\|observation]] and [[Reason\|reason]] where one can [[note/Inference\|infer]] further knowledge, to be subsumed into its *specific scope of inquiry*. Acquiring a body of knowledge that allows it to establish [[Principles\|principles]] and laws within its domain. Over time, as specific disciplines accumulate a sufficient stock of [[Context\|information]] and develop specialized methods, they become distinct fields of study, splitting off from the broader category of philosophy, which initially encompasses all forms of knowledge-seeking endeavors.
 
 > [...] At the very beginning [[note/Philosophy\|Philosophy]] was the subject which you were in if you were in anything; there was no other subject. Anybody who *loved wisdom* and wanted to acquire [[Knowledge\|knowledge]] was by that fact *a lover of wisdom* he was *a philosopher.* 
 > 

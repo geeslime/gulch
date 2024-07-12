@@ -20,7 +20,7 @@
 
 Now, it would have been very convenient for Judge Ito and Marcia, for him to stand up and say, [[note/Past Lives as an Example of The Arbitrary\|"I say so, God told me."]] They would have laughed him out of court. He wouldn't dream of doing that, not at the salary he's paid, which is a lot better than movie stars.
 
-These people are experts at concocting the [[note/Arbitrary\|arbitrary]] and concealing that it's arbitrary. He doesn't stand up and say, *"I made this conspiracy up out of whole cloth; we're desperate."* On the contrary, he drenches you with this worldly fact—some of them actually [[note/Truth\|true]]—and impeccable [[Inference\|inferences]]—*sometimes*—and here's just a few examples:[^1]
+These people are experts at concocting the [[note/Arbitrary\|arbitrary]] and concealing that it's arbitrary. He doesn't stand up and say, *"I made this conspiracy up out of whole cloth; we're desperate."* On the contrary, he drenches you with this worldly fact—some of them actually [[note/Truth\|true]]—and impeccable [[note/Inference\|inferences]]—*sometimes*—and here's just a few examples:[^1]
 
 1. Furman planted the bloody glove. 
 
