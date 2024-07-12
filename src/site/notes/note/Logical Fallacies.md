@@ -17,7 +17,7 @@
   <meta property="og:url" content="https://gulch.vercel.app/note/list-of-fallacies/" />
   <meta property="og:site_name" content="gulch" />
 </head>
-
+ 
 A **fallacy** is an error in [[Reason\|reasoning]] that results in a [[note/Proposition\|proposition]] contradicting its own [[note/Conceptual Order\|foundational concepts]], violating the principles of [[Logic\|non-contradictory identification]] and hierarchical [[note/The Objectivist Theory of Concepts\|concept formation]], leading to [[note/Falsehood\|contradictions]] and [[note/Psychological Inertia\|misintegrations in thought]]. Fallacies when present in an argument, in any of its premises, completely undermines the logic of said argument.
 
 [[note/Objectivism\|Objectivism]] emphasizes [[Conditional Heirarchy\|the correct hierarchical structuring of concepts]]. A fallacy often involves a misuse or misplacement of concepts within this hierarchy, leading to logical errors. An example is the "[[note/The Stolen Concept Fallacy\|stolen concept fallacy]]," where a concept logically dependent on another antecedent one to it is used to deny that primary concept, invoking an [[note/Epistemology\|epistemological]] contradiction​​​​. 
