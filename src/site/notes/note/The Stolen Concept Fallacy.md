@@ -19,7 +19,7 @@
 </head>
 
 
->The “stolen concept” [[Logical Fallacy\|fallacy]], first identified by [[people/Ayn Rand\|Ayn Rand]], is the fallacy of using a [[note/Concept\|concept]] while denying the validity of its genetic roots, i.e., of an earlier concept(s) on which it logically depends.[^1]
+>The “stolen concept” [[note/Logical Fallacies\|fallacy]], first identified by [[people/Ayn Rand\|Ayn Rand]], is the fallacy of using a [[note/Concept\|concept]] while denying the validity of its genetic roots, i.e., of an earlier concept(s) on which it logically depends.[^1]
 
 In general a stolen concept is any concept that is implicitly relied upon in argumentation whilst being explicitly rejected.
 
