@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-A **proposition** is defined as "a [[The Role of Grammar In Propositions\|grammatically structured]] combination of concepts to [[note/The Law of Identity\|identify]] a subject by a process of [[note/Measurement Relationships\|measurement inclusion]]."
+A **proposition** is defined as "a [[The Role of Grammar In Propositions\|grammatically structured]] combination of [[note/Concept\|concepts]] to [[note/The Law of Identity\|identify]] a subject by a process of [[note/Measurement Relationships\|measurement inclusion]]."
 
 > The value of any tool lies in its use. What concepts are used to do is to identify: to state in words what something is. The form in which we make **conceptual identifications** is the proposition.[^1]
 
