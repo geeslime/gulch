@@ -84,7 +84,7 @@ These definitions were painstakingly arrived at by [[James Ellias\|James Ellias]
 
 2. **[[note/Characteristics vs. Properties (BPC)\|Characteristic]]**
     - **a.** [[note/Entity and Property (BPC)\|Property]]
-        - **i.** [[note/Relationship (BPC)\|Relationship (BPC)]]
+        - **i.** [[note/Relationship (BPC)\|Relationship]]
             - **1.** [[note/Action (BPC)\|Action]]
         - **ii.** [[note/Matter and Form (BPC)\|Matter]]
         - **iii.** [[note/Matter and Form (BPC)\|Form]]

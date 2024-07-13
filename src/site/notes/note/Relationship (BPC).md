@@ -35,7 +35,7 @@ Note here that relationships themselves are a [[note/Entity and Property (BPC)\|
 
 [[Kepler\|Kepler]] found a mathematical equation that related the distance of a planet to the sun and the time it took for that planet to go around the sun:
 
-> [!figure] # ![bop](https://raw.githubusercontent.com/geeslime/img/main/Screenshot%20Capture%20-%202024-06-25%20-%2002-46-03.png) ![bip](https://raw.githubusercontent.com/geeslime/img/main/Screenshot%20Capture%20-%202024-06-25%20-%2002-46-18.png)
+> [!figure] ![bop](https://raw.githubusercontent.com/geeslime/img/main/Screenshot%20Capture%20-%202024-06-25%20-%2002-46-03.png) ![bip](https://raw.githubusercontent.com/geeslime/img/main/Screenshot%20Capture%20-%202024-06-25%20-%2002-46-18.png)
 > <ins>Kepler's third law proves a relationship between the sun and planets.</ins>
 >
 >
