@@ -21,7 +21,8 @@
 
 [Mises U 2019](https://mises.org/podcasts/mises-u-2019)
 
-<iframe width="960" height="540" src="https://www.youtube.com/embed/mYpjqOnsT-I?si=j2OS0rBxSNCXhNh2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="540" src="https://www.youtube.com/embed/mYpjqOnsT-I?si=j2OS0rBxSNCXhNh2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 07/18/2019•[Jonathan Newman](https://mises.org/profile/jonathan-newman)
