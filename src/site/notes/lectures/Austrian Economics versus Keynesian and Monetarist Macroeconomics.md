@@ -57,7 +57,7 @@ Transcript table of contents:
 
 ## Introduction
 
-So thank you everybody for being here this morning. I'm Jonathan Newman, no relation to Patrick Newman as we've already covered. 
+So thank you, everybody, for being here this morning. I'm Jonathan Newman, no relation to Patrick Newman as we've already covered. 
 
 I want to start off with a short story. I was perusing the New York Fed blog. The people at the New York Fed run this blog and write about different topics. This was a few years ago, and I found a blog about the panic of 1819, which I was sort of interested in. 
 
@@ -65,7 +65,7 @@ I read through it, and I'm also a professor of economics, so I read papers that 
 
 Unfortunately, while I was reading this blog from the New York Fed, there were some bits in there that sounded exactly like Rothbard's book "The Panic of 1819" – like, word-for-word actually. So, I felt like I did catch them plagiarizing Rothbard. The way that I know I actually did catch them is because they admitted to it afterwards. 
 
-After they saw there was a bunch of web traffic going to their article from mises.org, they noticed everybody was going to this old article about the panic of 1819. You'll notice that they added this author's update: "Murray Rothbard's 'The Panic of 1819: Reactions and Policies' was an additional source for this post and should have been cited. We regret this omission." To which I was thinking, "Man, I hope you regret it."
+After they saw there was a bunch of web traffic going to their article from mises.org, they noticed everybody was going to this old article about the panic of 1819. You'll notice that they added this author's update: *"Murray Rothbard's 'The Panic of 1819: Reactions and Policies' was an additional source for this post and should have been cited. We regret this omission."* To which I was thinking, "Man, I hope you regret it."
 
 So the reason I start off with this is because I want to cite my sources here at the beginning. The major source for this talk is what I learned from Roger Garrison both at Auburn University and also in his lectures here. Not just the content but also his style. I've got some, hopefully, amusing moving parts in the PowerPoints. Rothbard was... or excuse me, Garrison was very famous for his moving parts in his PowerPoints.
 
@@ -75,11 +75,11 @@ So here we have Mises and Rothbard fighting against Friedman and Keynes. Here we
 
 A little bit about the title. 
 
-I was very intentional with the title. It's a long title: "Austrian Economics versus Keynesian and Monetarist Macroeconomics." 
+I was very intentional with the title. It's a long title: **"Austrian Economics versus Keynesian and Monetarist Macroeconomics."** 
 
 There are just three points I want to make about the title. 
 
-First is that Austrian economics is not divided into micro and macro. Hopefully, you've seen over the course of the week that we progressed from talking about human action and what are some of the things that we can say about human action that are necessarily logically true. What can we derive? What are the implications of the fact that we make choices? 
+First, Austrian economics is not divided into micro and macro. Hopefully, you've seen over the course of the week that we progressed from talking about human action and what are some of the things that we can say about human action that are necessarily logically true. What can we derive? What are the implications of the fact that we make choices? 
 
 Which is a sort of a micro focus. We look at one individual making a choice, and we tease out what sort of things apply to all humans making any sort of choice. 
 
@@ -109,17 +109,17 @@ There's some fraying at the top. So even mainstream macroeconomists understand t
 
 Noah Smith was commenting on how nobody in academic macroeconomics was able to predict the most recent financial crisis.
 
-We have a quote from Paul Romer. This is from a great paper about mathiness, where he says, "Presenting a model is like doing a card trick. Everybody knows that there will be some sleight of hand. There's no intent to deceive because no one takes it seriously." 
+We have a quote from Paul Romer. This is from a great paper about mathiness, where he says, *"Presenting a model is like doing a card trick. Everybody knows that there will be some sleight of hand. There's no intent to deceive because no one takes it seriously."* 
 
 This is a pretty serious indictment against how macroeconomics is done. 
 
-Larry Summers says, "Real business cycle models have nothing to do with the business cycle phenomena observed in the United States." 
+Larry Summers says, *"Real business cycle models have nothing to do with the business cycle phenomena observed in the United States."* 
 
 Robert Solow, who developed a very important growth model in mainstream macro, has a serious critique of the dynamic stochastic general equilibrium models. 
 
-Mankiw, who wrote a very important principles of economics textbook, said that "the work of the past several decades in macroeconomics looks like an unfortunate wrong turn." 
+Mankiw, who wrote a very important principles of economics textbook, said that *"the work of the past several decades in macroeconomics looks like an unfortunate wrong turn."* 
 
-Finally, one of the presidents of the Federal Reserve District banks says that "macroeconomics has very little to offer by way of answers to the questions of why does an economy have business cycles and why do asset prices move around so much." 
+Finally, one of the presidents of the Federal Reserve District banks says that *"macroeconomics has very little to offer by way of answers to the questions of why does an economy have business cycles and why do asset prices move around so much."* 
 
 This is a pretty serious indictment, and what I'd like to offer today is that Austrian economics fills this gap. It doesn't have these sorts of errors, and so we'll see why.
 
@@ -301,7 +301,7 @@ This is the main apparatus that monetarists use to analyze macroeconomic phenome
 
 ## Criticism of Monetarism
 
-This is not cherry-picking. This is a direct quote from the book by Friedman and Schwartz. They say, "Changes in the behavior of the money stock have been closely associated with changes in economic activity, money income, and prices. The interrelation between monetary and economic change has been highly stable. Monetary changes have often had an independent origin." 
+This is not cherry-picking. This is a direct quote from the book by Friedman and Schwartz. They say, *"Changes in the behavior of the money stock have been closely associated with changes in economic activity, money income, and prices. The interrelation between monetary and economic change has been highly stable. Monetary changes have often had an independent origin."* 
 
 If we have a central bank that has discretion over the money supply, that's what they're talking about, that independent origin. They have not been simply a reflection of changes in economic activities. So we can use M as a policy variable, outside of the market system, to achieve the macroeconomic ends that we would like—namely, stable price levels so that we can have consistent economic growth.
 
@@ -309,21 +309,21 @@ What are the Austrian responses to this? There are quite a few.
 
 Probably the most fundamental response is that the analysis starts with data availability as opposed to sound economic theory. They're not starting from the ground up—how do people make choices? Why do people purchase this as opposed to this? Or talking about things from a micro-foundation, as some economists might say. 
 
-It starts with, "Well, we've got this money supply data. We can construct data on the velocity of money by taking total expenditures and dividing it by the money supply, and we know it's true. So it has to be true that the money supply times the number of times it's spent must be equal to total expenditure, price times quantity." 
+It starts with, *"Well, we've got this money supply data. We can construct data on the velocity of money by taking total expenditures and dividing it by the money supply, and we know it's true. So it has to be true that the money supply times the number of times it's spent must be equal to total expenditure, price times quantity."* 
 
 So we have this data. Let's use this as our main apparatus of considering changes in the macro economy, as opposed to the Austrian method, which was we start with human action. You get diminishing marginal utility, you get the law of demand, the law of supply, and onwards and upwards until you construct this massive business cycle theory or critique of socialism, for example.
 
 Another criticism is that—well, this isn't really a criticism, it's just a statement—MV equals PQ is a tautology. There's really no argument over the truthfulness of this. Even if you consider P an array of prices or a vector of prices, you can still multiply it by the vector, the horizontal vector, of all the different goods that are produced in the economy. So you can still calculate total spending on the right-hand side, and that must equal—there's no arguing over this—the money supply times the velocity, if the velocity is defined as whatever number it takes to get these two sides to equal each other. So there's no argument over the truthfulness of this equation.
 
-The argument is over the cause and effect. If you just look at an equation, the cause and effect isn't clear. In fact, if you notice the two examples that I went through, one time I started with an increase in output and said, "Well, what that implies is that we need to have a monetary policy like this." 
+The argument is over the cause and effect. If you just look at an equation, the cause and effect isn't clear. In fact, if you notice the two examples that I went through, one time I started with an increase in output and said, *"Well, what that implies is that we need to have a monetary policy like this."* 
 
-In the other example, I said, "Well, suppose we allow the money supply to collapse. What's going to happen to the other variables in the system?" 
+In the other example, I said, *"Well, suppose we allow the money supply to collapse. What's going to happen to the other variables in the system?"* 
 
 So there's this big question over which variable causes what. Which one is endogenous? Which one is exogenous? What direction is the cause and effect here? It's not clear just from the equation where that is, as opposed to the Austrian apparatus, the Austrian theory, where cause and effect is at every step along the way.
 
 ## Mises' Critique
 
-Here's a nice quote from Mises. He says, "It's essentially nothing"—he's talking about the equation of exchange—"it's essentially nothing but a mathematical expression of the untenable doctrine that there is proportionality in the movements of the quantity of money and of prices." 
+Here's a nice quote from Mises. He says, *"It's essentially nothing"*—he's talking about the equation of exchange—*"it's essentially nothing but a mathematical expression of the untenable doctrine that there is proportionality in the movements of the quantity of money and of prices."* 
 
 This is not just a critique of the equation of exchange but also of thinking about changes in the money supply having a proportionate or even effect on the general level of prices. 
 
@@ -339,7 +339,7 @@ Another criticism is that there's no reason to seek to stabilize P. In fact, Aus
 
 We want prices to fluctuate. We also want prices in general to be able to fluctuate in accordance with people changing their demand for money. We need prices and the entire price level to be able to fluctuate. Seeking to stabilize the price level seems arbitrary. Why seek to stabilize something that we need in the functioning of a market economy? We need prices to be able to change.
 
-We've already talked about how V is pretty much meaningless. There's another quote from Mises here: "The mathematical economists refuse to start from the various individuals' demand for and supply of money. They introduce instead the spurious notion of velocity of circulation fashioned according to the patterns of mechanics."
+We've already talked about how V is pretty much meaningless. There's another quote from Mises here: *"The mathematical economists refuse to start from the various individuals' demand for and supply of money. They introduce instead the spurious notion of velocity of circulation fashioned according to the patterns of mechanics."*
 
 Mises also criticized the idea of money circulating, period. At any given moment, all dollars are held by somebody. They're in somebody's cash balance. Even in a transaction, one moment the money belongs to one person, and the next moment it belongs to the other person. It's not really good to think about money circulating through the economy, even though I tend to use this phrase as well. But if you're thinking about the circulation of money either from a Keynesian or a monetarist perspective, you're sort of missing out on the fact that money is demanded to be held in individual cash balances by individuals, as opposed to thinking about money as this independent, abstract variable that's flowing through the economy either in a circle or being turned over, like in the quantity theory of money.
 
@@ -353,19 +353,19 @@ Suppose that in late October of 1929, a thousand-pound monster showed up in Miss
 
 Two investigators are sent to Mississippi to get a handle on the situation. One is from Vienna, the other is from Chicago. 
 
-The Viennese investigator asks, "Where in the world did this hideous thing come from?" The analogy here is that Austrians see a business cycle and they look for what caused it. What caused the boom that preceded this bust? They're going to look for expansionary monetary policy. They're going to look for new money entering the economy through the credit markets.
+The Viennese investigator asks, *"Where in the world did this hideous thing come from?"* The analogy here is that Austrians see a business cycle and they look for what caused it. What caused the boom that preceded this bust? They're going to look for expansionary monetary policy. They're going to look for new money entering the economy through the credit markets.
 
-Garrison says here, "I seem to stack the cards against the Austrian. It's hard to even imagine an insightful answer to this question unless, of course, the monster turns out to be the unintended consequence of some ill-conceived government-sponsored bionics project." 
+Garrison says here, *"I seem to stack the cards against the Austrian. It's hard to even imagine an insightful answer to this question unless, of course, the monster turns out to be the unintended consequence of some ill-conceived government-sponsored bionics project."* 
 
 I wonder if Stranger Things could approach Roger Garrison for some ideas on Stranger Things season four. This would be a great story there.
 
-The Chicagoan shows up, shoves the Austrian aside, and says, "Never mind how this thing got here. The real question is how did it grow from a thousand pounds to four thousand pounds? How did an ordinary run-of-the-mill garden-variety monster quadruple its weight in 40 months? How do these small recessions turn into big recessions?"
+The Chicagoan shows up, shoves the Austrian aside, and says, *"Never mind how this thing got here. The real question is how did it grow from a thousand pounds to four thousand pounds? How did an ordinary run-of-the-mill garden-variety monster quadruple its weight in 40 months? How do these small recessions turn into big recessions?"*
 
-The Chicagoan's answer, of course, is, "It was all the cabbages. It's the cabbages' fault that the monster was eating. He couldn't get good data on the rabbits, unfortunately. The correlation between cabbage consumption and weight gain leaves no doubt about the issue."
+The Chicagoan's answer, of course, is, *"It was all the cabbages. It's the cabbages' fault that the monster was eating. He couldn't get good data on the rabbits, unfortunately. The correlation between cabbage consumption and weight gain leaves no doubt about the issue."*
 
-This is a fun story to show how monetarists look at recessions and business cycles compared to how Austrians look at business cycles. Austrians show up and ask, "Where did the monster come from? Where did the bust come from?" They're going to look at the boom. 
+This is a fun story to show how monetarists look at recessions and business cycles compared to how Austrians look at business cycles. Austrians show up and ask, *"Where did the monster come from? Where did the bust come from?"* They're going to look at the boom. 
 
-Chicagoans, when they're looking at changes in the variables after the fact—when they're looking at changes in the money supply, changes in price, changes in output once there is a bust—they can talk about this all they want to. They're still not asking the right question, which is, "Where did the bust come from in the first place?"
+Chicagoans, when they're looking at changes in the variables after the fact—when they're looking at changes in the money supply, changes in price, changes in output once there is a bust—they can talk about this all they want to. They're still not asking the right question, which is, *"Where did the bust come from in the first place?"*
 
 Just as an aside, if you're interested in researching the shape of Friedman's business cycle model, you should google the plucking model, P-L-U-C-K, plucking model. It's like there's this long-run growth trend, and you can pluck down this line and get the bust and then the boom. 
 
@@ -375,7 +375,7 @@ Milton Friedman died before the financial crisis, but he lived long enough to ha
 
 I think it's important. Friedman was interviewed by Charlie Rose in December of 2005 when it was becoming very obvious that there was a housing bubble. Actually, even in 2002 and 2004, you can find some of the earliest Austrian predictions of the housing bubble and the consequences that came. 
 
-Here's what Friedman said: "The United States is at the peak of its performance in its history. There's never been a time in the United States when we've had the state of prosperity, its level, and its spread that we've had in the last ten or fifteen years. There has never been a fifteen-year period in which there has been so little fluctuation in prices, in inflation. Inflation has stayed around two or three percent or less for the last 15 years. It's unprecedented. I certainly do"—and then it's implied in the interview—"give credit to Alan Greenspan for that. I think monetary policy is primarily responsible for it."
+Here's what Friedman said: *"The United States is at the peak of its performance in its history. There's never been a time in the United States when we've had the state of prosperity, its level, and its spread that we've had in the last ten or fifteen years. There has never been a fifteen-year period in which there has been so little fluctuation in prices, in inflation. Inflation has stayed around two or three percent or less for the last 15 years. It's unprecedented. I certainly do"*—and then it's implied in the interview—*"give credit to Alan Greenspan for that. I think monetary policy is primarily responsible for it."*
 
 So Friedman totally missed it. I know it seems unfair because he's dead now, but if we can show that monetarists didn't predict this, not just Friedman but other monetarists didn't predict this, but Austrians did, it seems like we should take a good look at the perspective in which they were predicting what happened.
 
@@ -383,11 +383,11 @@ So Friedman totally missed it. I know it seems unfair because he's dead now, but
 
 Here they are.
 
-Both start their analysis with data availability. What sort of macroeconomic aggregates do we have available? What can we tally up? What can we count? 
+* Both start their analysis with data availability. What sort of macroeconomic aggregates do we have available? What can we tally up? What can we count? 
 
-As opposed to the Austrian position, which is, "Let's make an entire edifice of necessarily true, apodictically certain economic theory and then see what we can say about the economy." 
+* As opposed to the Austrian position, which is, *"Let's make an entire edifice of necessarily true, apodictically certain economic theory and then see what we can say about the economy."* 
 
-As opposed to what the monetarists and Keynesians do, which is, "What data do we have and what can we do with that data?"
+* As opposed to what the monetarists and Keynesians do, which is, *"What data do we have and what can we do with that data?"*
 
 The MV equals PQ equation—I don't know if anybody picked up on this—is actually the same thing as the Y equals E equation. They're both tallying up total expenditures for the economy just in different ways. 
 
@@ -395,21 +395,22 @@ The Keynesians disaggregate expenditure between consumption spending, investment
 
 At least for Keynesians, they disaggregate Q into the different types of products that people are consuming—consumption, investment, and government. But we just have Q; we just have total real output there for the monetarists. So there's a higher level of aggregation even on the monetarist side.
 
-The policy prescription is the same. Keynesians would say, "Yeah, we can use expansionary monetary policy to get us out of the depression, to solve the bust." 
+The policy prescription is the same. Keynesians would say, *"Yeah, we can use expansionary monetary policy to get us out of the depression, to solve the bust."* 
 
-So we had the bust and then the boom. Keynesians would add, "Yeah, we can also use fiscal policy." Monetarists are generally distrustful of using fiscal policy and using that part of government to fix the problem, but they're okay with using monetary policy just like the Keynesians are. 
+So we had the bust and then the boom. Keynesians would add, *"Yeah, we can also use fiscal policy."* Monetarists are generally distrustful of using fiscal policy and using that part of government to fix the problem, but they're okay with using monetary policy just like the Keynesians are. 
 
 So there's total alignment in terms of the policy prescription from both monetarists and Keynesians.
 
-Here's a quote from Friedman: "We all use the Keynesian language and apparatus." He just says that he rejects the Keynesian conclusions. I would argue that his conclusions seem pretty similar.
+Here's a quote from Friedman: *"We all use the Keynesian language and apparatus."* He just says that he rejects the Keynesian conclusions. I would argue that his conclusions seem pretty similar.
 
 Here's a quote from Krugman that I got from Robert Murphy's blog post. You can always count on Murphy to find those good Krugman quotes. 
 
-Krugman said, "Old-style Friedman-type monetarists who focus on monetary aggregates are essentially in the same camp as Keynesians." 
+Krugman said, *"Old-style Friedman-type monetarists who focus on monetary aggregates are essentially in the same camp as Keynesians."* 
 
 So why don't they just hug and kiss and make it clear to everybody in the world?
 
 Thank you very much.
+
 
 
 <body>
