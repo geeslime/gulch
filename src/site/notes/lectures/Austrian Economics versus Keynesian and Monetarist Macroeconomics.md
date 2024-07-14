@@ -11,7 +11,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="poopdascooppoopooopoop" />
+  <meta property="og:description" content="Recorded at the Mises Institute in Auburn, Alabama, on 18 July 2019." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/lectures/austrian-economics-versus-keynesian-and-monetarist-macroeconomics/" />
   <meta property="og:site_name" content="gulch" />
