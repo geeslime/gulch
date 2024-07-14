@@ -17,7 +17,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-**Inference** is the [[vv/coonsciousness/Consciousness is an Active Process\|mental process]] of deriving a [[note/Proposition\|proposition]] from [[note/Sense Perception\|observation]] and/or other propositions. Inferences can be *either* [[Deduction\|deductive]] or [[Induction\|inductive]]. Deductive inference is the application of the [[note/Generalization\|general]] to the [[Particularization\|particular]] (or to the less general). While inductive inference the process of generalizing from particulars (or from the less general). Where deduction applies the more general to the less general, induction moves from the less general to the more general. [^1]
+**Inference** is the [[note/Consciousness is an Active Process\|mental process]] of deriving a [[note/Proposition\|proposition]] from [[note/Sense Perception\|observation]] and/or other propositions. Inferences can be *either* [[Deduction\|deductive]] or [[Induction\|inductive]]. Deductive inference is the application of the [[note/Generalization\|general]] to the [[new/Particularization\|particular]] (or to the less general). While inductive inference the process of generalizing from particulars (or from the less general). Where deduction applies the more general to the less general, induction moves from the less general to the more general. [^1]
 
 Inferences can only be drawn from [[Knowledge\|something known]], none—no thought whatsoever—can be drawn from [[note/Arbitrary\|the arbitrary]].
 

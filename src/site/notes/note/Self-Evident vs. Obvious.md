@@ -17,7 +17,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-The terms **"self-evident"** and **"obvious"** might seem interchangeable, but they actually describe very different kinds of truths. For example, if you’ve learned basic [[Arithmetic\|arithmetic]], it’s obvious that two plus two equals four. However, this truth isn’t self-evident; it’s derived through [[note/Measurement\|a process of counting and comparison]]. On the other hand, the fact that [[vv/coonsciousness/Consciousness Has an Object and a Subject\|you exist with consciousness, and are reading this text]], doesn’t require any [[note/Inference\|inference]]—[[note/The Axiom of Consciousness\|it’s self-evident]].
+The terms **"self-evident"** and **"obvious"** might seem interchangeable, but they actually describe very different kinds of truths. For example, if you’ve learned basic [[Arithmetic\|arithmetic]], it’s obvious that two plus two equals four. However, this truth isn’t self-evident; it’s derived through [[note/Measurement\|a process of counting and comparison]]. On the other hand, the fact that [[note/Consciousness Has an Object and a Subject\|you exist with consciousness, and are reading this text]], doesn’t require any [[note/Inference\|inference]]—[[note/The Axiom of Consciousness\|it’s self-evident]].
 
 [[note/The Epistemic Primacy of Sense Perception\|Sensory perception provides us with self-evident data]]. When you see, hear, or touch something, the existence of those perceptions is self-evident. However, the meanings we derive from these perceptions, and the inferences we draw, are not self-evident. These interpretations need to be [[note/Proof\|validated by tracing them back to the self-evident data provided by our senses]].
  
