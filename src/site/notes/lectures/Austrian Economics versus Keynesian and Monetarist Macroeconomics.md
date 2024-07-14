@@ -29,6 +29,9 @@ Recorded at the Mises Institute in Auburn, Alabama, on 18 July 2019.
 
 ---
 
+***The [Picture-In-Picture Extension(By Google)](https://chromewebstore.google.com/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg?pli=1) is really helpful for reading and listening at the same time. Allowing you to pause/unpause and see the video without havig to scroll all the way to the top of the page here***.
+
+---
 Transcript table of contents:
 
 - [[lectures/Austrian Economics versus Keynesian and Monetarist Macroeconomics#Introduction\|Introduction]]
