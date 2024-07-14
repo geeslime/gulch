@@ -37,7 +37,7 @@ The concept of **form** helped chemists [[note/Entity and Property (BPC)\|identi
 
 > [!quote] ###### Borrowing from Aristotle
 > 
-> "These two categories are not mine; they belong to [[Aristotle.\|Aristotle.]] What we'll find through this presentation is that I've often taken the concepts of other philosophers who have come before me and altered them to integrate them with the rest of my framework. That brings me to another set of ideas from Aristotle that I've [[The Method of Cross-Conceptualization\|reconceptualized]]—I will call them the [[note/Four Conditioning Connections (BPC)\|four conditioning connections,]] based on Aristotle's four causes." 
+> "These two categories are not mine; they belong to [[people/Aristotle\|Aristotle]]. What we'll find through this presentation is that I've often taken the concepts of other philosophers who have come before me and altered them to integrate them with the rest of my framework. That brings me to another set of ideas from Aristotle that I've [[The Method of Cross-Conceptualization\|reconceptualized]]—I will call them the [[note/Four Conditioning Connections (BPC)\|four conditioning connections,]] based on Aristotle's four causes." 
 
 
 ---
