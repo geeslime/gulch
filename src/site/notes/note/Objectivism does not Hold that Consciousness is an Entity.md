@@ -43,7 +43,7 @@ In the following quotes I have indicated in square parenthesis which sense of co
 > 
 > \[This just appears to be an example of using less autistic word choice---you can see that my re-wording is less elegant. She elaborates in this section that the "actions" described are things such as "perception" "emotion" "thought" "reminiscence." Here, it is precisely speaking the brain, or the conscious organ, that is doing these things---on this point I can understand the "aha!" feeling, but really it is quite trivial to replace "consciousness" with "conscious organ" here and this causes absolutely no problems for Objectivism---sloppy word choice does not a death blow make.]” (_ITOE_, 30)
 
->“He can also observe the similarities among the actions of his ~~consciousness~~ \[conscious organ] on various occasions, by observing the fact that these same actions—in different sequences, combinations and degrees—are, have been or can be applicable to other objects…
+>“He can also observe the similarities among the actions of his ~~consciousness~~ \[conscious organ] on various occasions, by observing the [[note/Fact\|fact]] that these same actions—in different sequences, combinations and degrees—are, have been or can be applicable to other objects…
 >
 >\[This is the same thing again, we can imagine an analogous phraseology by saying "his libido was really acting up" or "his sexuality was on fire"---it is clear that it is his sexual organs that are actually doing the acting there]” (_ITOE_, 30)
 

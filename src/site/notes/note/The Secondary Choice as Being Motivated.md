@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="To an evader, a feeling of some kind is more important than truth. A man finds a certain fact or policy to be unpleasant, frightening, or guilt-provoking." />
+  <meta property="og:description" content="To an evader, a feeling of some kind is more important than truth. A man finds a certain [[note/Fact\|fact]] or policy to be unpleasant, frightening, or guilt-provoking." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/the-secondary-choice-as-being-motivated/" />
   <meta property="og:site_name" content="gulch" />

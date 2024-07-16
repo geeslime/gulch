@@ -26,7 +26,7 @@
 | 17. Cause                   | A **property** of an entity **which conditions the properties of another entity through action**. Cause **always comes before the properties it conditions**.                                    |
 | 18. Effect                  | A **property** or **set of properties** of an entity which are **conditioned by a certain cause**. Effect **always comes after cause**.                                                          |
 
-The general term for labeling a connection of facts is a [[note/Conditioning Connections (BPC)\|conditioning connection]], but *only* when such a connection involves [[note/Action (BPC)\|action]] should we use the word **cause**. 
+The general term for labeling a connection of [[note/Fact\|facts]] is a [[note/Conditioning Connections (BPC)\|conditioning connection]], but *only* when such a connection involves [[note/Action (BPC)\|action]] should we use the word **cause**. 
 
 > [!figure]  ![bep](https://raw.githubusercontent.com/geeslime/img/main/Screenshot%20Capture%20-%202024-07-08%20-%2008-31-45.png)
 

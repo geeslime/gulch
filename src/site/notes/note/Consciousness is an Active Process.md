@@ -37,7 +37,7 @@ In contrast, [[note/The Epistemic Primacy of Sense Perception\|sensory perceptio
 
 > Consciousness requires contrast, change, difference. *Consciousness is a difference-detector.* The primary function of consciousness is to [[note/Differentiation\|differentiate]], which is an active process.
 > 
-> The fact that **consciousness is active** does not contradict [[note/The Primacy of Existence vs The Primacy of Consciousness\|the primacy of existence]] (nor imply that consciousness is somehow invalid). Rand’s important aphorism makes the necessary distinction: “Consciousness is [[note/Metaphysics\|metaphysically]] passive, but [[note/Epistemology\|epistemologically]] active.” That is, [[note/The Error in Regarding the Metaphysically Given as Mutable\|consciousness does not create or alter its object]] (consciousness is passive, metaphysically), but awareness is achieved by an active process (consciousness is active, epistemologically).[^2]
+> The [[note/Fact\|fact]] that **consciousness is active** does not contradict [[note/The Primacy of Existence vs The Primacy of Consciousness\|the primacy of existence]] (nor imply that consciousness is somehow invalid). Rand’s important aphorism makes the necessary distinction: “Consciousness is [[note/Metaphysics\|metaphysically]] passive, but [[note/Epistemology\|epistemologically]] active.” That is, [[note/The Error in Regarding the Metaphysically Given as Mutable\|consciousness does not create or alter its object]] (consciousness is passive, metaphysically), but awareness is achieved by an active process (consciousness is active, epistemologically).[^2]
 
 [^1][[ITOE\|ITOE]], p. 29
 [^2] [[HWK_Contents\|How We Know: Epistemology on an Objectivist Foundation]]

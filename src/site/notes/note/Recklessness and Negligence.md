@@ -23,9 +23,9 @@
 **Recklessness**: Disregard of activation of a conflict
 **Negligence**: Failure to deactivate a conflict
 
-A **disregard** is different to **failure**. Disregard implies an act of [[note/Evasion\|evasion,]] failure is an act of [[note/Mental Focus\|drift]] Both are choices, but one involves knowing the facts of reality and the other involves not knowing. There isn't [[Knowledge\|knowledge]] in drift, but a failure to begin a thought process. This isn't total, but if you drift *and* cause a conflict, then you are **negligent**.
+A **disregard** is different to **failure**. Disregard implies an act of [[note/Evasion\|evasion,]] failure is an act of [[note/Mental Focus\|drift]] Both are choices, but one involves knowing the [[note/Fact\|facts of reality]] and the other involves not knowing. There isn't [[Knowledge\|knowledge]] in drift, but a failure to begin a thought process. This isn't total, but if you drift *and* cause a conflict, then you are **negligent**.
 
-Thus, the reason why the [[Proportional Punishment\|punishment]] for **negligence** is *"less"* than **recklessness** is because there are mental processes in recklessness but those aimed at acting against the facts of reality. One is drifting insofar he is negligent, meaning there are no thought processes occuring regarding the activation of a [[Conflicts\|Conflicts]] in a particular way.[^1]
+Thus, the reason why the [[Proportional Punishment\|punishment]] for **negligence** is *"less"* than **recklessness** is because there are mental processes in recklessness but those aimed at acting against the [[note/Fact\|facts of reality]]. One is drifting insofar he is negligent, meaning there are no thought processes occuring regarding the activation of a [[Conflicts\|Conflicts]] in a particular way.[^1]
 
 [^1]: from "[[The french are harlequins\|thefrenchareharlequins]],"  on [discord](https://discord.gg/75rmtAuKHr)
 

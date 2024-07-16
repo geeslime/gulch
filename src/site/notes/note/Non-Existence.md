@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-> Non-existence is not a [[fact\|fact]], it is the _absence_ of a fact, it is a derivative [[note/Concept\|Concept]] pertaining to a relationship, i.e., a concept which can be formed or grasped [[note/The Validation of Negative Propositions\|only in relation to some existent that has ceased to exist]]. (One can arrive at the concept “absence” starting from the concept “presence,” in regard to some particular existent(s); one cannot arrive at the concept “presence” starting from the concept “absence,” with the absence including everything.) Non-existence as such [[note/Fallacy of Reification of the Zero\|is a zero with no sequence of numbers to follow it]], it is the nothing, the total blank.[^1]
+> **Non-existence** is not a [[note/Fact\|fact]], it is the _absence_ of a fact, it is a derivative [[note/Concept\|Concept]] pertaining to a relationship, i.e., a concept which can be formed or grasped [[note/The Validation of Negative Propositions\|only in relation to some existent that has ceased to exist]]. (One can arrive at the concept “absence” starting from the concept “presence,” in regard to some particular existent(s); one cannot arrive at the concept “presence” starting from the concept “absence,” with the absence including everything.) Non-existence as such [[note/Fallacy of Reification of the Zero\|is a zero with no sequence of numbers to follow it]], it is the nothing, the total blank.[^1]
 
 Any notion of "non-existence" without recognizing the prior antecendent concept of [[note/Existence Exists\|"existence"]] is an example of [[note/The Stolen Concept Fallacy\|The Stolen Concept Fallacy]]. 
 

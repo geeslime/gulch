@@ -26,7 +26,7 @@ In saying that the above pipe has a diameter of 5cm, what one is doing is identi
 
 From this, the relationship $c = \pi \cdot d$ can be further deduced.[^2] You will notice that the relationship does not depend upon the specific standard chosen---one can just as easily measure in inches, or miles, or lightyears, without changing the relationship between the circumference and the diameter. 
 
->\[...] the standard provides only the form of notation, not the substance nor the result of the process of measuring. The facts established by measurement will be the same, regardless of the particular standard used; the standard can neither alter nor affect them. The requirements of a standard of measurement are: that it represent the appropriate attribute, that it be easily [[note/Sense Perception\|perceivable]] by man and that, once chosen, it remain immutable and absolute whenever used.[^3]
+>\[...] the standard provides only the form of notation, not the substance nor the result of the process of measuring. The [[note/Fact\|facts]] established by measurement will be the same, regardless of the particular standard used; the standard can neither alter nor affect them. The requirements of a standard of measurement are: that it represent the appropriate attribute, that it be easily [[note/Sense Perception\|perceivable]] by man and that, once chosen, it remain immutable and absolute whenever used.[^3]
 
 [^1]: [[ITOE\|ITOE]], 7
 [^2]: On this, see: [[note/The Differing Challenges of Explicating a Standard of Measurement\|The Differing Challenges of Explicating a Standard of Measurement]]

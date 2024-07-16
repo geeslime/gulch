@@ -46,7 +46,7 @@ Note here that relationships themselves are a [[note/Entity and Property (BPC)\|
 
 > Relationships are not the same thing as [[note/Conditioning Connections (BPC)\|conditioning connections.]] Relationships are the way that [[note/Entity and Property (BPC)\|properties of some entities]] condition the properties of other entities. 
 > 
-> On the other hand, conditioning connections refer to any two facts conditioning one another. For example, the speed of a ball is conditioned by the speed of a bat that struck it. A [[characteristic\|characteristic]] of an [[action\|action]]—the speed of the bat—conditions the characteristic of another action, the speed of the ball. 
+> On the other hand, conditioning connections refer to any two [[note/Fact\|facts]] conditioning one another. For example, the speed of a ball is conditioned by the speed of a bat that struck it. A [[characteristic\|characteristic]] of an [[action\|action]]—the speed of the bat—conditions the characteristic of another action, the speed of the ball. 
 >
 > We want a word for *how two characteristics can be connected without talking about the specific ways that the entities involved condition one another.* Even though we want to talk about the *connection* before we understand the relationship that gives rise to it, we still have to **remember that there is a relationship.** If Kepler had just noted a correlation between the distance and the orbital period and then stopped there without thinking of **the relationship which was behind that correlation,** science just wouldn't have progressed.
 

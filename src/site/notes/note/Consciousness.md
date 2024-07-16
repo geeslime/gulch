@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Consciousness is the faculty of perceiving that which exists. Per Ayn Rand, Consciousness is the faculty of awareness---the faculty of perceiving that which exists." />
+  <meta property="og:description" content="Consciousness is the faculty of perceiving [[note/Fact\|that which]] exists. Per Ayn Rand, Consciousness is the faculty of awareness---the faculty of perceiving that which exists." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/consciousness/" />
   <meta property="og:site_name" content="gulch" />

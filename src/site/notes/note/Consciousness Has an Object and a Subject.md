@@ -11,7 +11,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Consciousness is a relationship between a subject (the organism possessing the faculty of consciousness) and an object (that which the organism is aware of). In other words, being conscious always involves being conscious of something. This basic idea underpins the characteristics of awareness." />
+  <meta property="og:description" content="Consciousness is a relationship between a subject (the organism possessing the faculty of consciousness) and an object ([[note/Fact\|that which]] the organism is aware of). In other words, being conscious always involves being conscious of something. This basic idea underpins the characteristics of awareness." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/consciousness-has-an-object-and-a-subject/" />
   <meta property="og:site_name" content="gulch" />
@@ -25,7 +25,7 @@
 | 4. [[note/Consciousness is a Biological Faculty\|Consciousness is a Biological Faculty]].                                                                                                                                                                   |
 
 
-[[note/Consciousness\|Consciousness]] is a [[note/Relationship (BPC)\|relationship]] between a subject (the organism possesing the faculty of consciousness) and an object ([[Fact\|that which]] the organism is aware of). In other words, [[note/A Consciousness Conscious Only of Itself\|being conscious always involves being conscious of some*thing*]]. This basic idea underpins [[note/Four Fundamentals Characteristics of Consciousness\|the characteristics of awareness]].
+[[note/Consciousness\|Consciousness]] is a [[note/Relationship (BPC)\|relationship]] between a subject (the organism possesing the faculty of consciousness) and an object ([[note/Fact\|that which]] the organism is aware of). In other words, [[note/A Consciousness Conscious Only of Itself\|being conscious always involves being conscious of some*thing*]]. This basic idea underpins [[note/Four Fundamentals Characteristics of Consciousness\|the characteristics of awareness]].
 
 Awareness begs the question, *awareness of what?* Awareness *implies* an [[note/The Law of Identity\|object]] of awareness. [[note/The Attack on the Senses from their Limitation\|You can’t see without seeing something]], [[note/The Arbitrary as Neither True nor False\|nor can you think without thinking about something]]. [[note/The Levels of Consciousness\|Every act of awareness]] is *directed* towards an object, be it [[Abstract vs. Concrete\|concrete or abstract]].
 

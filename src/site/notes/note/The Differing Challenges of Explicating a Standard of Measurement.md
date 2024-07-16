@@ -24,7 +24,7 @@ On the one hand, it is relatively trivial to understand the relationship that 3 
 
 The same is true of the measurements of different shapes---it is easy to calculate the area of a square, harder to do so for a circle, and to do so for any shape requires the complex [[Mathematics\|mathematics]] of [[Calculus\|calculus]].
 
->A form of measurement, in sum, makes concept-formation possible---and concepts in turn make numerical measurement possible. This interdependence reflects a fundamental fact about human cognition: the perspective essential to both processes--the quantitative reduction to a unit--is the same.[^3]
+>A form of measurement, in sum, makes concept-formation possible---and concepts in turn make numerical measurement possible. This interdependence reflects a fundamental [[note/Fact\|fact]] about human cognition: the perspective essential to both processes--the quantitative reduction to a unit--is the same.[^3]
 
 [^1]: See: [[note/The Metaphysical Status of Concepts\|The Metaphysical Status of Concepts]]
 [^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], 86

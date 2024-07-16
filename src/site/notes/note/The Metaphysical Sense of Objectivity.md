@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="In metaphysics, objective means independent of consciousness---a fact is objective if it is what it is independent of consciousness. The objective is that which cannot be willed away." />
+  <meta property="og:description" content="In metaphysics, objective means independent of consciousness---a [[note/Fact\|fact]] is objective if it is what it is independent of consciousness. The objective is [[note/Fact\|that which]] cannot be willed away." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/the-metaphysical-sense-of-objectivity/" />
   <meta property="og:site_name" content="gulch" />

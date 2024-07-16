@@ -29,7 +29,7 @@ A wicker fence is a **composite entity** with many interwoven sticks **as contiu
 
 Once a whole has properties of its own, then that whole is a single [[note/Entity\|entity.]] 
 
-Furthermore, composite entities relate to other external entities as a whole; the way composite entities come into relationships with other external entities is not based on the properties of the **contituent parts** but based on the properties of the fence as a whole **composite entity.** This fact has two aspects:
+Furthermore, composite entities relate to other external entities as a whole; the way composite entities come into relationships with other external entities is not based on the properties of the **contituent parts** but based on the properties of the fence as a whole **composite entity.** This [[note/Fact\|fact]] has two aspects:
 
 (1) **Properties of the whole are conditioned by other entities;** when a composite entity is in a **relationship** with an **exterior entity,** the properties of the composite entity *as a whole* are altered **by the relationship.** When an animal presses against the fence, it bends the whole fence, bending all the sticks, not just one of them, *because the sticks are interwoven.* 
 

@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Objectivism is the philosophy developed by Ayn Rand and derived from Aristotle, which is based on the fact that reality exists as an objective absolute, that mans mind--his reason--is his sole..." />
+  <meta property="og:description" content="Objectivism is the philosophy developed by Ayn Rand and derived from Aristotle, which is based on the [[note/Fact\|fact]] that reality exists as an objective absolute, that mans mind--his reason--is his sole..." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/objectivism/" />
   <meta property="og:site_name" content="gulch" />

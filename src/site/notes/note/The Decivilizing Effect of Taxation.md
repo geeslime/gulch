@@ -17,7 +17,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-The most destructive aspect of [[Taxation\|taxation]] is that it has this underlying decivilizing effect on [[The Economy\|the economy]], due to its impact on individuals' [[Time Preference\|time preferences]]. The positing of taxation runs counter to the natural tendency of time preference to fall, as it creates disincentives for saving and [[Production (Economics)\|production]]. The prospect of being taxed for one's efforts to produce or save leads to an increase in time preference.
+The most destructive aspect of [[Taxation\|taxation]] is that it has this underlying decivilizing effect on [[The Economy\|the economy]], due to its impact on individuals' [[doo/Time Preference\|time preferences]]. The positing of taxation runs counter to the natural tendency of time preference to fall, as it creates disincentives for saving and [[Production (Economics)\|production]]. The prospect of being taxed for one's efforts to produce or save leads to an increase in time preference.
 
 Moreover, taxation has the potential to reverse the natural tendency, pushing society towards a path of [[Apocalypse\|decivilization and bare subsistence living]]. Through the means of coercive, [[Theft\|non-contractual transfers of physical assets from rightful owners]], who could have derived [[Profit\|income]] from them, to the recievers of these expropriated [[Goods (Economics)\|goods]].
 

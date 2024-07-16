@@ -27,7 +27,7 @@
 >
 >\[...]
 >
->[[note/God as a Rejection of the Basic Axioms\|Every argument commonly offered for the notion of God leads to a contradiction of the axiomatic concepts of philosophy]]. At every point, the notion clashes with the facts of reality and with the preconditions of thought. This is as true of the professional theologians' arguments and ideas as of the popular treatments.
+>[[note/God as a Rejection of the Basic Axioms\|Every argument commonly offered for the notion of God leads to a contradiction of the axiomatic concepts of philosophy]]. At every point, the notion clashes with the [[note/Fact\|facts of reality]] and with the preconditions of thought. This is as true of the professional theologians' arguments and ideas as of the popular treatments.
 >
 >The point is broader than [[Religion\|religion]]. It is inherent in any advocacy of a transcendent dimension. Any attempt to defend or define the supernatural must necessarily collapse in fallacies. There is no [[Logic\|logic]] that will lead one from the facts of this world to a realm contradicting them; there is no concept formed by observation of nature that will serve to characterize its antithesis. [[note/Inference\|Inference]] from the natural can lead only to *more of the natural*, i.e., to [[note/The Law of Causality\|limited]], [[note/Infinity as a Floating Abstraction\|finite]] [[note/Entity\|entities]] acting and interacting in accordance with their [[note/The Law of Identity\|identities]]. Such entities do not fulfill the requirements of "God" or even of "poltergeist." As far as [[Reason\|reason]] and logic are concerned, [[note/Existence Exists\|existence exists]], and *only* existence exists.
 >

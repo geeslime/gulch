@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="The function of the senses, Ayn Rand holds, is to sum up a vast range of facts, to condense a complex body of information---which reaches our consciousness in the form of a relatively few..." />
+  <meta property="og:description" content="The function of the senses, Ayn Rand holds, is to sum up a vast range of [[note/Fact\|facts]], to condense a complex body of information---which reaches our consciousness in the form of a relatively few..." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/the-senses-as-condensing-complex-information/" />
   <meta property="og:site_name" content="gulch" />

@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="The facts ... belie any equation of consciousness with mysticism. Consciousness is an attribute of perceived entities here on earth." />
+  <meta property="og:description" content="The [[note/Fact\|facts]] ... belie any equation of consciousness with mysticism. Consciousness is an attribute of perceived entities here on earth." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/consciousness-as-naturalistic/" />
   <meta property="og:site_name" content="gulch" />

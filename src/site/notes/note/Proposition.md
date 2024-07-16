@@ -25,7 +25,7 @@ A **proposition** is defined as "a [[The Role of Grammar In Propositions\|gramma
 According to Rand:
 >  [[note/Concept-Formation as an Algebraic Process\|Since concepts, in the field of cognition, perform a function similar to that of numbers in the field of mathematics]], [[The Cognitive Function of a Proposition\|the function of a proposition]] is similar to that of an equation: it applies  [[note/Abstraction\|conceptual abstractions]] to a specific problem.[^2]
 
-This analogy highlights that just as equations apply [[Mathematics\|mathematical]] abstractions to solve specific problems, propositions apply [[note/Abstraction\|conceptual abstractions]] to identify specific [[facts\|facts]] about [[note/Existence Exists\|reality]].
+This analogy highlights that just as equations apply [[Mathematics\|mathematical]] abstractions to solve specific problems, propositions apply [[note/Abstraction\|conceptual abstractions]] to identify specific [[note/Fact\|Fact]] about [[note/Existence Exists\|reality]].
 
 [[note/Sentences\|A proposition must be distinguished from the sentence used to express it]]. A sentence is a series of words; the proposition is the [[note/Conscious Content\|cognitive content]] of the sentence, distinguished from its linguistic form.(More technically, a proposition represents the form of a [[Cognitive Judgement\|judgment]], in abstraction from whether one is asserting it, denying it, considering it, etc.)
 
