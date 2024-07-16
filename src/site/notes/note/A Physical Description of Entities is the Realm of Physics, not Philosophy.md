@@ -29,8 +29,8 @@ He then goes on to explain that:
 1. [[note/A Physical Description of Entities does not Negate The Metaphysical Status of Sensory Qualities\|this does not invalidate the metaphysical status of sensory qualities]], and;
 2. [[note/A Physical Description of Entities does not Negate Their Existence\|this does not negate the existence of entities]].
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 44
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 45
+[^1]: [[OPAR\|OPAR]], p. 44
+[^2]: [[OPAR\|OPAR]], p. 45
 
 <body>
   

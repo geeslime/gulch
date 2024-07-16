@@ -43,7 +43,7 @@
 > 
 >The opponents of these axioms pose as defenders of truth, but it is only a pose. Their attack on the self-evident amounts to the charge: "Your belief in an idea doesn't necessarily make it true; you must prove it, because [[note/Fact\|facts]] are what they are independent of your beliefs." Every element of this charge relies on the very axioms that these people are questioning and supposedly setting aside. 
 
-[^1]: "Existence, Consciousness, and Identity as the Basic Axioms," in [[notes/OPAR\|notes/OPAR]]OPAR]].
+[^1]: "Existence, Consciousness, and Identity as the Basic Axioms," in [[OPAR\|OPAR]]OPAR]].
 
 <body>
 <!-- Disqus Comments Section -->

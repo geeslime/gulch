@@ -22,7 +22,7 @@ This is the individualistic version of the [[note/Primacy of the Social Consciou
 
 > [[note/Epistemology\|Epistemologically]], therefore, there are no standards or data of any kind to which a person must conform. There is only truth "for me" vs. truth "for you"---which truth is, for any individual, whatever he arbitrarily decrees it to be.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 23
+[^1]: [[OPAR\|OPAR]], p. 23
 
 <body>
 <!-- Disqus Comments Section -->

@@ -30,8 +30,8 @@ I use the term *analysis* as a stand-in for two possible functions: [[Thought\|t
 
 Trivially, then, if focus refers to an active and purposeful analysis of percepts, then *drift*--its counterpart--is to relax ones mind---it is to *not* focus.[^3]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 56
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 56
+[^1]: [[OPAR\|OPAR]], p. 56
+[^2]: [[OPAR\|OPAR]], p. 56
 [^3]: Note: this is not a binary, there are several [[note/Mental Focus as Having Degrees\|degrees of mental focus]].
 
 <body>

@@ -28,7 +28,7 @@ Second, the thought about $x$[^2] will exist with a certain [[Psychological Inte
 
 >A concept pertaining to consciousness is a mental integration of t w o or more instances of a psychological process possessing the same distinguishing characteristics, with the particular contents and the measurements of the action's intensity omitted—on the principle that these omitted measurements must exist in some quantity, but may exist in any quantity (i.e., a given psychological process must possess some content and some degree of intensity, but may possess any content or degree of the appropriate category).[^3]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], 92; punctuation modified.
+[^1]: [[OPAR\|OPAR]], 92; punctuation modified.
 [^2]: See: [[note/Concept-Formation as an Algebraic Process\|Concept-Formation as an Algebraic Process]]
 [^3]: [[ITOE\|ITOE]], 31-32
 

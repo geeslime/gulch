@@ -24,8 +24,8 @@ Various philosophers have attempted to identify and list so-called "categories" 
 
 This is the error of [[Heraclitus\|Heraclitus]]' [[Heraclitian Flux\|world of pure action]]; and the [[Pythagorean\|Pythagorean]]'s [[Pythagorean World of Numbers\|world of numbers]]---there is not change without the things that are changing, and no quantity without the things being quantified. The fundamental constituents of the world are [[note/Entity\|entities]]---if someone tells you that he saw 7 the other day, you ask 7 *what*; and if he says that he saw digesting the other day, you ask *what* was doing the digesting?
 
-[^1]: This list is taken from [[notes/OPAR\|notes/OPAR]]OPAR]], p. 13
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 13-14
+[^1]: This list is taken from [[OPAR\|OPAR]], p. 13
+[^2]: [[OPAR\|OPAR]], pp. 13-14
 
 <body>
 <!-- Disqus Comments Section -->

@@ -26,7 +26,7 @@ Naïve realism accepts [[note/The Metaphysical Status of Sensory Qualities\|the 
 >
 >Once again, the only accurate name for the Objectivist viewpoint is "[[note/Objectivism\|Objectivism]]."[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 48
+[^1]: [[OPAR\|OPAR]], p. 48
 
 <body>
 <!-- Disqus Comments Section -->

@@ -44,4 +44,3 @@ Another example of this error present in [[note/Epistemology\|epistemology]], is
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </body>
-</body>

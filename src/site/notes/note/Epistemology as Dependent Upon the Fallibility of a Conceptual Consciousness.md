@@ -26,7 +26,7 @@ Given that man can err--[[note/The Validation of Free Will\|that he can detatch 
 
 It is because man's [[note/Consciousness\|consciousness]] is fallible that he requires epistemology: if man's consciousness was automatic, he would have no possibility of using a method of validation; if it was infallible, he would have no need for such a method.
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 38
+[^1]: [[OPAR\|OPAR]], p. 38
 
 <body>
 <!-- Disqus Comments Section -->

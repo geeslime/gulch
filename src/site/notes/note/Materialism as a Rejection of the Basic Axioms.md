@@ -22,7 +22,7 @@
 >
 >[[people/Ayn Rand\|Ayn Rand]] describes materialists as "[[Mystics of Muscle\|mystics of muscle]]"---"[[note/Mysticism\|mystics]]" because, like [[note/Idealism\|idealists]], they reject the faculty of [[Reason\|reason]]. Man, they hold, is essentially a body without a mind. His conclusions, accordingly, reflect not the [[note/The Meaning of Objectivity\|objective]] methodology of reason and [[Logic\|logic]], but the blind operation of physical factors, such as atomic dances in the cerebrum, glandular squirtings, S-R conditioning, or the tools of production moving in that weird, waltzlike contortion known as the dialectic process.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 33
+[^1]: [[OPAR\|OPAR]], p. 33
 
 <body>
 <!-- Disqus Comments Section -->

@@ -26,10 +26,10 @@ The difference is borne from the [[note/Fact\|fact]] that on the perceptual leve
 
 >In the act of looking at a table now, you are aware of its solidity---of the fact that, unlike brown water, it will bar your path if you try to walk through it; of its texture---unlike sandpaper, it will feel smooth to your fingertips; of many visual aspects outside the range of your glance, such as the underside of the top and the backs of the legs; of the heft you will feel if you lift the object; of the thud you will hear if you bang on it. All this sensory information (and much more) is tied to and cued by your present visual sensation. The result is your ability, when you look out, to see not merely a patch of brown, but a table.[^4]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 52
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 52
-[^3]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 53
-[^4]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 53
+[^1]: [[OPAR\|OPAR]], p. 52
+[^2]: [[OPAR\|OPAR]], p. 52
+[^3]: [[OPAR\|OPAR]], p. 53
+[^4]: [[OPAR\|OPAR]], p. 53
 
 <body>
 <!-- Disqus Comments Section -->

@@ -30,7 +30,7 @@ Examples include:
 > It is, of course, proper to evaluate physical concretes in relation to a human goal, assuming that the goal is rational and that the concretes are alterable by human action. For example, it is valid to estimate a barren desert as "bad," not in the sense of its being "wrong," but of its being "inhospitable to human life." Such estimation is not an example of evaluating or condemning metaphysical reality.[^2]
 
 [^1]: [[PWNI\|PWNI]], p. 27
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], ch. 1, n. 16, p. 464
+[^2]: [[OPAR\|OPAR]], ch. 1, n. 16, p. 464
 
 <body>
 <!-- Disqus Comments Section -->

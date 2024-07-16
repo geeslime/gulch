@@ -23,7 +23,7 @@
 >
 >Even under the present hypothesis, such objects and qualities [[note/The Primacy of Existence vs The Primacy of Consciousness\|would not be products of consciousness]]. Their [[note/Existence Exists\|existence]] would be a *[[note/Metaphysically Given\|metaphysically given]] fact*; it would be a consequence of certain puff-interactions that is outside of man's power to create or destroy. The things we perceive, in this theory, would not be primaries, but they would nevertheless be unimpeachably real.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 45
+[^1]: [[OPAR\|OPAR]], p. 45
 
 <body>
 <!-- Disqus Comments Section -->

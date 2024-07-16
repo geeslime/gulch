@@ -22,7 +22,7 @@ Omnipotence means unlimited ability---in precise terms it is the ability of an [
 
 >"Supernatural," etymologically, means [[note/Fact\|that which]] is above or beyond nature. "Nature," in turn, denotes existence viewed from a certain perspective. Nature is existence regarded as a system of interconnected entities governed by law; it is the universe of entities acting and interacting in accordance with their identities. What then is a "super-nature"? It would have to be a form of existence beyond existence; a thing beyond entities; a something beyond identity.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 31
+[^1]: [[OPAR\|OPAR]], p. 31
 
 <body>
 <!-- Disqus Comments Section -->

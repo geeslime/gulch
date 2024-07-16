@@ -22,7 +22,7 @@ There have been various methods to [[note/The Attack on the Senses from their Li
 
 >Those who condemn the senses as deceptive on the grounds that sense qualities are merely effects on men are guilty of rewriting reality. Their viewpoint amounts to an ultimatum delivered to the universe: "I demand that the senses give me not effects, but irreducible primaries. That is how *I* would have [[note/The Primacy of Existence vs The Primacy of Consciousness\|created reality]]." As in all cases of this fallacy, such a demand ignores the [[note/Fact\|fact]] that what is [[note/Metaphysically Given\|metaphysically given]] [[note/The Metaphysically Given as Absolute\|is an absolute]]. [[note/Sense Perception\|Perception]] is necessarily a process of interaction: there is no way to perceive an object that does not somehow impinge on one's body. Sense qualities, therefore, must be [[note/The Law of Causality\|effects]]. To reject the senses for this reason is to reject them for existing---while yearning for a fantasy form of perception that in logic is not even thinkable.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 48
+[^1]: [[OPAR\|OPAR]], p. 48
 
 <body>
 <!-- Disqus Comments Section -->

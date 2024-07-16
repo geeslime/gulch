@@ -24,8 +24,8 @@ Another important point, implicit in the above, is that a sensation lasts only a
 
 >The most primitive conscious organisms appear to possess only the capacity of sensation. The conscious life of such organisms is the experience of isolated, fleeting data---fleeting, because the organisms are bombarded by a flux of stimuli. These creatures confront a kaleidoscopic succession of new worlds, each swept away by the next as the stimuli involved fade or change. Since such consciousnesses do not retain their mental contents, they can hardly detect relationships among them. To such mentalities, the universe is, in [[William James\|William James]]'s apt description, a "blooming, buzzing confusion."[^2]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 52
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 52
+[^1]: [[OPAR\|OPAR]], p. 52
+[^2]: [[OPAR\|OPAR]], p. 52
 
 <body>
 <!-- Disqus Comments Section -->

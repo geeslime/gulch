@@ -22,7 +22,7 @@ Hallucinations and dreams are often cited in an attempt to negate [[note/The Val
 
 >Once a mind acquires a certain content of sensory material, it can, as in the case of dreams, contemplate its own content rather than external reality. This is not sense perception at all, but a process of turning inward, made possible by the fact that the individual, through perception, first acquired some sensory contents. Nor, as Aristotle observed, is there any difficulty in distinguishing dreams from perception. The concept of "dream" has meaning only because it denotes a contrast to wakeful awareness. If a man were actually unable to recognize the latter state, the word "dream" to him would be meaningless.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 41
+[^1]: [[OPAR\|OPAR]], p. 41
 
 <body>
 <!-- Disqus Comments Section -->

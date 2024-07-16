@@ -20,7 +20,7 @@
 
 >In regard to [[note/Epistemology\|epistemology]], [[people/Ayn Rand\|Ayn Rand]] describes the [[note/Idealism\|idealists]] as [[note/Mysticism\|mystics]], "mystics of spirit." They are mystics because they hold that [[Knowledge\|knowledge]] (of true reality) derives not from [[note/Sense Perception\|sense perception]] or from [[Reason\|reasoning]] based on it, but from an otherworldly source, such as revelations or the equivalent. The more sophisticated versions of idealism rest on technical analyses of the nature of [[note/Percept\|percepts]] or [[note/Concept\|concepts]]; ***these analyses will be considered in later chapters*** #todo. The unsophisticated but popular version of idealism, which typically upholds a personalized other dimension, is [[Religion\|religion]]. Essential to all versions of the creed, however--and to countless kindred movements--is the belief in the *[[note/Omnipotence\|supernatural]]*.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 30-31
+[^1]: [[OPAR\|OPAR]], pp. 30-31
 
 <body>
 <!-- Disqus Comments Section -->

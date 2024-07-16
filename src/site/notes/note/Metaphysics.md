@@ -23,7 +23,7 @@ Metaphysics is the branch of philosophy that studies the nature of the universe 
 
 >\[...] the essence of metaphysics, according to [[note/Objectivism\|Objectivism]], is the step-by-step development of the [[note/Corollary\|corollaries]] of the [[note/Existence Exists\|existence axiom]].[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 16
+[^1]: [[OPAR\|OPAR]], p. 16
 
 <body>
 <!-- Disqus Comments Section -->

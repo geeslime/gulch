@@ -26,7 +26,7 @@ This can be [[note/Validation\|validated]] by direct [[Introspection\|introspect
 
 This concept of degrees of focus is found in the idea of "mindfulness"---it is actively turning your awareness completely and without fault towards whatever you are doing at all times. To eat mindfully is not to watch a YouTube video whilst you eat, but to focus on the texture, taste, smell, etc., of whatever it is you are eating.
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 56-57
+[^1]: [[OPAR\|OPAR]], pp. 56-57
 
 <body>
 <!-- Disqus Comments Section -->

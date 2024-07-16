@@ -24,7 +24,7 @@ There exists a tendency in philosophy to attempt to negate the [[note/Existence 
 >Such objects, moreover, would have to be discovered by anyone who wished to know the full nature of the universe. If somehow, [[note/Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws\|like the fictitious atoms of our example]], a man were able to grasp the puffs directly, he would still have to discover the [[note/Fact\|fact]] that among their attributes is the [[Potential\|potentiality]], when appropriately combined, of generating a world of solid objects, with the qualities of color, texture, size, shape, and the rest. He who knew the puffs but not this potentiality would not know an aspect of reality that we already do know.[^2]
 
 [^1]: See: [[note/A Physical Explanation for Consciousness or Free Will does not Negate Their Existence\|A Physical Explanation for Consciousness or Free Will does not Negate Their Existence]]
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 45-46
+[^2]: [[OPAR\|OPAR]], pp. 45-46
 
 <body>
 <!-- Disqus Comments Section -->

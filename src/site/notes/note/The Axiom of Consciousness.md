@@ -25,7 +25,7 @@ The act of grasping the first [[note/The Fundamental Axioms of Metaphysics\|axio
 The fact of consciousness is and must be [[note/Axioms as Irreducible Primaries\|an irreducible primary]]--an inescapable fact--a fundamental starting point--in any act of cognition. No matter the particular subject matter that a man studies, it must be true that he is studying *something*, which means he is *studying* something. This is not, nor could it be, negated by any *explanation* of consciousness, [[note/A Physical Explanation for Consciousness or Free Will does not Negate Their Existence\|contrary to what some think]]: that scientists uncover the physical mechanisms that underlie consciousness does not negate consciousness, and similarly that religious [[note/Mysticism\|mystics]] uncover some spiritual "soul" driving conscious thought would also not negate consciousness. Ultimately both the [[note/Mystics of Spirit\|mystics of spirit]] and the [[Mystics of Muscle\|mystics of muscle]] are still engaged in a *study* of something that exists---they are and must be conscious.
 
 [^1]: The term "consciousness" should be taken here to mean the faculty of perceiving that which exists, which rules out the common notion of [[note/A Consciousness Conscious Only of Itself\|a pure self-consciousness]].
-[^2]: "Existence, Consciousness, and Identity as the Basic Axioms," in [[notes/OPAR\|notes/OPAR]]OPAR]].
+[^2]: "Existence, Consciousness, and Identity as the Basic Axioms," in [[OPAR\|OPAR]].
 
 <body>
 <!-- Disqus Comments Section -->

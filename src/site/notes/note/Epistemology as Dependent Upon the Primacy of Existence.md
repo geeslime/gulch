@@ -24,7 +24,7 @@ What this means in explicit terms is that epistemology does and must rest upon [
 
 > If the mind wishes to know existence, therefore, it must conform *to* existence. On the opposite metaphysics, [[people/Ayn Rand\|Ayn Rand]] holds, epistemology would be neither necessary nor possible. If thought created reality, no science offering guidance to thought would be applicable; consciousness could assert whatever it wished, and reality would obey.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 37-38
+[^1]: [[OPAR\|OPAR]], pp. 37-38
 
 <body>
 <!-- Disqus Comments Section -->

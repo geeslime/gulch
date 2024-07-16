@@ -24,7 +24,7 @@ This viewpoint is not only false on the grounds that [[note/The Law of Identity\
 
 >Most of the traditional opponents of determinism have regarded free will as mystical, as an attribute of an otherworldly soul that is antithetical to science and to man's this-worldly [[Reason\|reason]]. The classic expression of this viewpoint is the disastrous [[Immanuel Kant\|Kantian]] slogan, "God, freedom, and immortality," which has had the effect of making "freedom" laughable by equating it with two [[note/Common Bromides\|bromides]] of [[note/Omnipotence\|supernaturalism]]. What reputable thinker cares to uphold [[note/Free Will\|volition]] if it is offered under the banner, "ghosts, choice, and the Pearly Gates"?[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 72
+[^1]: [[OPAR\|OPAR]], p. 72
 
 <body>
 <!-- Disqus Comments Section -->

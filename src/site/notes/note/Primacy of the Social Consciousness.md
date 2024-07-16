@@ -26,7 +26,7 @@ Implicit in this is the social form of the primacy of consciousness, which state
 > 
 > Today, the social variant is at the height of its popularity. We hear on all sides that there are no objective [[note/Fact\|facts]], but only "human" truth, truth "for man"---and lately that even this is unattainable, since there is only national, racial, sexual, or homosexual truth. In this view, the group acquires the [[note/Omnipotence\|omnipotence]] once ascribed to [[God\|God]]. Thus, to cite a political example, when the government enacts some policy (such as runaway spending) that must in logic have disastrous consequences (such as national bankruptcy), the policy's defenders typically deal with the problem by fudging all figures, then asking for "optimism" and [[Faith\|faith]]. "If people believe in the policy," we hear, "if they want the system to work, then it will." The implicit premise is: "A group can override facts; men's mental contents can coerce reality."[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 22
+[^1]: [[OPAR\|OPAR]], p. 22
 
 <body>
 <!-- Disqus Comments Section -->

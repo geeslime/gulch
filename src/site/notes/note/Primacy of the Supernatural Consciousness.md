@@ -25,7 +25,7 @@ This [[note/Fact\|fact]]--that they accept there to be an irreducible primary--i
 
 >According to Christianity (and Judaism), God is an infinite consciousness who created existence, [[Order as Requiring Divine Sustinance\|sustains it]], makes it lawful, then periodically subjects it to decrees that flout the regular order, thereby producing "[[Miracle\|miracles]]." [[note/Epistemology\|Epistemologically]], this variant leads to [[note/Mysticism\|mysticism]]: knowledge is said to rest on communications from the Supreme Mind to the human, whether in the form of revelations sent to select individuals or of ideas implanted, innately or otherwise, throughout the species.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 21
+[^1]: [[OPAR\|OPAR]], p. 21
 
 <body>
 <!-- Disqus Comments Section -->

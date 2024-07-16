@@ -22,7 +22,7 @@ Treating "infinity" as an [[Actual\|actual]] rather than a [[Potential\|potentia
 
 >"Infinite" does not mean large; it means larger than *any* [[Abstract vs. Concrete\|specific]] quantity, i.e., of *no* specific quantity. An infinite quantity would be a quantity without identity. But [[note/The Law of Identity\|A is A]]. Every [[note/Entity\|entity]], accordingly, is finite; it is limited in the number of its qualities and in their extent; this applies to the universe as well. As [[people/Aristotle\|Aristotle]] was the first to observe, the concept of "infinity" denotes merely a potentiality of indefinite addition or subdivision. For example, one can continually subdivide a line; but however many segments one has reached at a given point, there are only that many and no more. The *actual* is always finite.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 31-32
+[^1]: [[OPAR\|OPAR]], pp. 31-32
 
 <body>
 <!-- Disqus Comments Section -->

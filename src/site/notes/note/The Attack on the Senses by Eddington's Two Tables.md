@@ -28,7 +28,7 @@ This is one form of [[note/The Attack on the Senses from their Limitation\|the f
 >
 >As to the claim that the racing particles, [[note/A Physical Description of Entities does not Negate Their Existence\|puffs]], or whatever that make up tables do not "look like" the peaceful brown things on which we eat in daily life, this is the literal reverse of the truth. "Looks" *means* "appears to our visual sense." The brown things are exactly what the puffs "look like." There are not "two tables." The brown things are a particular combination of the primary ingredients of reality; they are those ingredients as perceived by man.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 47-48
+[^1]: [[OPAR\|OPAR]], pp. 47-48
 
 <body>
 <!-- Disqus Comments Section -->

@@ -19,7 +19,7 @@
 
 >"Action" here means the [[Metaphysical Action\|action]] of [[note/Consciousness\|consciousness]] in regard to its [[note/Conscious Content\|content]], such as thinking, remembering, imagining. [[note/The Attack on the Senses from their Limitation\|Awareness, as we know, is not a passive condition]], but a process of continuous activity.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], 92
+[^1]: [[OPAR\|OPAR]], 92
 
 <body>
 <!-- Disqus Comments Section -->

@@ -33,7 +33,7 @@
 >
 >If one is to postulate a supernatural realm, one must turn aside from reason, eschew proofs, dispense with definitions, and rely instead on [[Faith\|faith]]. Such an approach shifts the discussion from [[note/Metaphysics\|metaphysics]] to [[note/Epistemology\|epistemology]].[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 31-32
+[^1]: [[OPAR\|OPAR]], pp. 31-32
 
 <body>
 <!-- Disqus Comments Section -->

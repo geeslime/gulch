@@ -28,8 +28,8 @@ They, of course, neglect to provide any evidence that these physically smaller p
 
 >Higher-level concepts represent a relatively advanced state of knowledge. They represent knowledge available only to a mind that has already engaged in the requisite conceptualization. For instance, a child just emerging from the perceptual period cannot start conceptualizing by uniting his father, his dog, and a rosebush into the concept "organism." Only when the child has first conceptualized separately the various perceptually given entities is he capable of the more extensive acts of abstraction and integration that identify their common denominators. These latter are not available on the perceptual level, because only concretes exist: there are no such things as "organisms" to be seen---there are only men, dogs, roses. Similarly, a child cannot identify distinctions among men--he cannot grasp types of men, such as doctor or teacher--until he has first grasped and conceptualized man.[^2]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], 91
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], 91
+[^1]: [[OPAR\|OPAR]], 91
+[^2]: [[OPAR\|OPAR]], 91
 
 <body>
 <!-- Disqus Comments Section -->

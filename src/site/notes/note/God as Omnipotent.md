@@ -23,7 +23,7 @@
 
 >Is God [[note/Omnipotence\|omnipotent]]? [[note/The Metaphysically Given as Absolute\|Nothing and no one can alter the metaphysically given]].[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 31
+[^1]: [[OPAR\|OPAR]], p. 31
 
 <body>
 <!-- Disqus Comments Section -->

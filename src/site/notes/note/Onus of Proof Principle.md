@@ -38,11 +38,11 @@ The principle also extends to [[possibilities\|possibilities]]. To claim that so
 
 >[[note/The Primacy of Existence vs The Primacy of Consciousness\|Objectivism's refutation of theism]] is not a case of "proving a negative" in the sense vetoed by the onus-of-proof principle. Ayn Rand does not start with a zero and seek to discover evidence of God's nonexistence. She starts with reality, i.e., with (philosophically) known [[note/Fact\|fact]], then denies a claim that clashes with it. Nor does she expect any such refutation to be accepted by [[note/Why Objectivism Rejects Agnosticism\|apostles of the arbitrary]]. These individuals will merely reformulate the claim so as to protect it from evidence, then insist again: "Prove that it is not so." To this demand, there is only one valid response: "I refuse even to attempt such a task." An assertion outside the realm of cognition can impose no cognitive responsibility on a rational mind, neither of proof nor of disproof. [[note/The Arbitrary as Neither True nor False\|The arbitrary is not open to either]]; it simply cannot be cognitively processed. The proper treatment of such an aberration is to refrain from sanctioning it by argument or discussion.[^5]
 
-[^1]: Paraphrased from,[[notes/OPAR\|notes/OPAR]], p. 167
-[^2]: [[notes/OPAR\|notes/OPAR]], p. 167-168
-[^3]: [[notes/OPAR\|notes/OPAR]], p. 168
+[^1]: Paraphrased from,[[OPAR\|OPAR]]67
+[^2]: [[OPAR\|OPAR]]67-168
+[^3]: [[OPAR\|OPAR]]68
 [^4]: [[note/The Plane Crash Example\|Leonard Peikoff's Plane Crash Example]] illustrates the practical application of the onus of proof principle for possibilities.
-[^5]: [[notes/OPAR\|notes/OPAR]], p. 168-169
+[^5]: [[OPAR\|OPAR]]68-169
 
 <body>
 <!-- Disqus Comments Section -->

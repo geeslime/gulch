@@ -28,9 +28,9 @@ By linking our [[note/Proposition\|propositions]] back to sensory data, we keep 
 
 > As [[people/Aristotle\|Aristotle]] observed, it is [[note/Logical Fallacies\|illogical]] to hold that *absolutely everything* has to be proved. **Proof** is indispensable when direct observation *is not* available. But proof *is neither* necessary *nor* possible in regard to the basic information on which all knowledge is based: perceptual data. As important as proof is, it is the secondary, not the primary, means of validating ideas. The *primary* means is direct awareness. Self-evidencies, directly perceived [[note/Fact\|facts]], are what make proof possible. To state the point in an extreme form: proof is what we resort to when something is not self-evident.[^3]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 40 [↩](#fnref-1)
+[^1]: [[OPAR\|OPAR]], p. 40 [↩](#fnref-1)
 
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 120 [↩](#fnref-2)
+[^2]: [[OPAR\|OPAR]], p. 120 [↩](#fnref-2)
 
 [^3]: [[notes/How We Know\|notes/How We Know]]How We Know]], p. 20 [↩](#fnref-3)
 

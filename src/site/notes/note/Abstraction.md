@@ -28,8 +28,8 @@ What is necessary to perform such an abstract differentiation (i.e. differentiat
 
 The cognitive role of abstraction, therefore, cannot be easily under-stated. Abstraction allows man to group different [[Abstract vs. Concrete\|concretes]] according to their similarities, no matter the differences between them---man can isolate these relevant aspects and thereby regard any given object not as a mere entity, but as a *[[note/Unit (Epistemology)\|unit]]*. An animal may be able to recognise such similarities and differences between entities, but "it cannot do anything cognitively with the relationships it perceives. To its consciousness, the noting of similarities is a dead end. Man can do something: he makes such data the basis of a method of cognitive organization. The first step of the method is the mental isolation of a group of similars."[^2]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], 87
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], 78
+[^1]: [[OPAR\|OPAR]], 87
+[^2]: [[OPAR\|OPAR]], 78
 
 <body>
 <!-- Disqus Comments Section -->

@@ -24,7 +24,7 @@
 >
 >Nor will these two men or any other perceiver with an intellect come to different conclusions about the nature of the object. In this respect, *differences in sensory form do not matter*. They have no consequences in regard to the content of cognition.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 42
+[^1]: [[OPAR\|OPAR]], p. 42
 
 <body>
 <!-- Disqus Comments Section -->

@@ -21,7 +21,7 @@
 
 >Is God the creator of the universe? Not if [[note/The Primacy of Existence vs The Primacy of Consciousness\|existence has primacy over consciousness]].[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 31
+[^1]: [[OPAR\|OPAR]], p. 31
 
 <body>
 <!-- Disqus Comments Section -->

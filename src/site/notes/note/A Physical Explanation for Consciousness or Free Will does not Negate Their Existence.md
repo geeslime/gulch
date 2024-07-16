@@ -25,7 +25,7 @@ Similarly, there is already a [[note/The Validation of Free Will\|validation of 
 >There is no valid reason to reject consciousness or to struggle to reduce it to matter; not if such reduction means the attempt to define it out of existence. Even if, someday, consciousness were to be explained scientifically as a product of physical conditions, this would not alter any observed fact. It would not alter the fact that, given those conditions, the attributes and functions of consciousness are what they are. Nor would it alter the fact that in many respects these attributes and functions are unique; they are different from anything observed in unconscious entities. Nor would it alter the fact that one can discover the conditions of consciousness, as of anything else one seeks to know, only through the exercise of consciousness.[^2]
 
 [^1]: I do not use this in [[Phenomenal\|Kantian sense]].
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 34-35
+[^2]: [[OPAR\|OPAR]], pp. 34-35
 
 <body>
   <!-- Disqus Comments Section -->

@@ -45,9 +45,9 @@ The following is a list of some influential instances of the fallacy of attackin
 
 >We can know the content of reality "pure," apart from man's perceptual form; but [[note/The Objectivist Theory of Concepts\|we can do so only by abstracting away man's perceptual form]]---only by starting from sensory data, then performing a complex scientific process. To demand that the senses give us such "pure" content is to rewrite the function of the senses and the mind. It is to demand a blatant contradiction: a sensory image bearing no marks of its sensory character---or a *[[note/Percept\|percept]]* of [[note/Fact\|that which]], by its nature, is the object only of a *[[note/Concept\|concept]]*.[^2]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 48-49
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 48
-[^3]: These examples are from [[notes/OPAR\|notes/OPAR]]OPAR]], p. 49
+[^1]: [[OPAR\|OPAR]], pp. 48-49
+[^2]: [[OPAR\|OPAR]], p. 48
+[^3]: These examples are from [[OPAR\|OPAR]], p. 49
 
 <body>
 <!-- Disqus Comments Section -->

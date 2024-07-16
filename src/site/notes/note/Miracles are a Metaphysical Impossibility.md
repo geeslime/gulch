@@ -20,7 +20,7 @@
 
 >A "miracle" does not mean merely the unusual. If a woman gives birth to twins, that is unusual; if she were to give birth to elephants, that would be a miracle. A miracle is an [[Metaphysical Action\|action]] [[note/The Law of Causality\|not possible]] to the [[note/Entity\|entities]] involved by their [[note/The Law of Identity\|nature]]; it would be a violation of identity.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 32
+[^1]: [[OPAR\|OPAR]], p. 32
 
 <body>
 <!-- Disqus Comments Section -->

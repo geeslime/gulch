@@ -28,7 +28,7 @@ The same is true of the choice of thought or evasion---if an individual engages 
 
 Do note, however, that this is not *[[notes/Philosophy\|philosophy]]*---this observation belongs properly in the realm of *[[Psychology\|psychology]]*. Philosophically-informed psychology to be sure, but psychology nonetheless. 
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 60
+[^1]: [[OPAR\|OPAR]], p. 60
 
 <body>
 <!-- Disqus Comments Section -->

@@ -20,7 +20,7 @@
 
 >Is God the designer of the universe? Not if [[note/The Law of Identity\|A is A]]. The alternative to "design" is not "chance." It is [[note/The Law of Causality\|causality]].[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 31
+[^1]: [[OPAR\|OPAR]], p. 31
 
 <body>
 <!-- Disqus Comments Section -->
