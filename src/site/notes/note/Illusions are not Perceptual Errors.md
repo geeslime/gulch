@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="The senses dont distort, this [[[[fact\|[[fact]]]] is not negated by the existence of illusions such as mirages or the classic one of a stick appearing to bend as it enters water. In such situations the senses have..." />
+  <meta property="og:description" content="The senses dont distort, this fact is not negated by the existence of illusions such as mirages or the classic one of a stick appearing to bend as it enters water. In such situations the senses have..." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/illusions-are-not-perceptual-errors/" />
   <meta property="og:site_name" content="gulch" />
