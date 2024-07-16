@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Truth is the product of the recognition (i.e., identification) of the [[note/Fact\|facts of reality]]. Man identifies and integrates the facts of reality by means of concepts. He retains concepts in his mind..." />
+  <meta property="og:description" content="Truth is the product of the recognition (i.e., identification) of the facts of reality. Man identifies and integrates the facts of reality by means of concepts. He retains concepts in his mind..." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/truth/" />
   <meta property="og:site_name" content="gulch" />

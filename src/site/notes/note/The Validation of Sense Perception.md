@@ -12,7 +12,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="The validity of the senses is an axiom. Like the [[note/Fact\|fact]] of consciousness, the axiom is outside the province of proof because it is a precondition of any proof." />
+  <meta property="og:description" content="The validity of the senses is an axiom. Like the fact of consciousness, the axiom is outside the province of proof because it is a precondition of any proof." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/the-validation-of-sense-perception/" />
   <meta property="og:site_name" content="gulch" />

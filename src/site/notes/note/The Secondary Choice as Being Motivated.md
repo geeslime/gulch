@@ -12,13 +12,13 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="To an evader, a feeling of some kind is more important than truth. A man finds a certain [[note/Fact\|fact]] or policy to be unpleasant, frightening, or guilt-provoking." />
+  <meta property="og:description" content="To an evader, a feeling of some kind is more important than truth. A man finds a certain fact or policy to be unpleasant, frightening, or guilt-provoking." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/the-secondary-choice-as-being-motivated/" />
   <meta property="og:site_name" content="gulch" />
 </head>
 
->To an [[note/Evasion\|evader]], a [[Emotions\|feeling]] of some kind is more important than truth. A man finds a certain fact or policy to be unpleasant, frightening, or guilt-provoking. [[note/Existence Exists\|Reality]] to the contrary notwithstanding, he does not want the fact to be real or the policy to be necessary; so he decides to blank out the offending datum. Or a certain idea or policy gives a man pleasure, reassurance, or relief, and he wants to believe in or practice it, even though he knows that reality is against him in the issue; so he decides to blank out what he knows. Both such men, in [[people/Ayn Rand\|Ayn Rand]]'s words, place an "I wish" above an "It is."
+>To an [[note/Evasion\|evader]], a [[Emotions\|feeling]] of some kind is more important than truth. A man finds a certain [[note/Fact\|fact]] or policy to be unpleasant, frightening, or guilt-provoking. [[note/Existence Exists\|Reality]] to the contrary notwithstanding, he does not want the fact to be real or the policy to be necessary; so he decides to blank out the offending datum. Or a certain idea or policy gives a man pleasure, reassurance, or relief, and he wants to believe in or practice it, even though he knows that reality is against him in the issue; so he decides to blank out what he knows. Both such men, in [[people/Ayn Rand\|Ayn Rand]]'s words, place an "I wish" above an "It is."
 >
 >\[...]
 >
