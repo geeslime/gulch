@@ -12,13 +12,13 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Innate knowledge is [[note/Fact\|that which]] is known without having being learned. An example of this would be the Platonist World of Forms, where knowledge of the forms is said to be eternal." />
+  <meta property="og:description" content="Innate knowledge is that which is known without having being learned. An example of this would be the Platonist World of Forms, where knowledge of the forms is said to be eternal." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/innate-ideas/" />
   <meta property="og:site_name" content="gulch" />
 </head>
 
-"Innate" [[Knowledge\|knowledge]] is that which is known [[note/Innate Knowledge as a Violation of Causality\|without having being learned]]. An example of this would be the [[Platonism\|Platonist]] "[[Plato's World of Forms\|World of Forms]]," where knowledge of the [[note/Concept\|forms]] [[The Platonist Theory of Concepts\|is said to be eternal]].
+"Innate" [[Knowledge\|knowledge]] is [[note/Fact\|that which]] is known [[note/Innate Knowledge as a Violation of Causality\|without having being learned]]. An example of this would be the [[Platonism\|Platonist]] "[[Plato's World of Forms\|World of Forms]]," where knowledge of the [[note/Concept\|forms]] [[The Platonist Theory of Concepts\|is said to be eternal]].
 
 <body>
 <!-- Disqus Comments Section -->
