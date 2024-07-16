@@ -12,13 +12,13 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="Consciousness is the faculty for perceiving [[note/Fact\|that which]] exists---this means that consciousness is not an entity. Entities are self-sufficient existents---consciousness is a faculty possessed by..." />
+  <meta property="og:description" content="Consciousness is the faculty for perceiving that which exists---this means that consciousness is not an entity. Entities are self-sufficient existents---consciousness is a faculty possessed by..." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/consciousness-as-a-non-entity/" />
   <meta property="og:site_name" content="gulch" />
 </head>
 
-[[note/Consciousness\|Consciousness]] is the faculty for perceiving that which exists---this means that consciousness *is not* an [[note/Entity\|entity]]. [[note/The Characteristics of Entities\|Entities are self-sufficient existents]]---consciousness is a faculty possessed by certain existents. Just as "red" or "hot" cannot exist on their own--apart from a thing that is red or hot--so too can "intelligent," "aware," "possessing a conceptual faculty," not exist on their own. [[note/The Attack on the Senses from their Limitation\|This doesn't mean that consciousness lacks identity]]---[[note/Existence is Identity\|existence is identity]], so every existent has identity, and consciousness certainly exists. Rather, what this means is that consciousness is not a *thing*---it is not a *he*, *she*, *it*, it is an attribute: this thing *has* consciousness---one of it's attributes is that it is aware of existence.
+[[note/Consciousness\|Consciousness]] is the faculty for perceiving [[note/Fact\|that which]] exists---this means that consciousness *is not* an [[note/Entity\|entity]]. [[note/The Characteristics of Entities\|Entities are self-sufficient existents]]---consciousness is a faculty possessed by certain existents. Just as "red" or "hot" cannot exist on their own--apart from a thing that is red or hot--so too can "intelligent," "aware," "possessing a conceptual faculty," not exist on their own. [[note/The Attack on the Senses from their Limitation\|This doesn't mean that consciousness lacks identity]]---[[note/Existence is Identity\|existence is identity]], so every existent has identity, and consciousness certainly exists. Rather, what this means is that consciousness is not a *thing*---it is not a *he*, *she*, *it*, it is an attribute: this thing *has* consciousness---one of it's attributes is that it is aware of existence.
 
 <body>
 <!-- Disqus Comments Section -->
