@@ -26,7 +26,7 @@
 
 >If [[note/Sense Perception\|the senses]] are not [[note/Validation\|valid]], if they are not instruments that provide a [[Knowledge\|knowledge]] of [[note/Existence Exists\|reality]], then neither are [[note/Concept\|concepts]], and the whole cognitive enterprise is aborted. If seeing is not believing, then thinking is worthless as well.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 38
+[^1]: [[OPAR\|OPAR]], p. 38
 
 <body>
 <!-- Disqus Comments Section -->

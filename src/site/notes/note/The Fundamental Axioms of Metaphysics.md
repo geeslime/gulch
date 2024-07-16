@@ -27,7 +27,7 @@ There are three fundamental [[note/Axioms as Irreducible Primaries\|axioms]] in 
 - [[note/The Law of Identity\|Identity]],
 - [[note/The Axiom of Consciousness\|Consciousness]].
 
-[^1]: for more on this see: "Existence, Consciousness, and Identity as the Basic Axioms," in [[notes/OPAR\|notes/OPAR]]OPAR]].
+[^1]: for more on this see: "Existence, Consciousness, and Identity as the Basic Axioms," in [[OPAR\|OPAR]].
 
 <body>
 <!-- Disqus Comments Section -->

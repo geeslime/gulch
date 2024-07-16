@@ -32,9 +32,9 @@ For any given piece of knowledge that one has, the questions are: "what do I kno
 
 Any philosopher who wishes to place the sensational as having epistemic primacy must himself rely on percepts being the given in his attempt to validate his thesis---he [[note/The Stolen Concept Fallacy\|steals]] the primacy of perception in his attempt to dispute it.
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 53
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 53
-[^3]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 54
+[^1]: [[OPAR\|OPAR]], p. 53
+[^2]: [[OPAR\|OPAR]], p. 53
+[^3]: [[OPAR\|OPAR]], p. 54
 
 <body>
 <!-- Disqus Comments Section -->

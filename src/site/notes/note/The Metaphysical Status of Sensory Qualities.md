@@ -28,7 +28,7 @@ The form of perception is the mind's way of grasping the object in question, the
 >
 >In a deeper sense, however, such products *are* "in the object." They are so, not as primaries independent of man's sense organs, but as the inexorable [[note/The Law of Causality\|effects]] of primaries. [[note/Consciousness\|Consciousness]], to repeat, is a faculty of awareness; as such, it does not create its content *or even the sensory forms* in which it is aware of that content. Those forms in any instance are determined by the perceiver's physical endowment interacting with external entities in accordance with causal law. The source of sensory form is thus not consciousness, but [[note/Existence Exists\|existential]] fact independent of consciousness; i.e., the source is the [[note/Metaphysics\|metaphysical]] nature of reality itself. In this sense, *everything* we perceive, including those qualities that depend on man's physical organs, is "out there."[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 46-47
+[^1]: [[OPAR\|OPAR]], pp. 46-47
 
 <body>
 <!-- Disqus Comments Section -->

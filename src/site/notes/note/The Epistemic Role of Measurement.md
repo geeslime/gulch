@@ -26,7 +26,7 @@ What measurement and [[note/The Objectivist Theory of Concepts\|concept formatio
 >>
 >>The process of measurement is a process of integrating an unlimited scale of knowledge to man's limited perceptual experience—a process of making the universe knowable by bringing it within the range of man's consciousness, by establishing its relationship to man.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], 81-82
+[^1]: [[OPAR\|OPAR]], 81-82
 
 <body>
 <!-- Disqus Comments Section -->

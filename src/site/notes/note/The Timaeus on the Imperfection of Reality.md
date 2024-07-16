@@ -22,7 +22,7 @@
 >
 >What the *Timaeus* actually presents, in mythological form, is the conflict between [[note/Existence Exists\|existence]] and a mind that tries to rewrite it, but cannot. In effect, the myth's meaning is the self-declared failure of the [[note/The Primacy of Existence vs The Primacy of Consciousness\|primacy-of-consciousness]] viewpoint. The same failure is inherent in any version of Plato's creed. Whenever men expect reality to conform to their wish simply because it is their wish, they are doomed to metaphysical disappointment. This leads them to the dichotomy: my dream vs. the actual which thwarts it; or [[Inner vs Outer\|the inner vs. the outer]]; or [[Value vs Fact\|value vs. fact]]; or [[Moral vs Practical\|the moral vs. the practical]]. The broadest name of the dichotomy is [[note/Spiritual vs Material\|the "spiritual" realm vs. the "material" realm]].[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 29
+[^1]: [[OPAR\|OPAR]], p. 29
 
 <body>
 <!-- Disqus Comments Section -->

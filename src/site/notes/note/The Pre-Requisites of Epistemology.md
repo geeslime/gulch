@@ -24,7 +24,7 @@ The answer is in two parts, first knowledge is knowledge *of reality*, so [[note
 
 If mans mind was the standard of reality his conclusions would be automatically valid, and he would need no epistemology; if mans mind was automatic [[note/The Validation of Free Will\|he would have no ability to use any method of validation]]; if mans mind was infallible he would have no need for a method of ensuring that he has not strayed into error---epistemology depends both on the primacy of existence *and* the fallibility of a conceptual consciousness.
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 37
+[^1]: [[OPAR\|OPAR]], p. 37
 
 <body>
 <!-- Disqus Comments Section -->

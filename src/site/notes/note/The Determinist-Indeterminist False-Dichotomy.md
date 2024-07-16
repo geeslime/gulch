@@ -30,7 +30,7 @@ To be clear: man's choices are indeed caused, caused by his specific [[note/The 
 >
 >To say that a higher-level choice was caused is to say: there was a reason behind it, but other reasons were possible under the circumstances, and the individual himself made the selection among them.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 65
+[^1]: [[OPAR\|OPAR]], p. 65
 
 <body>
 <!-- Disqus Comments Section -->

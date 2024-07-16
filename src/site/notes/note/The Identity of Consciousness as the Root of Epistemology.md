@@ -29,7 +29,7 @@ The standard [[note/The Attack on the Senses from their Limitation\|attacks on m
 >
 >The "how" cannot be used to negate the "what," or the "what" the "how"—not if one understands that A is A and that consciousness is consciousness.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 51-52
+[^1]: [[OPAR\|OPAR]], pp. 51-52
 
 <body>
 <!-- Disqus Comments Section -->

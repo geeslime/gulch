@@ -32,7 +32,7 @@ This is not to imply, either, that the *choice* of focus or drift is in some way
 >
 >In short, it is invalid to ask: why did a man choose to focus? There is no such "why." There is only the fact that a man *chose*: he chose the effort of consciousness, or he chose non-effort and unconsciousness. In this regard, every man at every waking moment is a prime mover.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 59-60
+[^1]: [[OPAR\|OPAR]], pp. 59-60
 <body>
 <!-- Disqus Comments Section -->
   <div id="disqus_thread"></div>

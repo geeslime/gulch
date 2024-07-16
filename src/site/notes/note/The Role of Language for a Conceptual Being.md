@@ -25,7 +25,7 @@ The role of [[note/Consciousness\|consciousness]], even on the [[Conceptual Cons
 >It is not true that words are necessary primarily for the sake of communication. Words are essential to the process of conceptualization and thus to all thought. They are as necessary in the privacy of a man's mind as in any public forum; they are as necessary on a desert island as in society. The word constitutes the completion of the integration stage; it is the form in which the concept exists. Using the soul-body terminology, we may say that the word is the body, and the conscious perspective involved, the soul---and that the two form a unity which cannot be sundered. A concept without a word is at best an ephemeral resolve; a word without a concept is noise. "Words transform concepts into (mental) entities," writes Miss [[people/Ayn Rand\|Ayn Rand]]; "definitions provide them with identity."[^2]
 
 [^1]: In this context, "objectify" means to make it fully real, to embed the abstract within an actual concrete.
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], 79
+[^2]: [[OPAR\|OPAR]], 79
 <body>
 <!-- Disqus Comments Section -->
   <div id="disqus_thread"></div>

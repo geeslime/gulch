@@ -42,11 +42,11 @@ So, to summarise, the formation of a concept goes as follows:
 
 The final piece of this puzzle is found in [[people/Ayn Rand\|Ayn Rand]]'s recognition that [[note/The Metaphysical Status of Concepts\|concept-formation is fundamentally a mathematical process]]. On the level of abstraction (4), man differentiates the certain groups of entities by reference to their [[note/Commensurability\|commensurable]] characteristics---i.e. [[note/Conceptual Common Denominator\|those aspects that can be reduced down to the same unit of measurement]]. Then on the level of integration (5), we can only integrate into a [[note/Unit (Epistemology)\|unit]] those concretes whose differences are differences in measurement only---we cannot arbitrarily form whatever concepts we want, [[note/The Metaphysical Status of Concepts\|the thing that is the "same" between different concretes which are of the same concept is that they share attributes but not the measurements of those attributes]]. "No aspect of the process is capricious. In both its parts, concept-formation depends on our mind's recognition of objective, [[Mathematics\|mathematical]] relationships."[^5]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], 77
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], 78
-[^3]: I did not originate this phrase, it can be found in [[notes/OPAR\|notes/OPAR]]OPAR]] and [[ITOE\|ITOE]], do note that concepts are not actual entities, they don't pop up in some "[[Plato's World of Forms\|world of forms]]" after they have been generated---they exist purely in the mind of the man who has formed them.
+[^1]: [[OPAR\|OPAR]], 77
+[^2]: [[OPAR\|OPAR]], 78
+[^3]: I did not originate this phrase, it can be found in [[OPAR\|OPAR]] and [[ITOE\|ITOE]], do note that concepts are not actual entities, they don't pop up in some "[[Plato's World of Forms\|world of forms]]" after they have been generated---they exist purely in the mind of the man who has formed them.
 [^4]: "Might be found" is key---we are dealing with the concept as standing in for infinite concretes, but [[note/Infinity as a Floating Abstraction\|actual infinity is a floating abstraction]]. This is speaking here of a *[[Potential\|potential]]*---you *might* come across extra examples of tables, and when you do you know that these belong to the same concept as the finite particulars that you have studied before. "Infinite" in this context, is referring to "open-endedness"---much like the set of numbers is "open-ended," i.e. you can keep listing off new numbers forever. To relate this [[Mathematics\|mathematical]] analogy back to the theory of concepts---the concept "table" is open-ended in the sense that you can keep finding new examples of tables, and the nature of concepts is such that you can readily regard these new examples as units of the same concept without having to specify at the offset how many tables are included in the concept "table."
-[^5]: [[notes/OPAR\|notes/OPAR]]OPAR]], 88
+[^5]: [[OPAR\|OPAR]], 88
 
 <body>
 <!-- Disqus Comments Section -->

@@ -23,8 +23,8 @@
 [[note/The Validation of Sense Perception\|All sense data is valid in this sense]]: [[note/The Senses Do Not Distort\|the senses don't distort]], nor can they. [[note/Different Forms of Sense Perception does not Invalidate Sense Perception\|The fact that different creatures have different means of perception does not invalidate this]]: no matter the *means* of perception, said perception is a perception *of* something that *[[note/Existence Exists\|is]]*. [[note/Illusions are not Perceptual Errors\|It is on the conceptual level that error occurs]]:
 >Conceptualization involves an interpretation that may not conform to reality, an organization of data that is not necessitated by physical fact; one can, therefore, "think about nothing," i.e., nothing real, such as a perpetual-motion machine or demonic possession or Santa Claus. But the senses sum up automatically what *is*.[^2]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 40-41
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 41
+[^1]: [[OPAR\|OPAR]], pp. 40-41
+[^2]: [[OPAR\|OPAR]], p. 41
 
 <body>
 <!-- Disqus Comments Section -->

@@ -23,8 +23,8 @@
 
 >Despite [[Mystics of Muscle\|their]] implicit mysticism, [[Materialism\|materialists]] typically declare that their viewpoint constitutes the only scientific or naturalistic approach to [[notes/Philosophy\|philosophy]]. The belief in consciousness, they explain, implies [[note/Omnipotence\|supernaturalism]]. \[...] the idealists invented the false alternative of consciousness *versus* science. The materialists simply take over this false alternative, then promote the other side of it. This amounts to rejecting arbitrarily the possibility of a naturalistic view of consciousness.[^2]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 33
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 33
+[^1]: [[OPAR\|OPAR]], p. 33
+[^2]: [[OPAR\|OPAR]], p. 33
 
 <body>
 <!-- Disqus Comments Section -->

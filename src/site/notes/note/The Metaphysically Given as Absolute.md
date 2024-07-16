@@ -30,7 +30,7 @@ Because [[note/Existence Exists\|existence exists]] there are no alternatives po
 
 The necessary/contingent dichotomy is thus an error as far as metaphysics is concerned[^2]---it is said by such theorists that a [[note/Fact\|fact]] is "necessary" if the alternative would involve a contradiction, or positively, a fact that obtains "by necessity" is one that obtains "by identity." Consider that [[note/The Categories of Being\|all action is action of entities]] and [[note/The Law of Causality\|every entity has only one action available to it at any given time]]; for there to be a metaphysical alternative--another "possible world"--would require that some set of [[note/Entity\|entities]] [[Metaphysical Action\|act]] in some alternative ways---ways not caused by their nature, or rather caused by incompatible aspects of their nature. But [[note/The Law of Identity\|A is A]], so such other "possible worlds" is ruled out---to be *is* to be necessary.
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 24
+[^1]: [[OPAR\|OPAR]], p. 24
 [^2]: Of course, in the realm of the [[Man-Made Facts\|man-made facts]] there are alternatives possible---it is possible for [[note/Man\|men]] to [[note/Free Will\|choose alternative courses of actions]].
 
 <body>

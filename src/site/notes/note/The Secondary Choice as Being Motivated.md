@@ -24,7 +24,7 @@
 >
 >Unlike [[note/The Primary Choice Being Focus or Drift\|the basic choice to be in or out of focus]], the choice to evade a specific content is [[note/Free Will\|motivated]], the motive being the particular feeling that the evader elevates above reality. But such a feeling is merely a precondition, not a cause or explanation; the choice to capitulate to it is irreducible. No matter what his emotions, a sane man retains the power to face facts. If an emotion is overwhelming, he retains the power to recognize this and to defer cognition until he can establish a calmer mood. Just as man has the capacity to place feelings above facts, so he has the capacity *not* to do so, to remain reality-oriented by an act of will, despite any temptation to the contrary. This, too, is an aspect of volition subsumed under the primary choice: to focus or not. The words "or not" cover both passive drift and active evasion.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 62
+[^1]: [[OPAR\|OPAR]], p. 62
 <body>
 <!-- Disqus Comments Section -->
   <div id="disqus_thread"></div>

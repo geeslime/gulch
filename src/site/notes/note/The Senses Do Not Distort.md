@@ -31,7 +31,7 @@ Man's [[note/Sense Perception\|sensory apparatus]] [[note/The Validation of Sens
 >The senses do not interpret their own reactions; they do not [[note/The Law of Identity\|identify]] the objects that impinge on them. They merely respond to stimuli, thereby making us aware of the [[note/Fact\|fact]] that some kind of objects exist. We do not become aware of what the objects are, but merely *that* they are. 'The task of \[man's], senses," writes [[people/Ayn Rand\|Ayn Rand]], "is to give him the evidence of existence, but the task of identifying it belongs to his reason, his senses tell him only that something *is*, but *what* it is must be learned by his mind." It is only in regard to the "what"--only on the [[note/Concept\|conceptual]] level of [[note/Consciousness\|consciousness]]--that the possibility of error arises. If a boy sees a jolly bearded man in a red suit and infers that Santa Claus has come down from the North Pole, his senses have made no error; it is his conclusion that is mistaken.[^2]
 
 [^1]: I do not use this in [[Phenomenal\|the Kantian sense]].
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 39-40
+[^2]: [[OPAR\|OPAR]], p. 39-40
 
 <body>
 <!-- Disqus Comments Section -->

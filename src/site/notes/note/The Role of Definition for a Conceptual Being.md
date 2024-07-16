@@ -30,8 +30,8 @@ As one acquires a greater conceptual apparatus at ever increasing [[note/Concept
 
 
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], 96
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], 96
+[^1]: [[OPAR\|OPAR]], 96
+[^2]: [[OPAR\|OPAR]], 96
 
 <body>
 <!-- Disqus Comments Section -->

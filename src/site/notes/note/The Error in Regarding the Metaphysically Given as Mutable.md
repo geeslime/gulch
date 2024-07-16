@@ -26,7 +26,7 @@ The error in regarding the [[note/Metaphysically Given\|metaphysically given]] d
 
 Another example of this error present in [[note/Epistemology\|epistemology]], is seen in those [[Scepticism\|sceptics]] who attempt to [[note/Validation\|invalidate]] 
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 26-27
+[^1]: [[OPAR\|OPAR]], p. 26-27
 <body>
 <!-- Disqus Comments Section -->
   <div id="disqus_thread"></div>

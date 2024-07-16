@@ -39,15 +39,15 @@ On [[note/The Objectivist Theory of Concepts\|the Objectivist theory of concepts
 
 This is not to say that the specific quantities of these entities are unreal, or subjective, or irrelevant---"It means that *measurements exist, but are not specified*. That measurements *must* exist is an essential part of the process. The principle is: the relevant measurements must exist in *some* quantity, but may exist in *any* quantity."[^9] [[people/Ayn Rand\|Ayn Rand]] perfectly highlights [[note/Concept-Formation as an Algebraic Process\|the connection between concept-formation and algebra]] in connection to this: namely, in the equation $2a = a + a$, $a$ is a stand-in for whatever specific number you might want to choose, just as surely as "man" is a stand-in for whatever specific man you wish to refer to.
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], 79
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], 80
-[^3]: [[notes/OPAR\|notes/OPAR]]OPAR]], 80
+[^1]: [[OPAR\|OPAR]], 79
+[^2]: [[OPAR\|OPAR]], 80
+[^3]: [[OPAR\|OPAR]], 80
 [^4]: See: [[note/The Epistemic Role of Measurement\|The Epistemic Role of Measurement]]
-[^5]: [[notes/OPAR\|notes/OPAR]]OPAR]], 82-83
-[^6]: [[notes/OPAR\|notes/OPAR]]OPAR]], 83; note: this does not imply that there cannot be certain boundary conditions on the measurements---a "planet" cannot be so small that it can fit in the palm of your hand, for instance.
-[^7]: Quoted from [[notes/OPAR\|notes/OPAR]]OPAR]], 83
-[^8]: [[notes/OPAR\|notes/OPAR]]OPAR]], 89
-[^9]: [[notes/OPAR\|notes/OPAR]]OPAR]], 83
+[^5]: [[OPAR\|OPAR]], 82-83
+[^6]: [[OPAR\|OPAR]], 83; note: this does not imply that there cannot be certain boundary conditions on the measurements---a "planet" cannot be so small that it can fit in the palm of your hand, for instance.
+[^7]: Quoted from [[OPAR\|OPAR]], 83
+[^8]: [[OPAR\|OPAR]], 89
+[^9]: [[OPAR\|OPAR]], 83
 
 <body>
 <!-- Disqus Comments Section -->

@@ -22,7 +22,7 @@ The conflation between the [[Man-Made Facts\|man-made]] and the [[note/Metaphysi
 
 >[[note/The Error in Regarding the Man-Made as Immutable\|One kind of error consists in regarding the man-made as immutable and beyond challenge]]; [[note/The Error in Regarding the Metaphysically Given as Mutable\|the other, in regarding the metaphysically given as alterable]].[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 26
+[^1]: [[OPAR\|OPAR]], p. 26
 
 <body>
 <!-- Disqus Comments Section -->

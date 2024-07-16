@@ -38,7 +38,7 @@ To relate to the above example: more fundamentally than the choice over how to p
 
 [^1]: https://www.youtube.com/watch?v=m4RvB0BmLEo 
 [^2]: "Potential" because if you are drifting then you cannot make the secondary choice, [[note/Focus as Antecedent to Any Choice\|which is what makes it secondary]]---i.e. you can *potentially* choose between [[Thought\|thought]] and [[note/Evasion\|evasion]] if you make the choice to [[note/Mental Focus\|focus]].
-[^3]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 66
+[^3]: [[OPAR\|OPAR]], p. 66
 
 <body>
 <!-- Disqus Comments Section -->

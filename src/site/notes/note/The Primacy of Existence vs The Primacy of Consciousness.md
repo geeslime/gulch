@@ -34,7 +34,7 @@ First and foremost, the primacy of consciousness is an example of [[note/The Sto
 
 [[note/The Primacy of Existence as an Objectivist Innovation\|The primacy of existence is fundamentally an Objectivist innovation]].
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], pp. 19-23
+[^1]: [[OPAR\|OPAR]], pp. 19-23
 
 <body>
 <!-- Disqus Comments Section -->

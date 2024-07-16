@@ -22,7 +22,7 @@
 >
 >The man who follows and understands the opposite policy comes to the opposite conclusion: he dismisses out-of-hand the idea of a metaphysical dichotomy. A faculty of perception, he knows, cannot be an adversary of the world or the body; it has no weapons with which to wage any such war; it has no function except to perceive.[^1]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 29-30
+[^1]: [[OPAR\|OPAR]], p. 29-30
 
 <body>
 <!-- Disqus Comments Section -->

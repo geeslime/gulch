@@ -25,7 +25,7 @@ An example of this kind of error is in seen in those "[[Political Realism\|polit
 
 If it's a waste of time for those rational men to bother changing anyone's minds on rational grounds because people will believe whatever they believe then it is surely just as much of a waste of time for these conflationists to try and convince the rational men to stop.
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 26
+[^1]: [[OPAR\|OPAR]], p. 26
 
 <body>
 <!-- Disqus Comments Section -->

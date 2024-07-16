@@ -38,9 +38,9 @@ Thus, man must think in order to know, he must *choose* to orient his mind towar
 >
 >Like any rejection of a philosophic axiom, determinism is self-refuting. Just as one must accept existence or consciousness in order to deny it, so one must accept volition in order to deny it. A philosophic axiom cannot be proved, because it is one of the bases of proof. But for the same reason it cannot be escaped, either. By its nature, it is impregnable.[^3]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 70
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 70-71
-[^3]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 71-72
+[^1]: [[OPAR\|OPAR]], p. 70
+[^2]: [[OPAR\|OPAR]], p. 70-71
+[^3]: [[OPAR\|OPAR]], p. 71-72
 
 <body>
 <!-- Disqus Comments Section -->

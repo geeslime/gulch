@@ -35,7 +35,7 @@ The passion for the arbitrary does not stem from a concern for [[logic\|logic]] 
 
 In conclusion, [[logic\|logic]] is man's method of[[knowledge\|knowledge]] and cannot be defaulted on without severe consequences, as emotionalists of all kinds attempt to do. [[note/The Psychological Effects of Regarding the Metaphysically Given as Mutable\|Such a default exacts a fearsome toll]]—[[note/Epistemology\|epistemologically]], the worst there is: it removes the mental process from the realm of cognition. One cannot get something for nothing—not in material wealth nor in the field of knowledge. Truth, like knowledge, cannot be reached by accident but only through a process of [[Reason\|reason]].[^1]
 
-[^1]: Paraphrased from [[notes/OPAR\|notes/OPAR]], p. 169-171
+[^1]: Paraphrased from [[OPAR\|OPAR]]69-171
 
 <body>
 <!-- Disqus Comments Section -->

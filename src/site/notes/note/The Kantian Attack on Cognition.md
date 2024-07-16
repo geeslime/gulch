@@ -26,7 +26,7 @@ So on the Kantian approach, [[note/Consciousness\|consciousness]] is invalid bec
 
 >Watch the pincer movement. If you’re sick of one version, we push you into the other. We get you coming and going. We’ve closed the doors. We’ve fixed the coin. Heads---collectivism, and tails---collectivism. Fight the doctrine which slaughters the individual with a doctrine which slaughters the individual. Give up your soul to a council---or give it up to a leader. But give it up, give it up, give it up. My technique, Peter. Offer poison as food and poison as antidote. Go fancy on the trimmings, but hang on to the main objective. Give the fools a choice, let them have their fun---but don’t forget the only purpose you have to accomplish. Kill the individual. Kill man’s soul. The rest will follow automatically.[^3]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 50
+[^1]: [[OPAR\|OPAR]], p. 50
 [^2]: [[For the New Intellectual\|For the New Intellectual]], p. 30
 [^3]: [[FH\|FH]], p. 568
 

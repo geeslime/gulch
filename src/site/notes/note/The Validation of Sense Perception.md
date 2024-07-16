@@ -25,8 +25,8 @@
 The validity of sense perception is a [[note/Corollary\|corollary]] of [[note/The Axiom of Consciousness\|the axiom of consciousness]]: 
 > If man is [[note/Consciousness\|conscious]] of that which is, then his *means* of awareness are means of *awareness*, i.e., are valid. One cannot affirm consciousness while denying its primary form, [[note/Mysticism as Invalid\|which makes all the others possible]]. Just as any attack on consciousness negates itself, so does any attack on the senses. [[note/The Invalidity of the Senses Implies The Invalidity of Knowledge\|If the senses are not valid, neither are any concepts]], including the ones used in the attack.[^2]
 
-[^1]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 40
-[^2]: [[notes/OPAR\|notes/OPAR]]OPAR]], p. 40
+[^1]: [[OPAR\|OPAR]], p. 40
+[^2]: [[OPAR\|OPAR]], p. 40
 
 <body>
 <!-- Disqus Comments Section -->
