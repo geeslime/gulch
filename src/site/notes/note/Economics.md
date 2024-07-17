@@ -18,8 +18,11 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-Economics is the [[Praxeology\|the study of human action]] applied to [[Exchange\|exchange]].
+Economics is the [[Praxeology\|the study of human action]] applied to [[Exchange\|exchange]]. In other words, “*Economics is the [[note/Science\|science]] which studies human behavior as [[Means and Ends\|a relationship between ends and scarce means that have alternative uses.]]*” 
 
+It must be noted that Economics is not a [[note/Philosophy\|philosophical]] concept; [[note/Science\|as a specialty science it is a successor of philosophy]]. But like any science, the economist who does not adopt [[G2/THE A POSTERIORI CASE FOR HUMAN ACTION\|the proper fundamentals of philosophy]] is an economist *bound to make mistakes*–as the premises on which he is *analyzing exchange* are fundamentally [[note/Falsehood\|incorrect]]. For example, the [[note/The Validation of Free Will\|determinist]] economist would blunder spectacularly as an economist due to failing to understand a fundamental grasp of [[note/Human Action\|human action]]. Such an economist would be forecasting economic conditions under the pretense of an economy made up of automatons.
+
+See: [[G2/The Nature of Economics and Its Uses\|The Nature of Economics and Its Uses]]
 
 <body>
 <!-- Disqus Comments Section -->
