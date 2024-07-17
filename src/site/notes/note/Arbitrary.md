@@ -33,7 +33,7 @@ Any such statement deserves no [[note/Epistemology\|epistemological]] considerat
 
 Why? Well, the basic reason is [[note/Metaphysics\|metaphysical]]. It’s the fact that [[note/Existence Exists\|existence exists]] and that only existence exists i.e. [[note/Non-Existence\|there is no nothing]].
 
-[^1]: [[note/Dismissing the Arbitrary\|Dismiss the arbitrary]] without [[Thought\|thought]]. Thought is not a [[Virtue\|virtue]] when it is impossible or when conditions [[note/Axioms as Undeniable\|require violating the proper laws]] and methods of thought. Do not entertain or attempt to process arbitrary claims cognitively. The arbitrary is a major threat to [[reason\|reason]], derailing it from [[Reason as Man's Basic Means of Survival\|its cognitive function: man's survival]].
+[^1]: [[note/Dismissing the Arbitrary\|Dismiss the arbitrary]] without [[Thought\|thought]]. Thought is not a [[Virtue\|virtue]] when it is impossible or when conditions [[note/Axioms as Undeniable\|require violating the proper laws]] and methods of thought. Do not entertain or attempt to process arbitrary claims cognitively. The arbitrary is a major threat to [[Reason\|reason]], derailing it from [[Reason as Man's Basic Means of Survival\|its cognitive function: man's survival]].
 
 
 <body>

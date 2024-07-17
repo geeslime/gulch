@@ -18,11 +18,11 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-**Proof** consists in reducing an idea back to [[note/Sense Perception\|the data provided by the senses]]. These data themselves, [[note/The Epistemic Primacy of Sense Perception\|are the foundation of all subsequent knowledge]], precede any process of [[note/Inference\|inference]]. [[note/The Role of the Senses\|They are the primaries of cognition]], the unchallengeable, [[note/The Validation of Sense Perception\|the self-evident]].[^1]
+> **Proof** consists in reducing an idea back to [[note/Sense Perception\|the data provided by the senses]]. These data themselves, [[note/The Epistemic Primacy of Sense Perception\|are the foundation of all subsequent knowledge]], precede any process of [[note/Inference\|inference]]. [[note/The Role of the Senses\|They are the primaries of cognition]], the unchallengeable, [[note/The Validation of Sense Perception\|the self-evident]].[^1]
 
 It's important to understand the origins of our [[note/Concept\|ideas]] to assess their [[note/Validation\|validity]].
 
-[...] Such [[Reduction\|Reduction]] is the only means man has of discovering [[note/Truth\|the relationship between nonaxiomatic propositions and the facts of reality.]][^2]
+> [...] Such [[Reduction\|Reduction]] is the only means man has of discovering [[note/Truth\|the relationship between nonaxiomatic propositions and the facts of reality.]][^2]
 
 By linking our [[note/Proposition\|propositions]] back to sensory data, we keep our understanding *grounded* in [[note/Existence Exists\|reality]]. This cognitive practice helps us avoid the pitfalls of [[note/Arbitrary\|assumptions]] and [[note/Floating Abstraction\|unsupported abstractions]]. It ensures our [[knowledge\|knowledge]] is *built on a solid foundation* of [[note/Evidence\|Evidence]], maintaining [[The Law of Non Contradiction\|consistency]] and [[Reason as Man's Basic Means of Survival\|reliability]].
 
