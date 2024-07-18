@@ -18,7 +18,13 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-The Austrian School of economics is a heterodox school of [[notes/Economics\|economic thought]], build on the insights of [[Mises\|Ludwig von Mises]]' science of [[Praxeology\|Praxeology]], namely that [[Methodological Individualism\|man is an individual]] [[note/The Validation of Free Will\|with volition]] and that this power to choose must be taken as a fundamental starting point in economics. Austrian economists hold that economic theory must be derived exclusively from these fundamental principles of [[note/Human Action\|human action]].
+The Austrian School of economics is a heterodox school of [[note/Economics\|economic thought]], build on the insights of [[Mises\|Ludwig von Mises]]' science of [[G2/ppp/Praxeology\|Praxeology]], namely that [[Methodological Individualism\|man is an individual]] [[note/The Validation of Free Will\|with volition]] and that this power to choose must be taken as a fundamental starting point in economics. Austrian economists hold that economic theory must be derived exclusively from these fundamental principles of [[note/Human Action\|human action]].
+
+Founded by [[Carl Menger\|Carl Menger]], the Austrian School of economics, is deeply rooted in [[people/Aristotle\|Aristotelian]] philosophy. This Aristotelian influence extends through the works of [[Eugen Böhm-Bawerk\|Eugen Böhm-Bawerk]] and later [[Murray N. Rothbard\|Murray Rothbard]]. Rothbard's distinctive contribution was the application of praxeology to [[note/Law\|legal theory]].
+
+
+
+
 
 <body>
 <!-- Disqus Comments Section -->
