@@ -18,7 +18,7 @@
 </head>
 
 
-Law is to be understood as a metanormative [[note/Science\|discipline]] which *identifies* certain [[note/Human Action\|actions]] as just or unjust. That is to say, [[Law as a Subset of Ethics\|law is a subset of ethics]] which *identifies* which party *ought have* possession in a given [[G3/poop/Conflicts\|conflict]].
+Law is to be understood as a metanormative [[note/Science\|discipline]] which *identifies* certain [[note/Human Action\|actions]] as just or unjust. That is to say, [[Law as a Subset of Ethics\|law is a subset of ethics]] which *identifies* which party *ought have* possession in a given [[G3/poop/Conflicts\|conflict]]. The purpose of law is [[G3/Conflict Avoidance\|conflict avoidance]].
  
 [[The Problem of Law\|Law deals with  narrow question of who *should win* in conflicts]]. We say that the person who *should win* has the [[G3/poop/Property Rights\|property right]] in that conflict. For example, if a farmer finds that a factory is polluting his field and *ruining* his crops, we have a conflict. The farmer does not want the pollution there, and the factory does. Only one party can win, and law is there to *find out* who this party *should be*.
 
