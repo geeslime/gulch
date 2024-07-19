@@ -11,7 +11,7 @@
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="688" />
   <meta property="og:image:height" content="419" />
-  <meta property="og:description" content="The short answer is that praxeology is not essential to philosophy, nor is it a branch of philosophy. So, who needs it? Well, in order to understand the nature of law, we need to understand the nature of conflicts. In order to understand the nature of conflicts, we need to understand scarcity. To understand scarcity, you need to understand the nature of human action. Praxeology is implicit in the study of law. Bringing forth praxeology from an "implicit understanding" to an explicit understanding is indispensable in grasping the problem and further derivations of law...." />
+  <meta property="og:description" content="The short answer is that praxeology is not essential to philosophy, nor is it a branch of philosophy. So, who needs it. Well, in order to understand the nature of law, we need to understand the nature of conflicts. In order to understand the nature of conflicts, we need to understand scarcity. To understand scarcity, you need to understand the nature of human action. Praxeology is implicit in the study of law. Bringing forth praxeology from an "implicit understanding" to an explicit understanding is indispensable in grasping the problem and further derivations of law...." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://gulch.vercel.app/note/how-essential-is-praxeology-to-philosophy/" />
   <meta property="og:site_name" content="gulch" />
