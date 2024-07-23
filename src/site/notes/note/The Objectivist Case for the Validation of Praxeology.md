@@ -33,16 +33,16 @@ And that's why Objectivism needs praxeology, because it provides a robust framew
 
 ---
 
-*Part 1: [[note/The Empiricist Case for the Action Axiom\|The Empiricist Case for the Action Axiom]]*
+##### *Part 1: [[note/The Empiricist Case for the Action Axiom\|The Empiricist Case for the Action Axiom]]*
 
 The action axiom asserts that human action is purposeful behavior. Praxeology, as the correct method for studying economics, emphasizes the recognition of this purposeful character of human action, rooted in the very nature of human beings. Unlike other methodologies, praxeology focuses on the formal relations between ends and means, advocating for the notion of *homo agens* (acting man) over *homo economicus* (economic man). Human action is fundamental to epistemology because knowledge acquisition requires active observation and integration of concepts. This axiom is validated through direct observation and introspection, making it a necessary truth, reflecting the essential characteristics of human beings: volition and rationality.
 
 
-*Part 2: [[note/Addressing the Attacks on Abstraction In General and In the Study of Man In Particular\|Addressing the Attacks on Abstraction In General and In the Study of Man In Particular]]*
+##### *Part 2: [[note/Addressing the Attacks on Abstraction In General and In the Study of Man In Particular\|Addressing the Attacks on Abstraction In General and In the Study of Man In Particular]]*
 
 Abstraction, a critical cognitive process, faces objections from various philosophers who argue against its validity. However, abstraction condenses sensory data into manageable concepts without falsifying reality. It allows us to understand the essential nature of things. There are two types of abstraction: general orientation, which considers forms indeterminately, and individual orientation, which excludes specific determinations. This supports the validity of abstract thought in understanding human action.
 
-*Part 3: [[note/Addressing Fallibilism and Necessary Truths In General and In the Study of Man In Particular\|Addressing Fallibilism and Necessary Truths In General and In the Study of Man In Particular]]*
+##### *Part 3: [[note/Addressing Fallibilism and Necessary Truths In General and In the Study of Man In Particular\|Addressing Fallibilism and Necessary Truths In General and In the Study of Man In Particular]]*
 
 A common argument against the claim that we can know necessary truths is that it implies human infallibility. However, recognizing necessary truths does not require infallibility. Fallibilism, the acknowledgment of our liability to error, does not conflict with holding necessary truths. The axiom of human action, grounded in human nature, demonstrates this compatibility. Humans, as rational animals, possess unique capacities for abstract reasoning and volitional consciousness, enabling goal-setting and purposeful behavior. This axiom is validated through a regonition essential characteristics of human nature, and establishes a framework for applying economic principles to observed human actions.
 
