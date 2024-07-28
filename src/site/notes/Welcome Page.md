@@ -101,7 +101,7 @@ This vault is maintained by [[note/geeslime\|geeslime]]. It was initially a clon
  
 If you would like to contribute to this vault — or discuss about its contents with any of its [[contributors\|contributors]] — you can do so by joining this discord server: <a href="https://discord.gg/k5pJuUTpnQ">https://discord.gg/k5pJuUTpnQ</a> and asking me (gee.).
 
-This site also supports disqus comments at the bottom of each page. If you would like to give some suggestions for the site as a whole you can do so [[c\|here]].
+This site also supports disqus comments at the bottom of each page for readers to add their thoughts to a note.
 
 
 
