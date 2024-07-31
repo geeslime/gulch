@@ -3,8 +3,8 @@
 ---
 
 <head>
-  <title>poop</title>
-  <meta property="og:title" content="poop" />
+  <title>Causal Connections</title>
+  <meta property="og:title" content="Causal Connections" />
   <meta property="og:type" content="article" />
   <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
@@ -13,18 +13,18 @@
   <meta property="og:image:height" content="419" />
   <meta property="og:description" content="A conditioning connection involving action.... " />
   <meta property="og:locale" content="en_US" />
-  <meta property="og:url" content="https://gulch.vercel.app/note/poop/" />
+  <meta property="og:url" content="https://gulch.vercel.app/note/causal-connections/" />
   <meta property="og:site_name" content="gulch" />
 </head>
 
 
-| [[note/Broad Physical Categories (BPC)\|Broad Physical Categories (BPC)]]                   | Definition                                                                                                                                                                                       |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3. Conditioning Connection  | A **characteristic of an existent** where all or part of **the identity** of that existent is dependent **in part** on a **characteristic** of another **existent**.                             |
-| 15. Action                  | The formation or dissolution of a **relationship**.                                                                                                                                              |
-| 16. Causal Connection       | A **conditioning connection** involving **action**.                                                                                                                                              |
-| 17. Cause                   | A **property** of an entity **which conditions the properties of another entity through action**. Cause **always comes before the properties it conditions**.                                    |
-| 18. Effect                  | A **property** or **set of properties** of an entity which are **conditioned by a certain cause**. Effect **always comes after cause**.                                                          |
+| [[note/Broad Physical Categories (BPC)\|Broad Physical Categories (BPC)]] | Definition                                                                                                                                                           |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3. Conditioning Connection          | A **characteristic of an existent** where all or part of **the identity** of that existent is dependent **in part** on a **characteristic** of another **existent**. |
+| 15. Action                          | The formation or dissolution of a **relationship**.                                                                                                                  |
+| 16. Causal Connection               | A **conditioning connection** involving **action**.                                                                                                                  |
+| 17. Cause                           | A **property** of an entity **which conditions the properties of another entity through action**. Cause **always comes before the properties it conditions**.        |
+| 18. Effect                          | A **property** or **set of properties** of an entity which are **conditioned by a certain cause**. Effect **always comes after cause**.                              |
 
 The general term for labeling a connection of [[note/Fact\|facts]] is a [[note/Conditioning Connections (BPC)\|conditioning connection]], but *only* when such a connection involves [[note/Action (BPC)\|action]] should we use the word **cause**. 
 
@@ -68,8 +68,8 @@ Just as reasoning with [[note/Broad Physical Categories (BPC)\|broad physical ca
   <div id="disqus_thread"></div>
   <script>
       var disqus_config = function () {
-          this.page.url = "https://gulch.vercel.app/note/poop/";  // Replace with your page's canonical URL variable
-          this.page.identifier = "c"; // Replace with your page's unique identifier variable
+          this.page.url = "https://gulch.vercel.app/note/causal-connections/";  // Replace with your page's canonical URL variable
+          this.page.identifier = "causal-connections"; // Replace with your page's unique identifier variable
       };
       (function() {  // DON'T EDIT BELOW THIS LINE
           var d = document, s = d.createElement('script');
