@@ -92,7 +92,6 @@ This site also supports Disqus comments at the bottom of each page for readers t
 <center><h6><i><u>sort by tags</u></i></h6></center>
 
 
-<body>
 <div class="tab">
  <button class="tablinks" onclick="openTab(event, 'All')">All</button>
   <button class="tablinks" onclick="openTab(event, 'Definitions')">Definitions</button>
