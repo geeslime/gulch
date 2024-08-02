@@ -1156,9 +1156,10 @@ This site also supports Disqus comments at the bottom of each page for readers t
 { .block-language-dataview}
 
 </div>
-</body>
 
-<body>
+
+
+
 <script>
     function openTab(evt, tabName) {
       var i, tabcontent, tablinks;
@@ -1177,8 +1178,8 @@ This site also supports Disqus comments at the bottom of each page for readers t
     document.addEventListener("DOMContentLoaded", function() {
       document.querySelector(".tab button").click();
     });
-  </script>
-</body>
+</script>
+
 
 <body>
   <!-- Include Disqus comments directly in HTML -->
