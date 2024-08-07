@@ -20,7 +20,7 @@
 </head>
 
 Whilst [[note/Entity\|entities]] are fundamentally ostensive, we can still say that an entity has these [[Characteristics vs. Properties\|characteristics]]:
-1. an entity is a self-sufficient [[note/Existence Exists\|existent]], as against a [[note/The Metaphysical Status of Sensory Qualities\|quality]], [[Metaphysical Action\|action]], [[Relationship\|relationship]], etc., which are [[Characteristics vs. Properties\|aspects]] of some [[Entity and Property\|entity or entities]] which man separates out by a specialised focus---an entity is a *thing*; *this*, *you*, *it*; as against *hot*, *cold*, *running*, *jumping*, *to the left of*, etc.;
+1. an entity is a self-sufficient [[note/Existence Exists\|existent]], as against a [[note/The Metaphysical Status of Sensory Qualities\|quality]], [[note/Action (BPC)\|action]], [[Relationship\|relationship]], etc., which are [[Characteristics vs. Properties\|aspects]] of some [[note/Entity and Property (BPC)\|entity or entities]] which man separates out by a specialised focus---an entity is a *thing*; *this*, *you*, *it*; as against *hot*, *cold*, *running*, *jumping*, *to the left of*, etc.;
 2. an entity is [[note/Percept\|perceptual]] in scale---it is a solid thing that you can perceive and point to.
 
 <body>
