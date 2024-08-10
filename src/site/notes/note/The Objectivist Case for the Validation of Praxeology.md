@@ -23,7 +23,7 @@
 
 
 
-[[note/Praxeology\|Praxeology]], the study of [[note/Human Action\|human action]], is essential to understanding the very nature of human existence. For several decades, [[note/Objectivism\|Objectivists]] have debated the foundations of [[Value\|value]], questioning whether [[life\|life]] is a value because one chooses to live or whether one should choose life because it inherently holds value. (See: [[Life as the Standard of Value\|Life as the Standard of Value]]) Praxeology helps us illuminate the logic of this abstract issue, and that it is not merely philosophical rhetoric but it has concrete implications for how we live our lives. Life as the standard of value is fundamentally connected to human action. Understanding this connection is crucial, as it forms the basis for pursuing ends, essential for rational living and achieving values.
+[[note/Praxeology\|Praxeology]], the study of [[note/Human Action\|human action]], is essential to understanding the very nature of human existence. For several decades, [[note/Objectivism\|Objectivists]] have debated the foundations of [[Value\|value]], questioning whether [[G1/Liffffo/Life\|life]] is a value because one chooses to live or whether one should choose life because it inherently holds value. (See: [[Life as the Standard of Value\|Life as the Standard of Value]]) Praxeology helps us illuminate the logic of this abstract issue, and that it is not merely philosophical rhetoric but it has concrete implications for how we live our lives. Life as the standard of value is fundamentally connected to human action. Understanding this connection is crucial, as it forms the basis for pursuing ends, essential for rational living and achieving values.
 
 And that's why Objectivism needs praxeology, because it provides a robust framework for understanding this connection. It offers a way to ground economic and philosophical principles in the observable, purposeful behavior that defines human existence.
 
@@ -49,8 +49,6 @@ A common argument against the claim that we can know necessary truths is that it
 <center><h3>Related Notes</h3></center>
 
 - *[[note/Human Action is Undeniable\|Human Action is Undeniable]]*: The attempt to deny the action axiom is itself an action, reinforcing its validity.
-- *[[G2/ppp/The Epistemological Status of Theory In the Study of Man\|The Epistemological Status of Theory in the Study of Man]]*: Theoretical insights must be grounded in the observable nature of human beings.
-- *[[G2/ppp/A Theory of the Analogy Between Epilogical Phenomena and Natural Organisms\|A Theory of the Analogy Between Epilogical Phenomena and Natural Organisms]]*: Understanding the teleological aspects of human nature through analogies with natural organisms.
 - *[[Menger's Pre-Randian Theory of Objective Value\|Menger's Pre-Randian Theory of Objective Value]]*: Exploring the historical development of objective value theories prior to Rand's contributions.
 
 ***And more***:
