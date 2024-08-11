@@ -46,15 +46,6 @@ Abstraction, a critical cognitive process, faces objections from various philoso
 
 A common argument against the claim that we can know necessary truths is that it implies human infallibility. However, recognizing necessary truths does not require infallibility. Fallibilism, the acknowledgment of our liability to error, does not conflict with holding necessary truths. The axiom of human action, grounded in human nature, demonstrates this compatibility. Humans, as rational animals, possess unique capacities for abstract reasoning and volitional consciousness, enabling goal-setting and purposeful behavior. This axiom is validated through a regonition essential characteristics of human nature, and establishes a framework for applying economic principles to observed human actions.
 
-<center><h3>Related Notes</h3></center>
-
-- *[[note/Human Action is Undeniable\|Human Action is Undeniable]]*: The attempt to deny the action axiom is itself an action, reinforcing its validity.
-- *[[Menger's Pre-Randian Theory of Objective Value\|Menger's Pre-Randian Theory of Objective Value]]*: Exploring the historical development of objective value theories prior to Rand's contributions.
-
-***And more***:
-
-- *[[G3/Zzz/levelsoflearning/Levels of Learning—Austrianism\|Levels of Learning—Austrianism]]*
-- *[[G3/Zzz/levelsoflearning/Levels of Learning—Objecivism\|Levels of Learning—Objecivism]]*
 
 
 <body>
