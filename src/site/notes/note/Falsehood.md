@@ -20,7 +20,7 @@
 
 >“True” and “false” are assessments within the field of human cognition: they designate a relationship [of] correspondence or [[The Law of Non Contradiction\|contradiction]] between an idea and [[note/Existence Exists\|reality]]. . . . The false is established as false by reference to a body of [[note/Evidence\|evidence]] and within a [[G1/Context\|context]], and is pronounced false because it contradicts the evidence.[^1]
 
-Falsehood is an [[note/Evasion\|evasion]] of the facts of reality. Every false conclusion is drawn from man [[note/The Secondary Choice Being The Choice to Think or Evade\|choosing evasion over truth]].
+Falsehood is an [[note/Evasion\|evasion]] of [[note/Fact\|the facts of reality]]. Every false conclusion is drawn from man [[note/The Secondary Choice Being The Choice to Think or Evade\|choosing evasion over truth]].
 
 >All falsehoods are self-contradictions.
 >
