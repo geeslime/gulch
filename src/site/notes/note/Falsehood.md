@@ -18,13 +18,13 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
->“True” and “false” are assessments within the field of human cognition: they designate a relationship [of] correspondence or [[The Law of Non Contradiction\|contradiction]] between an |idea and [[note/Existence Exists\|reality]]. . . . The false is established as false by reference to a body of [[note/Evidence\|evidence]] and within a [[Context\|context]], and is pronounced false because it contradicts the evidence.[^1]
+>“True” and “false” are assessments within the field of human cognition: they designate a relationship [of] correspondence or [[The Law of Non Contradiction\|contradiction]] between an idea and [[note/Existence Exists\|reality]]. . . . The false is established as false by reference to a body of [[note/Evidence\|evidence]] and within a [[G1/Context\|context]], and is pronounced false because it contradicts the evidence.[^1]
 
-Falsehood is the [[note/Evasion\|evasion]] of [[note/Truth\|truth]]. Every false conclusion is drawn from man [[note/The Secondary Choice Being The Choice to Think or Evade\|choosing evasion over truth]].
+Falsehood is an [[note/Evasion\|evasion]] of the facts of reality. Every false conclusion is drawn from man [[note/The Secondary Choice Being The Choice to Think or Evade\|choosing evasion over truth]].
 
 >All falsehoods are self-contradictions.
 >
->When making a statement about an existent, one has, ultimately, only two alternatives: “[[note/The Law of Identity\|X (which means X, the existent, including all its characteristics) is what it is]]”—or: “X _is not_ what it is.” The choice between truth and falsehood is the choice between “tautology” (in the sense explained) and self-contradiction.[^2]
+>When making a statement about an existent, one has, ultimately, only two alternatives: “[[note/The Law of Identity\|X (which means X, the existent, including all its characteristics) is what it is]]”—or: “X _is not_ what it is.” The choice between [[note/Truth\|truth]] and falsehood is the choice between “tautology” (in the sense explained) and self-contradiction.[^2]
 
 [^1]: Leonard Peikoff,  The Philosophy of Objectivism lecture series, Lecture 6
 [^2]: Leonard Peikoff, “The Analytic-Synthetic Dichotomy,”  [[ITOE\|ITOE]], 100–*101*
