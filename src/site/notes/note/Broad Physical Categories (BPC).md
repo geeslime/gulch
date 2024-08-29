@@ -19,17 +19,17 @@
 
 
 
-**Broad physical categories** are the most [[Fundamentality\|fundamental]], most abstract [[note/Concept\|concepts]] scientists use when [[Physics\|understanding the physical world]].
+**Broad physical categories** are the most [[G1/Fundamentality\|fundamental]], most abstract [[note/Concept\|concepts]] scientists use when [[Physics\|understanding the physical world]].
 
 > [!figure]  ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  <iframe width="560" height="315" src="https://www.youtube.com/embed/YslpAB6D9Xo?si=k4Oe8iM5kX9CjfCH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
->Scientific [[knowledge\|knowledge]] has given [[mankind\|mankind]] *sight beyond sight*. Having never gone to space, [[people/Aristotle\|Aristotle]] could see that the Earth is a sphere.[^1] Having never seen an atom or a molecule, the chemists of the late 1800s knew the shape of molecules.[^2] Using spectroscopy, astronomers know the chemical composition of stars, which are light years away.[^3] [[note/Science\|Science]] must only use [[note/Evidence\|data]] from [[the five senses\|the five senses]], but somehow science allows us to understand things which are far beyond the reach of the senses. 
+>Scientific [[G1/Knowledge\|knowledge]] has given [[mankind\|mankind]] *sight beyond sight*. Having never gone to space, [[people/Aristotle\|Aristotle]] could see that the Earth is a sphere.[^1] Having never seen an atom or a molecule, the chemists of the late 1800s knew the shape of molecules.[^2] Using spectroscopy, astronomers know the chemical composition of stars, which are light years away.[^3] [[note/Science\|Science]] must only use [[note/Evidence\|data]] from [[the five senses\|the five senses]], but somehow science allows us to understand things which are far beyond the reach of the senses. 
 >
 >Aristotle could see that the eclipse shadow was a circle, but it required [[note/Inference\|Inference]] to figure out that the Earth was a sphere. He had to reason from the fact that the Earth cast a circular shadow upon the moon regardless of the angle it cast that shadow. In general, by understanding the things that we see, [[concepts\|concepts]] allow us to [[deduce\|deduce]] our way to [[note/Fact\|Fact]] that we cannot see. Aristotle was able to reason from [[the nature of light\|the nature of light]], from the nature of a sphere, from the nature of the fact that it will block light in a certain way, and he was able to reason from these [[note/Fact\|facts]] to deduce that the Earth had to be a sphere.
 >
 >Inference allows us to discover fundamentally new things which lie beyond the reach of the senses, such as [[electric charge\|electric charge]], [[atoms\|atoms]], and [[gravitational fields\|gravitational fields]]. Discovering fundamentally new classes of things, however, requires a special kind of inference, a special kind of deduction. Aristotle had seen a lot of spheres in his life; all he did was infer the existence of a sphere which was too large to directly observe. Discovering something like a gravitational field, something which is not only hidden from view but is some new type of thing which has never been seen or even dreamt of, requires a special kind of inference. This is [[note/Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws\|the kind of inference that a species of blind aliens would have to make]] in order to discover the existence of light. This kind of inference is made possible by reasoning with **broad concepts such as "entity," "property," "relationship," "action," etc**.[^1]
 
-These definitions were painstakingly arrived at by [[James Ellias\|James Ellias]], using [[The Method of Cross-Conceptualization\|the method of cross-conceptualization]]. Note also that these concepts listed below go in an order of a [[Conditional Heirarchy\|conditional hierarchy]]. This is the order of [[OPAR\|OPAR]] or [[Euclid's Elements\|Euclid's Elements]]. 
+These definitions were painstakingly arrived at by [[James Ellias\|James Ellias]], using [[The Method of Cross-Conceptualization\|the method of cross-conceptualization]]. Note also that these concepts listed below go in an order of a [[Conditional Hierarchy vs. Inductive Hierarchy\|conditional hierarchy]]. This is the order of [[OPAR\|OPAR]] or [[Euclid's Elements\|Euclid's Elements]]. 
 
 <center><h1>Broad Physical Categories in Hierarchical Order:</h1></center>
 
@@ -67,6 +67,7 @@ These definitions were painstakingly arrived at by [[James Ellias\|James Ellias]
 | 20. Formal cause            | A **formal conditioning connection** between an **entity’s form** and **its actions**.                                                                                                           |
 | 21. Efficient cause         | A **conditioning connection** between **the actions of a first entity** and **the properties of a second entity**.                                                                               |
 | 22. Passive Cause           | A **conditioning connection** between **the properties of a first entity** and ***the way its other properties will change when it is subject to the actions of a second entity***.              |
+| 23. Process                 | A set of **actions** each action **conditioning** the next.                                                                                                                                      |
 
 
 
@@ -94,13 +95,13 @@ These definitions were painstakingly arrived at by [[James Ellias\|James Ellias]
         - **ii.** [[note/Four Conditioning Connections (BPC)\|Material conditioning]]
         - **iii.** [[note/Four Conditioning Connections (BPC)\|Formal Conditioning]]
         - **iv.** [[note/Four Conditioning Connections (BPC)\|Efficient Conditioning]]
-        - **v.** [[note/Four Conditioning Connections (BPC)\|Passive Conditioning]]
+        - **v.**  [[note/Four Conditioning Connections (BPC)\|Passive Conditioning]]
         - **vi.** [[note/Four Conditioning Connections (BPC)\|Causal Connection]]:
             - **1.** [[note/The Four Causes (BPC)\|Material cause]]
             - **2.** [[note/The Four Causes (BPC)\|Formal cause]]
             - **3.** [[note/The Four Causes (BPC)\|Efficient cause]]
             - **4.** [[note/The Four Causes (BPC)\|Passive Cause]]
-
+        - **vii.** [[Process (BPC)\|Process]]
 
 
 [^1] Lists and definitions provided by [[James Ellias\|James Ellias]]— [Broad Physical Categories: A Vocabulary for Making Inferences Beyond Observation](https://www.youtube.com/watch?v=YslpAB6D9Xo)
