@@ -19,7 +19,7 @@
 
 
 
-In dealing with [[note/Sense Perception\|perception-derived material]], the guidance [[logic\|logic]] provides flows from a single imperative: **Be consistent**. Because contradictions do not exist in reality, [[note/Evasion\|a mental process that involves or implies a contradiction]] has departed from reality and is invalid; a [[note/The Objectivist Theory of Concepts\|conceptual product]] that contradicts any [[note/Fact\|fact]] is [[note/Falsehood\|false]].
+In dealing with [[note/Sense Perception\|perception-derived material]], the guidance [[logic\|logic]] provides flows from a single imperative: **Be consistent**. Because [[note/Existence is Identity\|contradictions do not exist in reality]], [[note/Evasion\|a mental process that involves or implies a contradiction]] has departed from reality and is invalid; a [[note/The Objectivist Theory of Concepts\|conceptual product]] that contradicts any [[note/Fact\|fact]] is [[note/Falsehood\|false]].
 
 The [[G1/Fundamentality\|fundamental]] laws of logic are:
 
