@@ -18,7 +18,7 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-Human action is [[note/Free Will\|purposeful]] behaviour i.e. [[Dinp/Essential Characteristics of Human Action\|the conscious direction of scarce means towards the attainment of chosen ends]]. This "primordial" [[note/Fact\|fact]][^1] that [[note/Man\|man]] engages in human action [[note/Human Action is Undeniable\|cannot be cohrently denied]]. The distinctive and crucial feature in the study of man, is the [[note/Concept\|concept]] of action.
+Human action is [[note/Free Will\|purposeful]] behaviour i.e. [[Dinp/Essential Characteristics of Human Action\|the employment of scarce means towards the attainment of chosen ends]]. This "primordial" [[note/Fact\|fact]][^1] that [[note/Man\|man]] engages in human action [[note/Human Action is Undeniable\|cannot be cohrently denied]]. The distinctive and crucial feature in the study of man, is the [[note/Concept\|concept]] of action.
 
 [[note/The Validation of Free Will\|Man has free will]], but what are the implications of that? What [[note/Inference\|inferences]] can we make from the fact that man acts? The method that was devoloped to answer these questions, by the [[note/Austrian Economics\|Austrian School of Economics]], is [[note/Praxeology\|Praxeology]]. Dubbed "*the general science of human action*," it rests entirely on the [[note/Epistemology\|epistemic]] axiom that man acts; Praxeology is a [[note/Science\|science]] that starts with an idea that man's actions are conscious and directed then [[Dinp/Praxeology vs. Mathematical Logic\|spins out by verbal deduction the logical implications of that fact]]. That man acts both presupposes free will and implies almost all of epistemology itself.
 
