@@ -1,27 +1,36 @@
-/* Set up an inline grid with two main columns for a vertically scrolling layout */
 .two-columns {
-    display: inline-grid; /* Inline grid for flexibility in layout flow */
+    display: grid;
     grid-template-columns: 1fr 1fr; /* Two main columns */
-    grid-auto-rows: minmax(400px, auto); /* Defines "page" height; adjust as needed */
-    column-gap: 1.5em; /* Space between main columns */
-    row-gap: 1.5em; /* Space between rows to simulate the "page" break */
+    grid-auto-rows: minmax(200px, auto); /* Allows rows to expand based on content */
+    grid-auto-flow: dense; /* Packs items tightly into columns */
+    gap: 1.5em; /* Space between columns and rows */
     width: 100%;
+    overflow: hidden; /* Prevents overflow issues */
 }
 
-/* Each grid cell is styled to ensure content flows across both columns and pages */
+/* Each grid cell styles for content flow and readability */
 .two-columns > * {
-    display: inline-block; /* Allows items to align flexibly within cells */
-    column-count: 2; /* Sets each item to flow across two sub-columns */
-    column-fill: balance; /* Ensures content fills columns evenly */
-    column-gap: 1.5em; /* Space between sub-columns within each grid cell */
-    break-inside: avoid; /* Prevents items from splitting awkwardly between columns */
-    word-break: break-word; /* Allows words to break naturally within columns */
-    hyphens: auto; /* Adds hyphens where possible for a smoother text flow */
-    box-sizing: border-box; /* Maintains box sizing without affecting flow */
-    padding: 0.5em; /* Adds subtle padding for better readability */
+    column-count: 1; /* Single column within each grid cell */
+    padding: 0.5em; /* Adds padding for readability */
+    overflow-wrap: break-word; /* Ensures long words break correctly */
+    hyphens: auto; /* Enables smooth word breaks */
+    box-sizing: border-box;
+    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Visual separation */
 }
 
-/* Optional: Dotted line to visually separate each "page" row */
+/* Odd items in the first column */
+.two-columns > *:nth-child(odd) {
+    grid-column: 1 / 2;
+    grid-row: auto; /* Allows items to flow based on available space */
+}
+
+/* Even items in the second column */
+.two-columns > *:nth-child(even) {
+    grid-column: 2 / 3;
+    grid-row: auto; /* Adjusts to fit the flow */
+}
+
+/* Optional: Styling for pagination effect (dotted lines) */
 .two-columns::before, .two-columns::after {
     content: "";
     display: block;
