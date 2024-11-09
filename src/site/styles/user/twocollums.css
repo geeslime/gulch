@@ -1,16 +1,14 @@
 .two-columns {
     display: grid;
     grid-template-columns: 1fr 1fr; /* Two equal-width columns */
-    grid-auto-rows: minmax(300px, auto); /* Uniform "page" height */
+    grid-auto-rows: minmax(300px, auto); /* Sets each "page" height, adjust as needed */
     column-gap: 1.5em; /* Space between columns */
     row-gap: 2em; /* Space between "pages" */
     width: 100%;
-    padding: 0.5em; /* Padding for the overall readability */
-    box-sizing: border-box;
 }
 
-.two-columns p {
-    margin: 0; /* Optional: Adjusts spacing between paragraphs */
-    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Visual "page" separator */
-    padding-bottom: 0.5em; /* Space below each paragraph */
+.two-columns > * {
+    padding: 0.5em; /* Padding for readability */
+    box-sizing: border-box;
+    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line for visual separation */
 }
