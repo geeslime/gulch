@@ -1,31 +1,32 @@
-/* Main grid container with two columns for the paginated layout */
-.two-columns {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Defines two main columns for larger screens */
-    grid-auto-flow: row; /* Ensures content flows in rows for pagination */
-    grid-auto-rows: minmax(200px, auto); /* Minimum height per row for page effect */
-    gap: 1em; /* Space between columns and rows */
-    width: 100%;
-    align-content: stretch; /* Stretches rows to fill container vertically */
-}
-
-/* Force spans within paragraphs to behave inline for natural line breaks */
+/* Inline flow settings for spans within paragraphs */
 .two-columns p span {
     display: inline; /* Allows spans to break across lines smoothly */
-    overflow-wrap: break-word; /* Allows long words to break within boundaries */
-    hyphens: auto; /* Enables hyphenation for smoother text breaks */
-    text-align: justify; /* Justifies text for balanced alignment in columns */
+    overflow-wrap: break-word; /* Enables word-breaking within boundaries */
+    hyphens: auto; /* Allows hyphenation for smoother text flow */
+    text-align: justify; /* Justifies text for balanced alignment */
     line-height: 1.5; /* Sets a standard line height for readability */
-    word-spacing: 0.05em; /* Adds slight word spacing for readability */
+    word-spacing: 0.05em; /* Adds slight word spacing for improved readability */
+    margin: 0; /* Removes any margin to ensure smoother flow */
+}
+
+/* Main grid container for the paginated two-column layout */
+.two-columns {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two equal-width columns for larger screens */
+    grid-auto-flow: row; /* Sequential row-based content flow */
+    grid-auto-rows: minmax(200px, auto); /* Sets minimum row height, adjusting as needed */
+    gap: 1em; /* Adds space between columns and rows */
+    width: 100%; /* Ensures grid takes full container width */
+    align-content: stretch; /* Vertically stretches rows to fill container space */
 }
 
 /* Individual grid cells */
 .two-columns > * {
     padding: 0.5em; /* Adds padding for readability */
-    box-sizing: border-box; /* Ensures padding doesn’t affect width */
+    box-sizing: border-box; /* Ensures padding does not affect overall width */
 }
 
-/* Optional dotted line to create visual separation between rows (pages) */
+/* Optional dotted line to simulate page breaks between rows */
 .two-columns::before, .two-columns::after {
     content: "";
     display: block;
@@ -35,14 +36,14 @@
     margin-bottom: 1em;
 }
 
-/* Responsive adjustments for mobile */
+/* Responsive adjustments for smaller screens */
 @media (max-width: 768px) {
     .two-columns {
-        grid-template-columns: 1fr; /* Single column on smaller screens */
-        gap: 0.5em; /* Reduced gap for mobile */
+        grid-template-columns: 1fr; /* Single column on mobile */
+        gap: 0.5em; /* Reduced gap for mobile layout */
     }
 
     .two-columns p span {
-        line-height: 1.4; /* Slightly tighter line height on mobile */
+        line-height: 1.4; /* Slightly tighter line height for mobile */
     }
 }
