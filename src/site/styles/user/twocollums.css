@@ -1,4 +1,4 @@
-/* Inline flow settings for spans within paragraphs */
+/* Inline flow settings for spans within paragraphs to allow multiple parts */
 .two-columns p span {
     display: inline; /* Allows spans to break across lines smoothly */
     overflow-wrap: break-word; /* Enables word-breaking within boundaries */
@@ -12,18 +12,27 @@
 /* Main grid container for the paginated two-column layout */
 .two-columns {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two equal-width columns for larger screens */
+    grid-template-columns: repeat(2, 1fr); /* Two equal-width columns */
     grid-auto-flow: row; /* Sequential row-based content flow */
-    grid-auto-rows: 400px; /* Sets minimum row height, adjusting as needed */
-    gap: 1em; /* Adds space between columns and rows */
+    grid-auto-rows: 400px; /* Fixed height per row to create pagination effect */
+    gap: 1em; /* Space between columns and rows */
     width: 100%; /* Ensures grid takes full container width */
-    align-content: stretch; /* Vertically stretches rows to fill container space */
+    align-content: start; /* Aligns content to the top of the grid container */
 }
 
-/* Individual grid cells */
+/* Individual grid cells with fixed height and clipping */
 .two-columns > * {
     padding: 0.5em; /* Adds padding for readability */
-    box-sizing: border-box; /* Ensures padding does not affect overall width */
+    box-sizing: border-box; /* Consistent box sizing */
+    overflow: hidden; /* Ensures text is clipped at the end of each cell */
+    display: block; /* Allows each cell to contain multiple paragraphs */
+    text-align: justify; /* Ensures text alignment is balanced within each cell */
+}
+
+/* Ensures paragraphs can flow within each cell */
+.two-columns p {
+    display: inline-block; /* Treats paragraphs as inline-block elements to allow clipping */
+    margin: 0; /* Removes default margins to fit more text */
 }
 
 /* Optional dotted line to simulate page breaks between rows */
