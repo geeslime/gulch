@@ -1,7 +1,7 @@
 /* Main grid container with two columns for the paginated layout */
 .two-columns {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Defines two main columns for the layout */
+    grid-template-columns: repeat(2, 1fr); /* Defines two main columns for larger screens */
     grid-auto-flow: row; /* Ensures content flows in rows for pagination */
     grid-auto-rows: minmax(200px, auto); /* Minimum height per row for page effect */
     gap: 1em; /* Space between columns and rows */
@@ -9,22 +9,20 @@
     align-content: stretch; /* Stretches rows to fill container vertically */
 }
 
-/* Force paragraphs to behave as inline content within the main grid */
-.two-columns p {
-    display: inline; /* Makes paragraphs behave inline to encourage natural breaks */
-    margin: 0; /* Removes default margin for smoother flow */
+/* Force spans within paragraphs to behave inline for natural line breaks */
+.two-columns p span {
+    display: inline; /* Allows spans to break across lines smoothly */
     overflow-wrap: break-word; /* Allows long words to break within boundaries */
     hyphens: auto; /* Enables hyphenation for smoother text breaks */
     text-align: justify; /* Justifies text for balanced alignment in columns */
     line-height: 1.5; /* Sets a standard line height for readability */
-    word-spacing: 0.05em; /* Adds slight word spacing to improve readability */
+    word-spacing: 0.05em; /* Adds slight word spacing for readability */
 }
 
-/* Individual grid cells with single-column content */
+/* Individual grid cells */
 .two-columns > * {
     padding: 0.5em; /* Adds padding for readability */
-    box-sizing: border-box; /* Consistent box sizing */
-    break-inside: avoid; /* Prevents content from splitting across rows */
+    box-sizing: border-box; /* Ensures padding doesn’t affect width */
 }
 
 /* Optional dotted line to create visual separation between rows (pages) */
@@ -35,4 +33,16 @@
     background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
     width: 100%;
     margin-bottom: 1em;
+}
+
+/* Responsive adjustments for mobile */
+@media (max-width: 768px) {
+    .two-columns {
+        grid-template-columns: 1fr; /* Single column on smaller screens */
+        gap: 0.5em; /* Reduced gap for mobile */
+    }
+
+    .two-columns p span {
+        line-height: 1.4; /* Slightly tighter line height on mobile */
+    }
 }
