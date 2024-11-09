@@ -1,43 +1,47 @@
-/* Define the main container with inline-grid for responsive behavior */
 .two-columns {
     display: inline-grid;
-    grid-template-columns: 1fr 1fr; /* Creates two primary columns */
-    grid-auto-rows: minmax(400px, auto); /* Fixed height for each "page" row with flexible adjustment */
-    column-gap: 2em; /* Space between columns */
-    row-gap: 2em; /* Space between rows for the "page" effect */
+    grid-template-columns: 1fr 1fr; /* Two main columns per row */
+    grid-template-rows: repeat(auto-fill, 800px); /* Each row simulates a "page" with fixed height */
+    grid-auto-flow: dense; /* Ensures tighter packing for any floating content */
+    column-gap: 2em; /* Space between main columns */
+    row-gap: 2em; /* Space between rows to create page breaks */
     width: 100%;
-    max-width: 800px; /* Optional: Limits width to make it look more like a readable page */
-    margin: 0 auto; /* Centers the grid on the page */
+    align-content: start; /* Aligns content to the top of the container */
+    justify-content: center; /* Centers the grid within the available space */
 }
 
-/* Individual grid cells with additional column settings */
 .two-columns > * {
-    column-count: 2; /* Enables two-column layout within each "page" row */
-    column-fill: balance; /* Distributes content evenly across columns */
-    column-gap: 1.5em; /* Space within columns */
-    padding: 1em; /* Padding for readability */
+    display: inline-block; /* Ensures each item respects grid dimensions */
+    column-count: 2; /* Creates two sub-columns within each grid cell */
+    column-fill: balance; /* Balances content across sub-columns */
+    column-gap: 1.5em; /* Space between inner columns */
+    padding: 1em; /* Adds padding within each grid item for readability */
     box-sizing: border-box;
-    line-height: 1.5; /* Sets line spacing for better readability */
-    word-break: break-word; /* Allows words to break at column edges */
-    hyphens: auto; /* Adds hyphenation for smoother word breaks */
-    min-height: 400px; /* Maintains minimum height for each grid cell */
+    line-height: 1.6; /* Adjusted line spacing for smoother flow */
+    word-break: break-word; /* Allows words to break at column boundaries */
+    hyphens: auto; /* Enables hyphenation for better word flow */
+    border-bottom: 1px solid rgba(200, 200, 200, 0.3); /* Adds subtle line at the bottom of each cell */
 }
 
-/* Optional: Dotted line divider for visual separation between "pages" */
+/* Optional: dotted line between "pages" */
 .two-columns::before, .two-columns::after {
     content: "";
     display: block;
     height: 1px;
-    background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
+    background: repeating-linear-gradient(
+        to right, 
+        rgba(200, 200, 200, 0.6) 0, 
+        rgba(200, 200, 200, 0.6) 2px, 
+        transparent 2px, 
+        transparent 4px
+    );
     width: 100%;
     margin-bottom: 1em;
 }
 
-/* Further controls for grid alignment and positioning */
-.two-columns > *:nth-child(odd) {
-    grid-column: 1; /* Ensures odd items start in the left column */
-}
-
-.two-columns > *:nth-child(even) {
-    grid-column: 2; /* Ensures even items start in the right column */
+/* Target paragraphs specifically for additional spacing adjustments */
+.two-columns p {
+    margin: 0.5em 0; /* Adds subtle spacing between paragraphs */
+    column-span: all; /* Allows paragraphs to span across the columns as needed */
+    line-height: 1.4; /* Line height for readability */
 }
