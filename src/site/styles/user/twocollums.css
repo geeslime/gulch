@@ -1,24 +1,12 @@
 .two-columns {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns */
-    grid-auto-rows: minmax(300px, auto); /* Sets each "page" height */
+    column-count: 2; /* Allows content to flow naturally across two columns */
     column-gap: 1.5em; /* Space between columns */
-    row-gap: 2em; /* Space between "pages" */
     width: 100%;
 }
 
-.two-columns > * {
+.two-columns > div {
+    break-inside: avoid; /* Allows continuous content flow, with optional split across columns */
     padding: 0.5em; /* Padding for readability */
-    box-sizing: border-box;
-    border-bottom: none; /* Remove the border-bottom on each individual paragraph */
-}
-
-/* Add the dotted line as a divider between rows instead */
-.two-columns::before, .two-columns::after {
-    content: "";
-    display: block;
-    height: 1px;
-    background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
-    width: 100%;
-    margin-bottom: 1em;
+    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line for visual separation */
+    margin-bottom: 1em; /* Adds spacing below each paragraph */
 }
