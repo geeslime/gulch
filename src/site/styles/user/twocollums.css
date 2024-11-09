@@ -1,23 +1,29 @@
+/* Define the main container with inline-grid for responsive behavior */
 .two-columns {
-    display: grid;
-    grid-template-columns: 1fr 0.05fr 1fr; /* Two main columns with a tiny gap column between them */
-    grid-template-rows: repeat(auto-fill, 800px); /* Creates multiple rows of fixed "page" height */
-    column-gap: 1.5em; /* Space between main columns */
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr; /* Creates two primary columns */
+    grid-auto-rows: minmax(400px, auto); /* Fixed height for each "page" row with flexible adjustment */
+    column-gap: 2em; /* Space between columns */
     row-gap: 2em; /* Space between rows for the "page" effect */
     width: 100%;
+    max-width: 800px; /* Optional: Limits width to make it look more like a readable page */
+    margin: 0 auto; /* Centers the grid on the page */
 }
 
+/* Individual grid cells with additional column settings */
 .two-columns > * {
-    grid-column: span 1; /* Keeps each item within its designated column */
-    column-count: 2; /* Creates two sub-columns within each grid “page” */
-    column-fill: balance; /* Ensures balanced content across columns */
-    padding: 1em; /* Adds inner padding to each “page” */
-    line-height: 1.5; /* Enhances readability */
-    word-break: break-word; /* Allows words to break at column boundaries */
-    hyphens: auto; /* Enables hyphenation for smoother word breaks */
+    column-count: 2; /* Enables two-column layout within each "page" row */
+    column-fill: balance; /* Distributes content evenly across columns */
+    column-gap: 1.5em; /* Space within columns */
+    padding: 1em; /* Padding for readability */
+    box-sizing: border-box;
+    line-height: 1.5; /* Sets line spacing for better readability */
+    word-break: break-word; /* Allows words to break at column edges */
+    hyphens: auto; /* Adds hyphenation for smoother word breaks */
+    min-height: 400px; /* Maintains minimum height for each grid cell */
 }
 
-/* Optional: Unified dotted line as “page” dividers */
+/* Optional: Dotted line divider for visual separation between "pages" */
 .two-columns::before, .two-columns::after {
     content: "";
     display: block;
@@ -25,4 +31,13 @@
     background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
     width: 100%;
     margin-bottom: 1em;
+}
+
+/* Further controls for grid alignment and positioning */
+.two-columns > *:nth-child(odd) {
+    grid-column: 1; /* Ensures odd items start in the left column */
+}
+
+.two-columns > *:nth-child(even) {
+    grid-column: 2; /* Ensures even items start in the right column */
 }
