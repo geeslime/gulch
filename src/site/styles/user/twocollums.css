@@ -1,7 +1,7 @@
 /* Main grid container with two columns for the paginated layout */
 .two-columns {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two main columns */
+    grid-template-columns: repeat(2, 1fr); /* Defines two main columns for the layout */
     grid-auto-flow: row; /* Ensures content flows in rows for pagination */
     grid-auto-rows: minmax(200px, auto); /* Minimum height per row for page effect */
     gap: 1em; /* Space between columns and rows */
@@ -15,15 +15,16 @@
     margin: 0; /* Removes default margin for smoother flow */
     overflow-wrap: break-word; /* Allows long words to break within boundaries */
     hyphens: auto; /* Enables hyphenation for smoother text breaks */
+    text-align: justify; /* Justifies text for balanced alignment in columns */
+    line-height: 1.5; /* Sets a standard line height for readability */
+    word-spacing: 0.05em; /* Adds slight word spacing to improve readability */
 }
 
-/* Individual grid cells, each containing two internal columns */
+/* Individual grid cells with single-column content */
 .two-columns > * {
-    column-count: 2; /* Creates two sub-columns within each grid cell */
-    column-fill: balance; /* Balances content evenly between columns */
-    column-gap: 1.5em; /* Space between sub-columns */
     padding: 0.5em; /* Adds padding for readability */
     box-sizing: border-box; /* Consistent box sizing */
+    break-inside: avoid; /* Prevents content from splitting across rows */
 }
 
 /* Optional dotted line to create visual separation between rows (pages) */
