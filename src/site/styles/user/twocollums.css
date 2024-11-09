@@ -1,11 +1,12 @@
 .two-columns {
-    column-count: 2; /* Creates a natural two-column layout */
-    column-gap: 1.5em; /* Adjusts the gap between columns */
-    width: 100%;
+    column-count: 2; /* Two columns to simulate a two-page spread */
+    column-gap: 1.5em; /* Space between the columns for readability */
+    height: 100vh; /* Sets each "page" to the full viewport height */
+    overflow-y: auto; /* Allows scrolling within this container */
 }
 
 .two-columns > * {
-    break-inside: avoid-column; /* Avoids cutting elements in half, while allowing natural flow */
-    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line between paragraphs */
-    padding-bottom: 0.5em; /* Adds spacing below each element to improve readability */
+    break-inside: avoid; /* Prevents large elements from splitting, but allows paragraphs to break across columns */
+    padding-bottom: 0.5em; /* Optional: adds spacing for readability */
+    margin: 0;
 }
