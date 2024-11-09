@@ -1,17 +1,24 @@
 .two-columns {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-auto-rows: minmax(300px, auto);
-    column-gap: 1.5em;
-    row-gap: 2em;
+    column-count: 2; /* Two-column layout */
+    column-fill: auto; /* Fills each column from top to bottom naturally */
+    column-gap: 1.5em; /* Space between columns */
     width: 100%;
 }
 
-.two-columns > * {
-    padding: 0.5em;
-    box-sizing: border-box;
-    word-break: break-word;
-    overflow-wrap: break-word;
-    line-height: 1.5;
-    column-fill: balance;
+/* Applies to all text blocks within the columns */
+.two-columns p {
+    margin: 0; /* Removes extra paragraph spacing */
+    line-height: 1.5; /* Adjusts line spacing for smoother flow */
+    word-break: break-word; /* Allows words to break at column boundaries */
+    hyphens: auto; /* Adds hyphens if possible for better word breaks */
+}
+
+/* Optional: Dotted line for page dividers, at the top of each new column */
+.two-columns::before, .two-columns::after {
+    content: "";
+    display: block;
+    height: 1px;
+    background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
+    width: 100%;
+    margin-bottom: 1em;
 }
