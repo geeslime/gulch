@@ -14,7 +14,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* Two equal-width columns for larger screens */
     grid-auto-flow: row; /* Sequential row-based content flow */
-    grid-auto-rows: minmax(200px, auto); /* Sets minimum row height, adjusting as needed */
+    grid-auto-rows: 400px; /* Sets minimum row height, adjusting as needed */
     gap: 1em; /* Adds space between columns and rows */
     width: 100%; /* Ensures grid takes full container width */
     align-content: stretch; /* Vertically stretches rows to fill container space */
