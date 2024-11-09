@@ -1,16 +1,15 @@
 .two-columns {
-    column-count: 2; /* Two-column layout */
-    column-fill: auto; /* Fills each column from top to bottom naturally */
+    column-count: 2; /* Creates a two-column layout */
+    column-fill: balance; /* Distributes content evenly across both columns */
     column-gap: 1.5em; /* Space between columns */
     width: 100%;
 }
 
-/* Applies to all text blocks within the columns */
 .two-columns p {
-    margin: 0; /* Removes extra paragraph spacing */
-    line-height: 1.5; /* Adjusts line spacing for smoother flow */
+    margin: 0; /* Removes paragraph spacing for tighter flow */
+    line-height: 1.5; /* Moderate line spacing for readability */
     word-break: break-word; /* Allows words to break at column boundaries */
-    hyphens: auto; /* Adds hyphens if possible for better word breaks */
+    hyphens: auto; /* Adds hyphens for smoother word breaks */
 }
 
 /* Optional: Dotted line for page dividers, at the top of each new column */
