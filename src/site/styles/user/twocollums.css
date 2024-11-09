@@ -1,10 +1,23 @@
 .two-columns {
-    column-count: 2; /* Creates a two-column layout */
-    column-gap: 1.5em; /* Adjusts the gap between columns */
+    column-count: 2; /* Two-column layout */
+    column-gap: 1.5em; /* Space between columns */
     width: 100%;
 }
 
 .two-columns > * {
-    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line for visual separation */
-    padding-bottom: 0.5em; /* Adds subtle spacing for readability */
+    padding-bottom: 0.5em;
+    box-sizing: border-box;
+}
+
+/* Simulate even "page" borders */
+.two-columns::after {
+    content: "";
+    display: block;
+    height: 800px; /* Height of each simulated "page" */
+    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Dotted line for page border */
+    margin-top: -800px;
+    pointer-events: none;
+    position: absolute;
+    top: 800px;
+    z-index: -1;
 }
