@@ -1,24 +1,23 @@
 .two-columns {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns within each "page" */
-    grid-auto-rows: 400px; /* Fixed height for each "page"; adjust as needed */
-    column-gap: 1.5em; /* Space between the two main columns */
-    row-gap: 2em; /* Space between rows to create the "page" effect */
+    grid-template-columns: 1fr 0.05fr 1fr; /* Two main columns with a tiny gap column between them */
+    grid-auto-rows: 800px; /* Sets a consistent “page” height, but allows flexibility */
+    gap: 1.5em; /* Controls space between grid items and rows */
     width: 100%;
+    padding: 1em;
 }
 
 .two-columns > * {
-    column-count: 2; /* Creates a two-column layout within each grid cell */
-    column-fill: balance; /* Balances content evenly across columns */
-    column-gap: 1.5em; /* Space between inner columns */
-    padding: 0.5em; /* Adds subtle padding for readability */
-    box-sizing: border-box;
-    line-height: 1.5; /* Moderate line spacing for readability */
+    grid-column: span 1; /* Keeps each item within its designated column */
+    column-count: 2; /* Creates two sub-columns within each grid “page” */
+    column-fill: balance; /* Ensures balanced content across columns */
+    padding: 1em; /* Adds inner padding to each “page” */
+    line-height: 1.5; /* Enhances readability */
     word-break: break-word; /* Allows words to break at column boundaries */
-    hyphens: auto; /* Adds hyphens for smoother word breaks */
+    hyphens: auto; /* Enables hyphenation for smoother word breaks */
 }
 
-/* Optional: Dotted line for page dividers */
+/* Optional: Unified dotted line as “page” dividers */
 .two-columns::before, .two-columns::after {
     content: "";
     display: block;
