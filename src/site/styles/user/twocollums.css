@@ -1,14 +1,15 @@
 .two-columns {
-    columns: 2; /* Creates the two-column layout */
-    column-gap: 2em; /* Sets spacing between columns */
-    column-fill: balance; /* Balances content evenly between columns */
-    margin: 0 auto; /* Centers content within the note */
+    display: flex;
+    flex-wrap: wrap; /* Allows content to wrap across multiple rows */
+    column-gap: 2em; /* Space between the columns */
+    width: 100%;
 }
 
-/* Optional: Style divider lines for visual "page" breaks */
-.two-columns hr {
-    border: none;
-    border-top: 1px solid #ccc; /* Light line for divider */
-    margin: 1em 0;
-    width: 100%;
+.two-columns > * {
+    flex: 1 0 48%; /* Each "page" takes up about half the width */
+    height: 800px; /* Set each "page" height (adjust as needed) */
+    overflow: hidden; /* Hide overflow to simulate page breaks */
+    box-sizing: border-box;
+    margin-bottom: 2em; /* Space between "pages" */
+    padding: 1em;
 }
