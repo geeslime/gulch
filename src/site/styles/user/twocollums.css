@@ -1,15 +1,14 @@
 .two-columns {
-    display: flex;
-    flex-wrap: wrap; /* Allows content to wrap across multiple rows */
-    column-gap: 2em; /* Space between the columns */
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns */
+    grid-auto-rows: 800px; /* Sets a fixed height for each "page" in the columns */
+    gap: 1.5em; /* Controls spacing between "pages" */
     width: 100%;
 }
 
+/* Optional styling for individual items (to add padding, borders, etc.) */
 .two-columns > * {
-    flex: 1 0 48%; /* Each "page" takes up about half the width */
-    height: 800px; /* Set each "page" height (adjust as needed) */
-    overflow: hidden; /* Hide overflow to simulate page breaks */
+    overflow: hidden; /* Clips any overflowed content within each "page" */
+    padding: 1em; /* Adds some internal padding for better readability */
     box-sizing: border-box;
-    margin-bottom: 2em; /* Space between "pages" */
-    padding: 1em;
 }
