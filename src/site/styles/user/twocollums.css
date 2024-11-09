@@ -1,10 +1,10 @@
 .two-columns {
     display: grid;
     grid-template-columns: 1fr 0.05fr 1fr; /* Two main columns with a tiny gap column between them */
-    grid-auto-rows: 800px; /* Sets a consistent “page” height, but allows flexibility */
-    gap: 1.5em; /* Controls space between grid items and rows */
+    grid-template-rows: repeat(auto-fill, 800px); /* Creates multiple rows of fixed "page" height */
+    column-gap: 1.5em; /* Space between main columns */
+    row-gap: 2em; /* Space between rows for the "page" effect */
     width: 100%;
-    padding: 1em;
 }
 
 .two-columns > * {
