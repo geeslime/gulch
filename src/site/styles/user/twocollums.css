@@ -1,12 +1,14 @@
 .two-columns {
-    column-count: 2; /* Creates a natural two-column layout */
-    column-gap: 1.5em; /* Adjusts the gap between columns */
-    column-fill: balance; /* Balances content across both columns */
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns */
+    grid-auto-rows: minmax(300px, auto); /* Sets each "page" height; adjust as needed */
+    column-gap: 1.5em; /* Space between columns */
+    row-gap: 2em; /* Space between "pages" */
     width: 100%;
 }
 
 .two-columns > * {
-    padding-bottom: 0.5em; /* Adds spacing between paragraphs */
-    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line to simulate page break */
-    margin-bottom: 1em; /* Optional: Adds extra space between "pages" for clearer separation */
+    padding: 0.5em; /* Padding for readability */
+    box-sizing: border-box;
+    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line for visual separation */
 }
