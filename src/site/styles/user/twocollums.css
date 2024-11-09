@@ -1,4 +1,4 @@
-.two-column {
+.two-columns {
   display: block;
   column-count: 2;
   break-inside: avoid;
@@ -8,6 +8,6 @@
   scroll-padding-left: 50%;
 }
 
-.two-column p {
+.two-columns p {
    scroll-snap-align: center;
 }
