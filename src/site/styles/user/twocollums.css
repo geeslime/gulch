@@ -2,12 +2,11 @@
     display: grid;
     grid-template-columns: 1fr 1fr; /* Two equal-width columns */
     grid-auto-rows: 800px; /* Fixed height for each "page" */
-    gap: 0.5em; /* Smaller gap for tighter spacing */
+    gap: 0.25em; /* Smaller gap for tighter spacing */
     width: 100%;
 }
 
 .two-columns > * {
-    padding: 1em; /* Optional padding for readability */
     box-sizing: border-box;
     border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line */
 }
