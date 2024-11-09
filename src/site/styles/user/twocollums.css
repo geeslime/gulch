@@ -1,14 +1,14 @@
 .two-columns {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns */
-    grid-auto-rows: 800px; /* Sets a fixed height for each "page" in the columns */
-    gap: 1.5em; /* Controls spacing between "pages" */
+    grid-template-columns: 1fr 1fr; /* Two equal-width columns */
+    grid-auto-rows: 800px; /* Fixed height for each "page" */
+    gap: 0.3em; /* Smaller gap for tighter spacing */
     width: 100%;
 }
 
-/* Optional styling for individual items (to add padding, borders, etc.) */
 .two-columns > * {
-    overflow: hidden; /* Clips any overflowed content within each "page" */
-    padding: 1em; /* Adds some internal padding for better readability */
+    overflow: hidden; /* Keeps content within each "page" */
+    padding: 1em; /* Optional padding for readability */
     box-sizing: border-box;
+    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line */
 }
