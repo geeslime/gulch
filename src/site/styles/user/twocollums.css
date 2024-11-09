@@ -1,58 +1,13 @@
-/* Inline flow settings for spans within paragraphs to allow multiple parts */
-.two-columns p span {
-    display: inline; /* Allows spans to break across lines smoothly */
-    overflow-wrap: break-word; /* Enables word-breaking within boundaries */
-    hyphens: auto; /* Allows hyphenation for smoother text flow */
-    text-align: justify; /* Justifies text for balanced alignment */
-    line-height: 1.5; /* Sets a standard line height for readability */
-    word-spacing: 0.05em; /* Adds slight word spacing for improved readability */
-    margin: 0; /* Removes any margin to ensure smoother flow */
+.two-column {
+  display: block;
+  column-count: 2;
+  break-inside: avoid;
+  orphans: 5;
+  widows: 5;
+  scroll-snap-type: x mandatory;
+  scroll-padding-left: 50%;
 }
 
-/* Main grid container for the paginated two-column layout */
-.two-columns {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two equal-width columns */
-    grid-auto-flow: row; /* Sequential row-based content flow */
-    grid-auto-rows: 400px; /* Fixed height per row to create pagination effect */
-    gap: 1em; /* Space between columns and rows */
-    width: 100%; /* Ensures grid takes full container width */
-    align-content: start; /* Aligns content to the top of the grid container */
-}
-
-/* Individual grid cells with fixed height and clipping */
-.two-columns > * {
-    padding: 0.5em; /* Adds padding for readability */
-    box-sizing: border-box; /* Consistent box sizing */
-    overflow: hidden; /* Ensures text is clipped at the end of each cell */
-    display: block; /* Allows each cell to contain multiple paragraphs */
-    text-align: justify; /* Ensures text alignment is balanced within each cell */
-}
-
-/* Ensures paragraphs can flow within each cell */
-.two-columns p {
-    display: inline-block; /* Treats paragraphs as inline-block elements to allow clipping */
-    margin: 0; /* Removes default margins to fit more text */
-}
-
-/* Optional dotted line to simulate page breaks between rows */
-.two-columns::before, .two-columns::after {
-    content: "";
-    display: block;
-    height: 1px;
-    background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
-    width: 100%;
-    margin-bottom: 1em;
-}
-
-/* Responsive adjustments for smaller screens */
-@media (max-width: 768px) {
-    .two-columns {
-        grid-template-columns: 1fr; /* Single column on mobile */
-        gap: 0.5em; /* Reduced gap for mobile layout */
-    }
-
-    .two-columns p span {
-        line-height: 1.4; /* Slightly tighter line height for mobile */
-    }
+.two-column p {
+   scroll-snap-align: center;
 }
