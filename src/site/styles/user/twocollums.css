@@ -1,15 +1,26 @@
 .two-columns {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Two equal-width columns for page simulation */
-    grid-auto-rows: 800px; /* Fixed height for each "page" */
-    column-gap: 1.5em; /* Space between columns */
-    row-gap: 2em; /* Space between rows for simulated "page" breaks */
+    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns within each "page" */
+    grid-auto-rows: 300px; /* Sets fixed height for each "page" */
+    column-gap: 1.5em; /* Controls space between columns */
+    row-gap: 2em; /* Space between rows for "page" simulation */
     width: 100%;
 }
 
 .two-columns > * {
-    column-span: all; /* Allows content to span freely across columns if needed */
-    padding: 0.5em; /* Padding for readability */
+    word-break: break-word; /* Allows words to break at column boundaries */
+    overflow-wrap: break-word; /* Ensures long words wrap, enabling column flow */
+    padding: 0.5em; /* Adds padding for readability */
     box-sizing: border-box;
-    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Dotted line for visual separation */
+    /* Avoid `break-inside` so lines can flow naturally between columns */
+}
+
+/* Optional: dotted line as a separator between grid rows to simulate page breaks */
+.two-columns::before, .two-columns::after {
+    content: "";
+    display: block;
+    height: 1px;
+    background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
+    width: 100%;
+    margin-bottom: 1em;
 }
