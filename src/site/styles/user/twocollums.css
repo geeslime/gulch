@@ -1,12 +1,16 @@
-.two-columns {
-    column-count: 2; /* Two columns to simulate a two-page spread */
-    column-gap: 1.5em; /* Space between the columns for readability */
-    height: 100vh; /* Sets each "page" to the full viewport height */
-    overflow-y: auto; /* Allows scrolling within this container */
+.two-columns-container {
+    height: 100vh; /* Each "page" takes up the full viewport height */
+    overflow-y: scroll; /* Allows vertical scrolling */
 }
 
-.two-columns > * {
-    break-inside: avoid; /* Prevents large elements from splitting, but allows paragraphs to break across columns */
-    padding-bottom: 0.5em; /* Optional: adds spacing for readability */
-    margin: 0;
+.two-columns {
+    column-count: 2; /* Creates the two-column layout */
+    column-gap: 2em; /* Adjusts the gap between columns for readability */
+    height: 100%; /* Ensures content fills the container height */
+    line-height: 1.5; /* Adjust for readability */
+}
+
+.two-columns > p {
+    break-inside: avoid; /* Allows paragraphs to flow naturally without strict breaking */
+    margin-bottom: 1em; /* Adds space between paragraphs for readability */
 }
