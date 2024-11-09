@@ -1,16 +1,13 @@
-.two-columns-container {
-    height: 100vh; /* Each "page" takes up the full viewport height */
-    overflow-y: scroll; /* Allows vertical scrolling */
-}
-
 .two-columns {
     column-count: 2; /* Creates the two-column layout */
-    column-gap: 2em; /* Adjusts the gap between columns for readability */
-    height: 100%; /* Ensures content fills the container height */
-    line-height: 1.5; /* Adjust for readability */
+    column-gap: 1.5em; /* Sets space between columns */
+    width: 100%;
+    height: 800px; /* Fixed height for each "page" section */
+    overflow: hidden; /* Keeps content confined within each page */
+    margin-bottom: 2em; /* Space between each simulated page */
 }
 
-.two-columns > p {
-    break-inside: avoid; /* Allows paragraphs to flow naturally without strict breaking */
-    margin-bottom: 1em; /* Adds space between paragraphs for readability */
+.two-columns > * {
+    break-inside: avoid-column; /* Avoids breaking paragraphs across columns */
+    padding-bottom: 0.5em; /* Adds a small padding at the bottom for readability */
 }
