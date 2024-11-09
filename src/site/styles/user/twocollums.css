@@ -1,14 +1,10 @@
 .two-columns {
-    column-count: 2; /* Defines two columns for natural flow */
-    column-gap: 1.5em; /* Adjusts gap between columns */
-    column-fill: auto; /* Distributes content evenly within the fixed height */
-    height: 800px; /* Sets a fixed height for each "page" */
-    overflow: hidden; /* Keeps content constrained within each "page" height */
+    column-count: 2; /* Creates a two-column layout */
+    column-gap: 1.5em; /* Adjusts the gap between columns */
     width: 100%;
 }
 
 .two-columns > * {
-    break-inside: avoid; /* Allows paragraphs to break across columns naturally */
-    padding-bottom: 0.5em; /* Adds spacing below each paragraph */
-    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light dotted line for visual separation */
+    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line for visual separation */
+    padding-bottom: 0.5em; /* Adds subtle spacing for readability */
 }
