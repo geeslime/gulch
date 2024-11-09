@@ -1,14 +1,14 @@
 .two-columns {
-    columns: 2;
-    column-gap: 2em; /* Adjust gap between columns */
-    column-fill: auto; /* Makes columns fill naturally */
+    columns: 2; /* Creates the two-column layout */
+    column-gap: 2em; /* Sets spacing between columns */
+    column-fill: balance; /* Balances content evenly between columns */
+    margin: 0 auto; /* Centers content within the note */
 }
 
-/* Define a fixed height for each "page" */
-.two-columns > * {
-    break-inside: avoid; /* Prevents splitting an element across pages */
-    height: 800px; /* Set the height of each "page" */
-    margin-bottom: 2em; /* Adds spacing between "pages" */
-    overflow: hidden; /* Ensures content doesn’t overflow */
-    padding: 1em 0; /* Optional: Adds padding to top and bottom of each page */
+/* Optional: Style divider lines for visual "page" breaks */
+.two-columns hr {
+    border: none;
+    border-top: 1px solid #ccc; /* Light line for divider */
+    margin: 1em 0;
+    width: 100%;
 }
