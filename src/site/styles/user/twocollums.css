@@ -1,13 +1,67 @@
+/* Main grid container for the paginated two-column layout with scroll snapping */
 .two-columns {
-  display: block;
-  column-count: 2;
-  break-inside: avoid;
-  orphans: 5;
-  widows: 5;
-  scroll-snap-type: x mandatory;
-  scroll-padding-left: 50%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two equal-width columns */
+    grid-auto-rows: 400px; /* Fixed height for each row to simulate pagination */
+    gap: 1em; /* Space between columns and rows */
+    width: 100%;
+    align-content: start; /* Aligns content to the top of the grid container */
+
+    /* Scroll snapping properties */
+    scroll-snap-type: y mandatory; /* Enables vertical snapping */
+    overflow-y: scroll; /* Allows vertical scrolling */
+    height: 100vh; /* Limits the grid height to the viewport for snapping */
 }
 
+/* Inline flow settings for spans within paragraphs */
+.two-columns p span {
+    display: inline;
+    overflow-wrap: break-word; /* Allows long words to break within boundaries */
+    hyphens: auto; /* Enables hyphenation for smoother text flow */
+    text-align: justify; /* Justifies text for balanced alignment */
+    line-height: 1.5;
+    word-spacing: 0.05em;
+    margin: 0;
+}
+
+/* Individual grid cells with clipping and scroll snapping */
+.two-columns > * {
+    padding: 0.5em;
+    box-sizing: border-box;
+    overflow: hidden; /* Ensures text is clipped at the end of each cell */
+    display: block;
+    text-align: justify;
+
+    /* Prevent breaking inside grid cells to avoid orphaned content */
+    break-inside: avoid;
+    scroll-snap-align: start; /* Each cell snaps to the start of the viewport */
+}
+
+/* Control orphan and widow lines in paragraphs */
 .two-columns p {
-   scroll-snap-align: center;
+    widows: 2; /* Ensures at least 2 lines at the end of a paragraph */
+    orphans: 2; /* Ensures at least 2 lines at the start of a paragraph */
+    display: inline-block; /* Allows multiple paragraphs in each cell */
+    margin: 0; /* Removes default paragraph margins */
+}
+
+/* Style the Markdown "page-break" dividers */
+.two-columns hr {
+    grid-column: 1 / -1; /* Spans both columns */
+    border: none;
+    height: 1px;
+    background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
+    margin: 1em 0;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .two-columns {
+        grid-template-columns: 1fr; /* Single column on mobile */
+        gap: 0.5em; /* Reduced gap for mobile layout */
+    }
+
+    .two-columns p span {
+        line-height: 1.4; /* Slightly tighter line height for mobile */
+    }
 }
