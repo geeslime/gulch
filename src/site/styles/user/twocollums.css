@@ -1,45 +1,32 @@
-/* Container for Inline Grid */
+/* Set up an inline grid with two main columns for a vertically scrolling layout */
 .two-columns {
-    display: inline-grid;
-    grid-template-columns: 1fr 1fr; /* Two main columns for the layout */
-    grid-template-rows: repeat(auto-fill, 800px); /* Creates a series of fixed-height rows to act as pages */
-    column-gap: 1.5em; /* Space between the main columns */
-    row-gap: 2em; /* Space between rows to mimic the effect of page breaks */
-    align-items: start; /* Aligns items to the top of each grid cell */
+    display: inline-grid; /* Inline grid for flexibility in layout flow */
+    grid-template-columns: 1fr 1fr; /* Two main columns */
+    grid-auto-rows: minmax(400px, auto); /* Defines "page" height; adjust as needed */
+    column-gap: 1.5em; /* Space between main columns */
+    row-gap: 1.5em; /* Space between rows to simulate the "page" break */
     width: 100%;
-    box-sizing: border-box;
 }
 
-/* Style for Each Grid Cell (Page) */
+/* Each grid cell is styled to ensure content flows across both columns and pages */
 .two-columns > * {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* Creates two sub-columns within each grid cell */
-    column-count: 2; /* Ensures content flows in two sub-columns */
-    column-gap: 1em; /* Inner space between the sub-columns */
-    column-fill: balance; /* Balances content within each grid cell */
-    grid-column: span 2; /* Allows cells to span the full width when needed */
-    justify-items: stretch; /* Ensures content fills each sub-column */
-    padding: 1em; /* Padding for readability */
-    line-height: 1.5; /* Adjusts line spacing */
-    word-break: break-word; /* Allows words to break at boundaries */
-    hyphens: auto; /* Adds hyphens for smoother word wrapping */
+    display: inline-block; /* Allows items to align flexibly within cells */
+    column-count: 2; /* Sets each item to flow across two sub-columns */
+    column-fill: balance; /* Ensures content fills columns evenly */
+    column-gap: 1.5em; /* Space between sub-columns within each grid cell */
+    break-inside: avoid; /* Prevents items from splitting awkwardly between columns */
+    word-break: break-word; /* Allows words to break naturally within columns */
+    hyphens: auto; /* Adds hyphens where possible for a smoother text flow */
+    box-sizing: border-box; /* Maintains box sizing without affecting flow */
+    padding: 0.5em; /* Adds subtle padding for better readability */
 }
 
-/* Optional Page Divider (Dotted Line) */
+/* Optional: Dotted line to visually separate each "page" row */
 .two-columns::before, .two-columns::after {
     content: "";
     display: block;
     height: 1px;
     background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
-    grid-column: span 2; /* Makes the divider span across both main columns */
+    width: 100%;
     margin-bottom: 1em;
-}
-
-/* Style for Breaking Content Across Cells */
-.two-columns > *:nth-child(odd) {
-    grid-column: 1 / 2; /* First column */
-}
-
-.two-columns > *:nth-child(even) {
-    grid-column: 2 / 3; /* Second column */
 }
