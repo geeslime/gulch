@@ -1,13 +1,14 @@
 .two-columns {
-    column-count: 2; /* Creates the two-column layout */
-    column-gap: 1.5em; /* Sets space between columns */
+    column-count: 2; /* Defines two columns for natural flow */
+    column-gap: 1.5em; /* Adjusts gap between columns */
+    column-fill: auto; /* Distributes content evenly within the fixed height */
+    height: 800px; /* Sets a fixed height for each "page" */
+    overflow: hidden; /* Keeps content constrained within each "page" height */
     width: 100%;
-    height: 800px; /* Fixed height for each "page" section */
-    overflow: hidden; /* Keeps content confined within each page */
-    margin-bottom: 2em; /* Space between each simulated page */
 }
 
 .two-columns > * {
-    break-inside: avoid-column; /* Avoids breaking paragraphs across columns */
-    padding-bottom: 0.5em; /* Adds a small padding at the bottom for readability */
+    break-inside: avoid; /* Allows paragraphs to break across columns naturally */
+    padding-bottom: 0.5em; /* Adds spacing below each paragraph */
+    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light dotted line for visual separation */
 }
