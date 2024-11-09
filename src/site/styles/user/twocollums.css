@@ -1,34 +1,32 @@
-/* Grid container for two-column layout with flexible paging */
+/* Main grid container with two columns for the paginated layout */
 .two-columns {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Creates two main columns */
-    grid-auto-flow: dense; /* Ensures grid cells are packed tightly, reducing gaps */
-    grid-auto-rows: minmax(200px, auto); /* Sets minimum row height; adjust as needed */
-    gap: 1em; /* Space between columns and rows for readability */
+    grid-template-columns: repeat(2, 1fr); /* Two main columns */
+    grid-auto-flow: row; /* Ensures content flows in rows for pagination */
+    grid-auto-rows: minmax(200px, auto); /* Minimum height per row for page effect */
+    gap: 1em; /* Space between columns and rows */
     width: 100%;
-    align-content: start; /* Aligns content at the top of each column */
+    align-content: stretch; /* Stretches rows to fill container vertically */
 }
 
-/* Styling for individual grid cells to allow natural flow */
+/* Force paragraphs to behave as inline content within the main grid */
+.two-columns p {
+    display: inline; /* Makes paragraphs behave inline to encourage natural breaks */
+    margin: 0; /* Removes default margin for smoother flow */
+    overflow-wrap: break-word; /* Allows long words to break within boundaries */
+    hyphens: auto; /* Enables hyphenation for smoother text breaks */
+}
+
+/* Individual grid cells, each containing two internal columns */
 .two-columns > * {
-    break-inside: avoid; /* Prevents content from splitting awkwardly across cells */
+    column-count: 2; /* Creates two sub-columns within each grid cell */
+    column-fill: balance; /* Balances content evenly between columns */
+    column-gap: 1.5em; /* Space between sub-columns */
     padding: 0.5em; /* Adds padding for readability */
-    box-sizing: border-box; /* Maintains consistent sizing */
-    column-count: 1; /* Each item acts as a single-column section within the grid */
-    overflow-wrap: break-word; /* Ensures long words break to fit within boundaries */
-    hyphens: auto; /* Allows hyphenation to improve text flow */
+    box-sizing: border-box; /* Consistent box sizing */
 }
 
-/* Use nth-child to position items for consistent flow across columns */
-.two-columns > *:nth-child(odd) {
-    grid-column: 1; /* Assigns odd items to the left column */
-}
-
-.two-columns > *:nth-child(even) {
-    grid-column: 2; /* Assigns even items to the right column */
-}
-
-/* Optional: Dotted line to create visual separation between rows (pages) */
+/* Optional dotted line to create visual separation between rows (pages) */
 .two-columns::before, .two-columns::after {
     content: "";
     display: block;
