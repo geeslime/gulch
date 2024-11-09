@@ -1,26 +1,17 @@
 .two-columns {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Creates two equal-width columns within each "page" */
-    grid-auto-rows: 300px; /* Sets fixed height for each "page" */
-    column-gap: 1.5em; /* Controls space between columns */
-    row-gap: 2em; /* Space between rows for "page" simulation */
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: minmax(300px, auto);
+    column-gap: 1.5em;
+    row-gap: 2em;
     width: 100%;
 }
 
 .two-columns > * {
-    word-break: break-word; /* Allows words to break at column boundaries */
-    overflow-wrap: break-word; /* Ensures long words wrap, enabling column flow */
-    padding: 0.5em; /* Adds padding for readability */
+    padding: 0.5em;
     box-sizing: border-box;
-    /* Avoid `break-inside` so lines can flow naturally between columns */
-}
-
-/* Optional: dotted line as a separator between grid rows to simulate page breaks */
-.two-columns::before, .two-columns::after {
-    content: "";
-    display: block;
-    height: 1px;
-    background: repeating-linear-gradient(to right, rgba(200, 200, 200, 0.6) 0, rgba(200, 200, 200, 0.6) 2px, transparent 2px, transparent 4px);
-    width: 100%;
-    margin-bottom: 1em;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    column-fill: balance;
 }
