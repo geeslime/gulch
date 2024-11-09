@@ -1,14 +1,15 @@
 .two-columns {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Two equal-width columns */
-    grid-auto-rows: minmax(300px, auto); /* Sets each "page" height, adjust as needed */
+    grid-template-columns: 1fr 1fr; /* Two equal-width columns for page simulation */
+    grid-auto-rows: 800px; /* Fixed height for each "page" */
     column-gap: 1.5em; /* Space between columns */
-    row-gap: 2em; /* Space between "pages" */
+    row-gap: 2em; /* Space between rows for simulated "page" breaks */
     width: 100%;
 }
 
 .two-columns > * {
+    column-span: all; /* Allows content to span freely across columns if needed */
     padding: 0.5em; /* Padding for readability */
     box-sizing: border-box;
-    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Light gray dotted line for visual separation */
+    border-bottom: 1px dotted rgba(200, 200, 200, 0.6); /* Dotted line for visual separation */
 }
