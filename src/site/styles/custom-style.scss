@@ -1,54 +1,33 @@
-/***
-   Custom Styling for Digital Garden
-   All styles here will take precedence over the base styles.
-***/
-
-body {
-    background-color: #141414; /* Background primary dark */
-    color: #6EAA7A; /* Accent color */
-}
-
-/* Text styling */
-.italic {
-    color: #DA7DC2DB; /* Italic color dark */
-    font-style: italic;
-}
-
-.bold {
-    color: #7396AB; /* Bold color dark */
-    font-weight: bold;
-}
-
-/* Link styling */
-a.internal-link {
-    color: #6EAA7A; /* Internal link color dark */
+:root {
+    /* Light Theme */
+    --bold-color-light: #FF2C2CC2;
+    --italic-color-light: #DA7DC2DB;
+  
+    /* Dark Theme */
+    --bold-color-dark: #7396AB;
+    --italic-color-dark: #DA7DC2DB;
+  
+    /* General */
+    --accent-color: #6EAA7A;
+    --internal-link-color: #6EAA7A;
+    --external-link-color: #6EAA7A;
+    --unresolved-link-color: #9EA3AC;
+    --h1-color-dark: #EA5852;
+    --outline-border: 7px;
+  
+    /* Other Settings */
+    --link-underline-internal: true;
+    --link-underline-unresolved: true;
+    --link-underline-external: true;
+  }
+  
+  /* Links */
+  a.internal-link {
+    color: var(--internal-link-color);
     text-decoration: underline;
-}
-
-a.external-link {
-    color: #6EAA7A; /* External link color dark */
+  }
+  
+  a.external-link {
+    color: var(--external-link-color);
     text-decoration: underline;
-}
-
-a.unresolved-link {
-    color: #9EA3AC; /* Unresolved link color dark */
-    text-decoration: underline;
-}
-
-/* Border and outline styling */
-.outline {
-    border: #2F2D40 solid 7px; /* Border color */
-}
-
-/* Highlight and Callout Styling */
-.highlight {
-    background-color: #6EAA7A; /* Highlight background color */
-    color: white; /* Highlight text color */
-}
-
-.callout {
-    background-color: #141414; /* Background primary alt dark */
-    border-left: 5px solid #6EAA7A; /* Accent color for callout */
-    padding: 1rem;
-    margin: 1rem 0;
-}
+  }
