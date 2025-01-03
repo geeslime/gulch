@@ -11,11 +11,6 @@
   color: var(--internal-link-color);
   text-decoration: underline; }
   
-.markdown-rendered .external-link,
-.cm-s-obsidian span.cm-hmd-external-link {
-  color: var(--external-link-color);
-  text-decoration: underline; }
-  
 .markdown-rendered .internal-link.is-unresolved {
   color: var(--unresolved-link-color);
   text-decoration: underline; }
