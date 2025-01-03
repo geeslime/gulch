@@ -3,78 +3,52 @@
    All styles here will take precedence over the base styles.
 ***/
 
-/* Define variables for custom colors */
-:root {
-    --background-primary-dark: #141414;
-    --background-primary-alt-dark: #141414;
-    --border-color-dark: #2F2D40;
-    --accent-color-dark: #6EAA7A;
-    --italic-color-dark: #DA7DC2DB;
-    --italic-color-light: #DA7DC2DB;
-    --bold-color-dark: #7396AB;
-    --bold-color-light: #FF2C2CC2;
-    --internal-link-color-dark: #6EAA7A;
-    --external-link-color-dark: #6EAA7A;
-    --unresolved-link-color-dark: #9EA3AC;
-}
-
-/* General body styling */
 body {
-    background-color: var(--background-primary-dark);
-    color: var(--accent-color-dark);
-}
-
-/* Heading styles */
-h1 {
-    color: var(--accent-color-dark); /* You can customize this further */
-}
-
-h2 {
-    color: var(--accent-color-dark);
-    border-bottom: 2px solid var(--border-color-dark);
+    background-color: #141414; /* Background primary dark */
+    color: #6EAA7A; /* Accent color */
 }
 
 /* Text styling */
 .italic {
-    color: var(--italic-color-dark);
+    color: #DA7DC2DB; /* Italic color dark */
     font-style: italic;
 }
 
 .bold {
-    color: var(--bold-color-dark);
+    color: #7396AB; /* Bold color dark */
     font-weight: bold;
 }
 
 /* Link styling */
 a.internal-link {
-    color: var(--internal-link-color-dark);
+    color: #6EAA7A; /* Internal link color dark */
     text-decoration: underline;
 }
 
 a.external-link {
-    color: var(--external-link-color-dark);
+    color: #6EAA7A; /* External link color dark */
     text-decoration: underline;
 }
 
 a.unresolved-link {
-    color: var(--unresolved-link-color-dark);
-    text-decoration: underline dotted;
+    color: #9EA3AC; /* Unresolved link color dark */
+    text-decoration: underline;
 }
 
 /* Border and outline styling */
 .outline {
-    border: var(--border-color-dark) solid 7px;
+    border: #2F2D40 solid 7px; /* Border color */
 }
 
 /* Highlight and Callout Styling */
 .highlight {
-    background-color: var(--accent-color-dark);
-    color: white;
+    background-color: #6EAA7A; /* Highlight background color */
+    color: white; /* Highlight text color */
 }
 
 .callout {
-    background-color: var(--background-primary-alt-dark);
-    border-left: 5px solid var(--accent-color-dark);
+    background-color: #141414; /* Background primary alt dark */
+    border-left: 5px solid #6EAA7A; /* Accent color for callout */
     padding: 1rem;
     margin: 1rem 0;
 }
