@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/geeslime/","tags":["person"],"created":"2025-01-03T17:39:41.713-05:00","updated":"2025-01-03T17:49:34.093-05:00"}
+{"dg-publish":true,"permalink":"/people/geeslime/","tags":["person"],"created":"2025-01-03T17:39:41.713-05:00","updated":"2025-01-03T18:12:53.428-05:00"}
 ---
 
 <head>
@@ -19,7 +19,7 @@
 
 Geeslime, or "gee", pronounced like the letter G, is the creator of this vault and owner of this discord server: https://discord.gg/k5pJuUTpnQ (personal discord: discordapp.com/users/1013793730785976341)
 
-Notes contributed by gee:
+Notes contributed by gee: 
 
 <style>
 /* CSS for Tab Navigation */
