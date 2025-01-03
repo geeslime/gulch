@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T16:45:22.712-05:00"}
+{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T17:06:18.127-05:00"}
 ---
 
 
@@ -22,7 +22,7 @@
 
 
 
-
+[[note/this fphhhhhhh\|note/this fphhhhhhh]]
 
 
 <center><h2>WELCOME</h2></center>
@@ -42,10 +42,11 @@ The site also supports Disqus comments at the bottom of each page for readers to
 
 <div id="All" class="tabcontent">
 
-| File                                   | Tags | Aliases |
-| -------------------------------------- | ---- | ------- |
-| [[note/Welcome Page\|Welcome Page]] | \-   | \-      |
-| [[note/Untitled\|Untitled]]         | \-   | \-      |
+| File                                       | Tags | Aliases |
+| ------------------------------------------ | ---- | ------- |
+| [[note/Welcome Page\|Welcome Page]]     | \-   | \-      |
+| [[note/Untitled\|Untitled]]             | \-   | \-      |
+| [[note/this fphhhhhhh\|this fphhhhhhh]] | \-   | \-      |
 
 { .block-language-dataview}
 
