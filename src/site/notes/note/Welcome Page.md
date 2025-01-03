@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T15:19:20.515-05:00"}
+{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T15:23:04.789-05:00"}
 ---
 
 
@@ -22,7 +22,7 @@
 
 <center><h2>WELCOME</h2></center>
 
-This online <a href="https://obsidian.md/">Obsidian</a> vault is *maintained* by [[gee\|gee]]. If you would like to contribute to this vault — or discuss about its contents with any of its [[contributors\|contributors]] — you can do so by joining this Discord server: <a href="https://discord.gg/k5pJuUTpnQ">https://discord.gg/k5pJuUTpnQ</a> and asking me (gee.).
+This online <a href="https://obsidian.md/">Obsidian</a> **vault** is *maintained* by [[gee\|gee]]. If you would like to contribute to this vault — or discuss about its contents with any of its [[contributors\|contributors]] — you can do so by joining this Discord server: <a href="https://discord.gg/k5pJuUTpnQ">https://discord.gg/k5pJuUTpnQ</a> and asking me (gee.).
 
 The site also supports Disqus comments at the bottom of each page for readers to add their thoughts to a note.
 
