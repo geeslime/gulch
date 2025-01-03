@@ -1,6 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/note/untitled/","created":"2025-01-03T16:50:23.141-05:00","updated":"2025-01-03T16:59:09.393-05:00"}
+{"dg-publish":true,"permalink":"/note/untitled/","created":"2025-01-03T16:50:23.141-05:00","updated":"2025-01-03T17:04:36.834-05:00"}
 ---
 
+
+<style>
+/* Bold text */
+strong,
+b {
+  color: var(--bold-color);
+}
+
+/* Italic text */
+em,
+i {
+  color: var(--italic-color);
+}
+</style>
 
 The ecological approach to [[perception-action coupling\|perception-action]], in the tradition of the late [[James J. Gibson\|James J. Gibson]], sees [[Commensurability of psychology, biology, and physics\|psychology as continuous with the natural sciences]] (and, in fact, rather than being reserved as a special case for applying scientific principles, [[Properties of Living-Systems\|living systems]] embody the more general case as is argued near the end of this page). Just as the behaviors of natural, nonliving systems at the [very large](https://youtu.be/bbUVQiF2TbE?si=pGb7euw2JkwhSxte) and [very small](https://drive.google.com/file/d/1Gxfut5KJmIJbyqC61o44T99aYgGYTuaK/view?usp=sharing) scales are approachable in terms of very general [[principles\|principles]] so, too, are the behaviors of living systems at the [[Ecological Physics\|intermediate ecological scale]]. In its broadest sense, *ecology* is a multidisciplinary approach to the study of living systems, their environments, and *the reciprocity that has evolved between the two*. The [[Organism-Environment System\|organism-environment system]] is treated as the primary unit of analysis, as is necessitated by a philosophical foundation (aligned with [[Objectivism\|objectivism]]) of [[Dualism Versus Duality\|eschewing the pervasive dualisms]] that impose a fragmented view of reality along with the [[Reductionist Fallacies\|reductive tendencies]] that arise from varied attempts to carve up reality in [[Procrustean Fallacy\|procrusten-fashion]] or to "resolve" these false dichotomies with conveniently oversimplifying monisms. The basic orientation of this approach is to the [[The Primacy of Existence vs The Primacy of Consciousness\|primacy of existestence]] where [[Facts of the Environment to Be Perceived\|the environment to be perceived]] is the starting point for any intellectual pursuit in the problems of perception-action. This perspective carries implications not just for psychology but for our broader understanding of the natural world; [the task of identifying general principles at the ecological scale](https://drive.google.com/file/d/1Cksqbw7yavkJXFiSwsWZsDPh29aBekCd/view?usp=sharing) challenges traditional methods, necessitating novel interdisciplinary strategies.
