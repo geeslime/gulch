@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T16:12:52.966-05:00"}
+{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T16:45:22.712-05:00"}
 ---
 
 
@@ -20,62 +20,9 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-<style>
-/***
-   Custom Styling for Digital Garden
-   All styles here will take precedence over the base styles.
-***/
 
-body {
-    background-color: #141414; /* Background primary dark */
-    color: #6EAA7A; /* Accent color */
-}
 
-/* Text styling */
-.italic {
-    color: #DA7DC2DB; /* Italic color dark */
-    font-style: italic;
-}
 
-.bold {
-    color: #7396AB; /* Bold color dark */
-    font-weight: bold;
-}
-
-/* Link styling */
-a.internal-link {
-    color: #6EAA7A; /* Internal link color dark */
-    text-decoration: underline;
-}
-
-a.external-link {
-    color: #6EAA7A; /* External link color dark */
-    text-decoration: underline;
-}
-
-a.unresolved-link {
-    color: #9EA3AC; /* Unresolved link color dark */
-    text-decoration: underline;
-}
-
-/* Border and outline styling */
-.outline {
-    border: #2F2D40 solid 7px; /* Border color */
-}
-
-/* Highlight and Callout Styling */
-.highlight {
-    background-color: #6EAA7A; /* Highlight background color */
-    color: white; /* Highlight text color */
-}
-
-.callout {
-    background-color: #141414; /* Background primary alt dark */
-    border-left: 5px solid #6EAA7A; /* Accent color for callout */
-    padding: 1rem;
-    margin: 1rem 0;
-}
-</style>
 
 
 <center><h2>WELCOME</h2></center>
