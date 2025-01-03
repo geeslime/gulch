@@ -1,41 +1,13 @@
 body {
-  "shiba-theme-settings@@shiba-colors-theme-light": "default-light-theme",
-  "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
-  "shiba-theme-settings@@shiba-accent-colors": "accent-lemon",
-  "shiba-theme-settings@@shib-h1-color-custom": "none",
-  "shiba-theme-settings@@h1-color@@dark": "#EA5852",
-  "shiba-theme-settings@@h2-font": "Satoshi",
-  "shiba-theme-settings@@shib-h2-color-custom": "none",
-  "shiba-theme-settings@@shib-h3-color-custom": "none",
-  "shiba-theme-settings@@shib-h4-color-custom": "shib-h4-lily",
-  "shiba-theme-settings@@shib-h5-color-custom": "shib-h5-rose",
-  "shiba-theme-settings@@shib-h6-color-custom": "shib-h6-violet",
-  "shiba-theme-settings@@shiba-italic-colors": "none",
-  "shiba-theme-settings@@italic-color@@dark": "#DA7DC2DB",
-  "shiba-theme-settings@@italic-color@@light": "#DA7DC2DB",
-  "shiba-theme-settings@@shiba-bold-colors": "none",
-  "shiba-theme-settings@@bold-color@@dark": "#79A7C1BA",
-  "shiba-theme-settings@@bold-color@@light": "#FF2C2CC2",
-  "shiba-theme-settings@@link-underline-internal": true,
-  "shiba-theme-settings@@shib-th-highlight": true,
-  "shiba-theme-settings@@shib-callout-toggle": true,
-  "shiba-theme-settings@@shib-hb-select": "shiba-hb-style",
-  "shiba-theme-settings@@outline-border": 7,
-  "shiba-theme-settings@@blockquote-style": "blockquote-style-default",
-  "shiba-theme-settings@@translucent-pane-style-settings": "setting-style-traditional",
-  "shiba-theme-settings@@folder-style-change-options-colorful": "shiba-color-folder-title",
-  "shiba-theme-settings@@folder-style-change-options-colors-palette": "folder-colorful-four",
-  "shiba-theme-settings@@shib-layout-select": "shib-card-layout",
-  "shiba-theme-settings@@shib-card-shadows": true,
-  "shiba-theme-settings@@shib-card-layout-actions": true,
-  "shiba-theme-settings@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-custom-option",
-  "shiba-theme-settings@@background-settings-workplace-theme-light-custom": "url(\"https://cdn.openart.ai/stable_diffusion/8a6f96425a0c8dc7589faca934a592d54c561c5f_2000x2000.webp\")",
-  "shiba-theme-settings@@shib-custom-bg-blur-light": 6,
-  "shiba-theme-settings@@shib-custom-bg-brightness-light": 0.9,
-  "shiba-theme-settings@@shib-custom-bg-card-fg-opacity-light": 0.95,
-  "shiba-theme-settings@@background-settings-workplace-theme-dark-custom": "url(\"https://cdn.openart.ai/stable_diffusion/9df235ef1e52f0f8034c9aaeee76bb002138603c_2000x2000.webp\")",
-  "shiba-theme-settings@@shib-custom-bg-blur-dark": 3,
-  "shiba-theme-settings@@shib-custom-bg-brightness-dark": 0.55,
-  "shiba-theme-settings@@shib-custom-bg-card-fg-opacity-dark": 0.75,
-  "shiba-theme-settings@@shib-minimal-cards-style-select": "minimal-cards-style1"
+    /***
+      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+   ***/
+    //  background-color: white;
+    //  .content {
+    //   font-size: 14px;
+    //  }
+    //  h1 {
+    //   color: black;
+    //  }
 }
