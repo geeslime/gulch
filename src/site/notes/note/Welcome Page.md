@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T17:49:39.842-05:00"}
+{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T18:22:38.814-05:00"}
 ---
 
 
@@ -19,6 +19,9 @@
   <meta property="og:url" content="https://gulch.vercel.app/welcome-page" />
   <meta property="og:site_name" content="gulch" />
 </head>
+
+
+[[note/collhgfjknbt\|note/collhgfjknbt]]
 
 
 <center><h2>WELCOME</h2></center>
@@ -41,6 +44,7 @@ The site also supports Disqus comments at the bottom of each page for readers to
 | File                                   | Tags                     | Aliases               |
 | -------------------------------------- | ------------------------ | --------------------- |
 | [[note/Welcome Page\|Welcome Page]] | \-                       | \-                    |
+| [[note/collhgfjknbt\|collhgfjknbt]] | \-                       | \-                    |
 | [[people/geeslime\|geeslime]]       | <ul><li>person</li></ul> | <ul><li>gee</li></ul> |
 
 { .block-language-dataview}
