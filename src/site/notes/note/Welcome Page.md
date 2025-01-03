@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T18:22:38.814-05:00"}
+{"dg-publish":true,"permalink":"/note/welcome-page/","tags":["gardenEntry"],"created":"2025-01-02T18:59:40.908-05:00","updated":"2025-01-03T18:44:05.544-05:00"}
 ---
 
 
@@ -20,13 +20,9 @@
   <meta property="og:site_name" content="gulch" />
 </head>
 
-
-[[note/collhgfjknbt\|note/collhgfjknbt]]
-
-
 <center><h2>WELCOME</h2></center>
 
-This online <a href="https://obsidian.md/">Obsidian</a> vault is maintained by [[people/geeslime\|gee]]. If you would like to contribute to this vault — or discuss about its contents with any of its [[contributors\|contributors]] — you can do so by joining this Discord server: <a href="https://discord.gg/k5pJuUTpnQ">https://discord.gg/k5pJuUTpnQ</a> and asking me (gee.).
+This online <a href="https://obsidian.md/">Obsidian</a> vault is maintained by [[geeslime\|gee]]. If you would like to contribute to this vault — or discuss about its contents with any of its [[contributors\|contributors]] — you can do so by joining this Discord server: <a href="https://discord.gg/k5pJuUTpnQ">https://discord.gg/k5pJuUTpnQ</a> and asking me (gee.).
 
 The site also supports Disqus comments at the bottom of each page for readers to add their thoughts to a note.
 
@@ -41,11 +37,9 @@ The site also supports Disqus comments at the bottom of each page for readers to
 
 <div id="All" class="tabcontent">
 
-| File                                   | Tags                     | Aliases               |
-| -------------------------------------- | ------------------------ | --------------------- |
-| [[note/Welcome Page\|Welcome Page]] | \-                       | \-                    |
-| [[note/collhgfjknbt\|collhgfjknbt]] | \-                       | \-                    |
-| [[people/geeslime\|geeslime]]       | <ul><li>person</li></ul> | <ul><li>gee</li></ul> |
+| File                                   | Tags | Aliases |
+| -------------------------------------- | ---- | ------- |
+| [[note/Welcome Page\|Welcome Page]] | \-   | \-      |
 
 { .block-language-dataview}
 
