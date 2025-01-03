@@ -1,59 +1,26 @@
 :root {
-  /* Light Theme */
-  --bold-color-light: #FF2C2C;
-  --italic-color-light: #DA7DC2;
-
-  /* Dark Theme */
-  --bold-color-dark: #7396AB;
-  --italic-color-dark: #DA7DC2;
-
   /* General */
   --accent-color: #6EAA7A;
   --internal-link-color: #6EAA7A;
   --external-link-color: #6EAA7A;
   --unresolved-link-color: #9EA3AC;
   --h1-color-dark: #EA5852;
-  --outline-border: 7px;
-}
+  --outline-border: 7px; }
 
-/* Links */
 a.internal-link {
   color: var(--internal-link-color);
-  text-decoration: underline;
-}
+  text-decoration: underline; }
 
 a.external-link {
   color: var(--external-link-color);
-  text-decoration: underline;
-}
+  text-decoration: underline; }
 
-/* Bold and Italic Text */
-.theme-light .markdown-preview-view strong,
-.theme-light .markdown-preview-view b {
-  color: var(--bold-color-light);
-}
+a.unresolved-link {
+  color: var(--external-link-color);
+  text-decoration: underline; }
 
-.theme-dark .markdown-preview-view strong,
-.theme-dark .markdown-preview-view b {
-  color: var(--bold-color-dark);
-}
+i, em, span.cm-em {
+  color: #DA7DC2; }
 
-.theme-light .markdown-preview-view em,
-.theme-light .markdown-preview-view i {
-  color: var(--italic-color-light);
-}
-
-.theme-dark .markdown-preview-view em,
-.theme-dark .markdown-preview-view i {
-  color: var(--italic-color-dark);
-}
-
-/* Underline for Links in Editor Mode */
-.cm-s-obsidian span.cm-link {
-  text-decoration: underline;
-}
-
-/* Underline for Links in Preview Mode */
-.markdown-preview-view a {
-  text-decoration: underline;
-}
+b, strong, span.cm-strong {
+  color: #7396AB; }
