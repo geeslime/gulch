@@ -1,13 +1,80 @@
+/***
+   Custom Styling for Digital Garden
+   All styles here will take precedence over the base styles.
+***/
+
+/* Define variables for custom colors */
+:root {
+    --background-primary-dark: #141414;
+    --background-primary-alt-dark: #141414;
+    --border-color-dark: #2F2D40;
+    --accent-color-dark: #6EAA7A;
+    --italic-color-dark: #DA7DC2DB;
+    --italic-color-light: #DA7DC2DB;
+    --bold-color-dark: #7396AB;
+    --bold-color-light: #FF2C2CC2;
+    --internal-link-color-dark: #6EAA7A;
+    --external-link-color-dark: #6EAA7A;
+    --unresolved-link-color-dark: #9EA3AC;
+}
+
+/* General body styling */
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    background-color: var(--background-primary-dark);
+    color: var(--accent-color-dark);
+}
+
+/* Heading styles */
+h1 {
+    color: var(--accent-color-dark); /* You can customize this further */
+}
+
+h2 {
+    color: var(--accent-color-dark);
+    border-bottom: 2px solid var(--border-color-dark);
+}
+
+/* Text styling */
+.italic {
+    color: var(--italic-color-dark);
+    font-style: italic;
+}
+
+.bold {
+    color: var(--bold-color-dark);
+    font-weight: bold;
+}
+
+/* Link styling */
+a.internal-link {
+    color: var(--internal-link-color-dark);
+    text-decoration: underline;
+}
+
+a.external-link {
+    color: var(--external-link-color-dark);
+    text-decoration: underline;
+}
+
+a.unresolved-link {
+    color: var(--unresolved-link-color-dark);
+    text-decoration: underline dotted;
+}
+
+/* Border and outline styling */
+.outline {
+    border: var(--border-color-dark) solid 7px;
+}
+
+/* Highlight and Callout Styling */
+.highlight {
+    background-color: var(--accent-color-dark);
+    color: white;
+}
+
+.callout {
+    background-color: var(--background-primary-alt-dark);
+    border-left: 5px solid var(--accent-color-dark);
+    padding: 1rem;
+    margin: 1rem 0;
 }
