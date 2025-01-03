@@ -37,10 +37,11 @@ The site also supports Disqus comments at the bottom of each page for readers to
 
 <div id="All" class="tabcontent">
 
-| File                                   | Tags                     | Aliases               |
-| -------------------------------------- | ------------------------ | --------------------- |
-| [[note/Welcome Page\|Welcome Page]] | \-                       | \-                    |
-| [[people/geeslime\|geeslime]]       | <ul><li>person</li></ul> | <ul><li>gee</li></ul> |
+| File                                                 | Tags                                                | Aliases                               |
+| ---------------------------------------------------- | --------------------------------------------------- | ------------------------------------- |
+| [[note/Welcome Page\|Welcome Page]]               | \-                                                  | \-                                    |
+| [[note/Ecological Approach\|Ecological Approach]] | <ul><li>perception-action</li><li>ecology</li></ul> | <ul><li>ecological approach</li></ul> |
+| [[people/geeslime\|geeslime]]                     | <ul><li>person</li></ul>                            | <ul><li>gee</li></ul>                 |
 
 { .block-language-dataview}
 

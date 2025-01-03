@@ -66,8 +66,9 @@ Notes contributed by gee:
 
 <div id="All" class="tabcontent">
 
-| File | Tags | Aliases |
-| ---- | ---- | ------- |
+| File                                                 | Tags                                                | Aliases                               |
+| ---------------------------------------------------- | --------------------------------------------------- | ------------------------------------- |
+| [[note/Ecological Approach\|Ecological Approach]] | <ul><li>perception-action</li><li>ecology</li></ul> | <ul><li>ecological approach</li></ul> |
 
 { .block-language-dataview}
 
