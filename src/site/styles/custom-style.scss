@@ -6,16 +6,19 @@
   --unresolved-link-color: #9EA3AC;
   --outline-border: 7px; }
 
-a.internal-link {
-  color: var(--internal-link-color);
+.markdown-rendered .internal-link,
+.cm-s-obsidian span.cm-hmd-internal-link {
+  color: #6EAA7A;
   text-decoration: underline; }
 
-a.external-link {
-  color: var(--external-link-color);
+.markdown-rendered .external-link,
+.cm-s-obsidian span.cm-hmd-external-link {
+  color: #6EAA7A;
   text-decoration: underline; }
 
-a.unresolved-link {
-  color: var(--external-link-color);
+.markdown-rendered .unresolved-link,
+.cm-s-obsidian span.cm-hmd-unresolved-link {
+  color: #9EA3AC;
   text-decoration: underline; }
 
 i, em, span.cm-em {
