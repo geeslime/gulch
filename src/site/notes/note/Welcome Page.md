@@ -45,6 +45,7 @@ The site also supports Disqus comments at the bottom of each page for readers to
 | File                                   | Tags | Aliases |
 | -------------------------------------- | ---- | ------- |
 | [[note/Welcome Page\|Welcome Page]] | \-   | \-      |
+| [[note/Untitled\|Untitled]]         | \-   | \-      |
 
 { .block-language-dataview}
 
