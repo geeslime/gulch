@@ -66,9 +66,19 @@ Notes contributed by gee:
 
 <div id="All" class="tabcontent">
 
-| File                                                 | Tags                                                | Aliases                               |
-| ---------------------------------------------------- | --------------------------------------------------- | ------------------------------------- |
-| [[note/Ecological Approach\|Ecological Approach]] | <ul><li>perception-action</li><li>ecology</li></ul> | <ul><li>ecological approach</li></ul> |
+| File                                                                                                             | Tags                                                | Aliases                               |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------- |
+| [[(Todo) broadcategories/Characteristics vs. Properties (BPC)\|Characteristics vs. Properties (BPC)]]         | \-                                                  | \-                                    |
+| [[(Todo) broadcategories/Constituent and Composite Entities (BPC)\|Constituent and Composite Entities (BPC)]] | \-                                                  | \-                                    |
+| [[(Todo) broadcategories/Four Conditioning Connections (BPC)\|Four Conditioning Connections (BPC)]]           | \-                                                  | \-                                    |
+| [[(Todo) broadcategories/Material and Formal Entities (BPC)\|Material and Formal Entities (BPC)]]             | \-                                                  | \-                                    |
+| [[(Todo) broadcategories/Matter and Form (BPC)\|Matter and Form (BPC)]]                                       | \-                                                  | \-                                    |
+| [[(Todo) broadcategories/Relationship (BPC)\|Relationship (BPC)]]                                             | \-                                                  | \-                                    |
+| [[(Todo) broadcategories/Necessary Connections (BPC)\|Necessary Connections (BPC)]]                           | \-                                                  | \-                                    |
+| [[(Todo) broadcategories/Conditioning Connections (BPC)\|Conditioning Connections (BPC)]]                     | \-                                                  | \-                                    |
+| [[(Todo) broadcategories/Entity and Property (BPC)\|Entity and Property (BPC)]]                               | \-                                                  | \-                                    |
+| [[(Todo) broadcategories/Broad Physical Categories (BPC)\|Broad Physical Categories (BPC)]]                   | <ul><li>metaphysics</li><li>physics</li></ul>       | \-                                    |
+| [[note/Ecological Approach\|Ecological Approach]]                                                             | <ul><li>perception-action</li><li>ecology</li></ul> | <ul><li>ecological approach</li></ul> |
 
 { .block-language-dataview}
 
