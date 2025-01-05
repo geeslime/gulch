@@ -76,7 +76,7 @@ Notes contributed by gee:
 | [[(Todo) broadcategories/Relationship (BPC)\|Relationship (BPC)]]                                             | \-                                                  | \-                                    |
 | [[(Todo) broadcategories/Necessary Connections (BPC)\|Necessary Connections (BPC)]]                           | \-                                                  | \-                                    |
 | [[(Todo) broadcategories/Conditioning Connections (BPC)\|Conditioning Connections (BPC)]]                     | \-                                                  | \-                                    |
-| [[(Todo) broadcategories/Entity and Property (BPC)\|Entity and Property (BPC)]]                               | \-                                                  | \-                                    |
+| [[note/Entity and Property (BPC)\|Entity and Property (BPC)]]                                                 | \-                                                  | \-                                    |
 | [[note/Broad Physical Categories (BPC)\|Broad Physical Categories (BPC)]]                                     | <ul><li>broad-physical-categories</li></ul>         | <ul><li>bpc</li></ul>                 |
 | [[(Todo) broadcategories/Broad Physical Categories (BPC)\|Broad Physical Categories (BPC)]]                   | <ul><li>metaphysics</li><li>physics</li></ul>       | \-                                    |
 | [[note/Ecological Approach\|Ecological Approach]]                                                             | <ul><li>perception-action</li><li>ecology</li></ul> | <ul><li>ecological approach</li></ul> |
