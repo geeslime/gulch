@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/entity-and-property-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T22:39:00.207-05:00","updated":"2025-01-06T01:44:55.605-05:00"}
+{"dg-publish":true,"permalink":"/note/entity-and-property-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T22:39:00.207-05:00","updated":"2025-01-06T01:49:57.927-05:00"}
 ---
 
 <head>
