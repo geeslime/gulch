@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/broad-physical-categories-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T21:36:39.490-05:00","updated":"2025-01-04T06:36:33.538-05:00"}
+{"dg-publish":true,"permalink":"/note/broad-physical-categories-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T21:36:39.490-05:00","updated":"2025-01-06T01:53:29.639-05:00"}
 ---
 
 
@@ -49,14 +49,13 @@
 | 13. [[(Todo) broadcategories/Material and Formal Entities (BPC)\|Material entity]]               | An **entity** having particular **properties which are the result of material conditioning**.                                                                                                    |
 | 14. [[(Todo) broadcategories/Material and Formal Entities (BPC)\|Formal entity]]                 | An **entity** having particular **properties which are the result of formal conditioning**.                                                                                                      |
 | 15. [[(Todo) broadcategories/Action (BPC)\|Action]]                                              | The *formation or dissolution* of a **relationship**.                                                                                                                                            |
-| 16. [[(Todo) broadcategories/Process (BPC)\|Process]]                                            | A set of **actions** each action **conditioning** the next.                                                                                                                                      |
-| 17. [[(Todo) broadcategories/Causal Connections (BPC)\|Causal Connection]]                       | A **conditioning connection** involving **action**.                                                                                                                                              |
-| _**18.**_ [[Cause-Effect Reciprocity\|Cause]]                             | A **property** of an entity **which conditions the properties of another entity through action**. Cause **always comes before the properties it conditions** (effect).                           |
-| _**18.**_ [[Cause-Effect Reciprocity\|Effect]]                            | A **property** or **set of properties** of an entity which are **conditioned by a certain cause**. Effect **always comes after cause**.                                                          |
-| 19. [[(Todo) broadcategories/Four Causes (BPC)\|Material cause]]                             | A **material conditioning connection** between an **entity’s matter** and **its actions**.                                                                                                       |
-| 20. [[(Todo) broadcategories/Four Causes (BPC)\|Formal cause]]                               | A **formal conditioning connection** between an **entity’s form** and **its actions**.                                                                                                           |
-| 21. [[(Todo) broadcategories/Four Causes (BPC)\|Efficient cause]]                            | A **conditioning connection** between **the actions of a first entity** and **the properties of a second entity**.                                                                               |
-| 22. [[(Todo) broadcategories/Four Causes (BPC)\|Passive Cause]]                              | A **conditioning connection** between **the properties of a first entity** and _the way its other properties will change when it is subject to the actions of a second entity_.                  |
+| 16. [[(Todo) broadcategories/Causal Connections (BPC)\|Causal Connection]]                       | A **conditioning connection** involving **action**.                                                                                                                                              |
+| _**17.**_ [[Cause-Effect Reciprocity\|Cause]]                             | A **property** of an entity **which conditions the properties of another entity through action**. Cause **always comes before the properties it conditions** (effect).                           |
+| _**17.**_ [[Cause-Effect Reciprocity\|Effect]]                            | A **property** or **set of properties** of an entity which are **conditioned by a certain cause**. Effect **always comes after cause**.                                                          |
+| 18. [[(Todo) broadcategories/Four Causes (BPC)\|Material cause]]                                 | A **material conditioning connection** between an **entity’s matter** and **its actions**.                                                                                                       |
+| 19. [[(Todo) broadcategories/Four Causes (BPC)\|Formal cause]]                                   | A **formal conditioning connection** between an **entity’s form** and **its actions**.                                                                                                           |
+| 20. [[(Todo) broadcategories/Four Causes (BPC)\|Efficient cause]]                                | A **conditioning connection** between **the actions of a first entity** and **the properties of a second entity**.                                                                               |
+| 21. [[(Todo) broadcategories/Four Causes (BPC)\|Passive Cause]]                                  | A **conditioning connection** between **the properties of a first entity** and _the way its other properties will change when it is subject to the actions of a second entity_.                  |
 
 
 <center><h1><i>Broad Physical Categories Ordered by Subsumptive Relationships:</i></h1></center>
@@ -75,7 +74,6 @@
     - **a.** [[note/Entity and Property (BPC)\|Property]]
         - **i.** [[(Todo) broadcategories/Relationship (BPC)\|Relationship]]
             - **1.** [[(Todo) broadcategories/Action (BPC)\|Action]]
-            - **2.** [[(Todo) broadcategories/Process (BPC)\|Process]]
         - **ii.** [[(Todo) broadcategories/Matter and Form (BPC)\|Matter]]
         - **iii.** [[(Todo) broadcategories/Matter and Form (BPC)\|Form]]
         - **iv.** [[Cause-Effect Reciprocity\|Cause]]
