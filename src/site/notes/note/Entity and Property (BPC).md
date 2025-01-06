@@ -1,6 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/note/entity-and-property-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T22:39:00.207-05:00","updated":"2025-01-06T01:17:23.661-05:00"}
+{"dg-publish":true,"permalink":"/note/entity-and-property-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T22:39:00.207-05:00","updated":"2025-01-06T01:20:25.464-05:00"}
 ---
+
+<head>
+  <title>Entity and Property (BPC)</title>
+  <meta property="og:title" content="Entity and Property (BPC)" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
+  <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="688" />
+  <meta property="og:image:height" content="419" />
+  <meta property="og:description" content="Notice that these two categories mutually condition one another. Each term appears in the definition of the other, so they are put side by side in the list at the same level of the hierarchy...." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:url" content="https://gulch.vercel.app/note/entity-and-property-bpc/" />
+  <meta property="og:site_name" content="gulch" />
+</head>
+
+
+
 
 
 | [[note/Broad Physical Categories (BPC)\|Broad Physical Categories (BPC)]] | Definition                                    |
