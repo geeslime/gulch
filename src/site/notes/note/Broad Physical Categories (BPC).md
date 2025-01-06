@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/broad-physical-categories-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T21:36:39.490-05:00","updated":"2025-01-06T01:53:29.639-05:00"}
+{"dg-publish":true,"permalink":"/note/broad-physical-categories-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T21:36:39.490-05:00","updated":"2025-01-06T02:41:00.712-05:00"}
 ---
 
 
@@ -32,9 +32,9 @@
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Existent**                                                              | _Ostensive._                                                                                                                                                                                     |
 | **Identity**                                                              | _Ostensive._                                                                                                                                                                                     |
-| _**1.**_ [[note/Entity and Property (BPC)\|Entity]]                            | An **existent** having particular **properties**.                                                                                                                                                |
-| _**1.**_ [[note/Entity and Property (BPC)\|Property]]                          | An aspect of an **entity’s** identity.                                                                                                                                                           |
-| 2. [[(Todo) broadcategories/Characteristics vs. Properties (BPC)\|Characteristic]]               | An aspect of an **existent**’s identity.                                                                                                                                                         |
+| _**1.**_ [[note/Entities and Properties (BPC)\|Entity]]                            | An **existent** having particular **properties**.                                                                                                                                                |
+| _**1.**_ [[note/Entities and Properties (BPC)\|Property]]                          | An aspect of an **entity’s** identity.                                                                                                                                                           |
+| 2. [[(Todo) broadcategories/Characteristics (BPC)\|Characteristic]]                              | An aspect of an **existent**’s identity.                                                                                                                                                         |
 | 3. [[(Todo) broadcategories/Conditioning Connections (BPC)\|Conditioning Connections]]           | A **characteristic of an existent** where all or part of **the identity** of that existent is dependent **in part** on a **characteristic** of another **existent**.                             |
 | 4. [[(Todo) broadcategories/Necessary Connections (BPC)\|Necessary Connection]]                  | A **characteristic of an existent** where all or part of **the identity** of that existent is **entirely determined** by a **characteristic** or characteristics of certain other **existents**. |
 | 5. [[(Todo) broadcategories/Relationship (BPC)\|Relationship]]                                   | A **property of an entity** where a **property** or set of **properties** of that **entity** are **conditioned** by the **properties of another entity**.                                        |
@@ -64,14 +64,14 @@
 > [!order] Principle of ordering:
 >  Terms which are subcategories of others are written as subheadings of the broader category of which they are a subcategory.
 
-1. **[[Entity\|Entity]]**
+1. **[[note/Entities and Properties (BPC)\|Entity]]**
     - **a.** [[(Todo) broadcategories/Constituent and Composite Entities (BPC)\|Composite entity]]
     - **b.** [[(Todo) broadcategories/Constituent and Composite Entities (BPC)\|Constituent entity]]
     - **c.** [[(Todo) broadcategories/Material and Formal Entities (BPC)\|Material entity]]
     - **d.** [[(Todo) broadcategories/Material and Formal Entities (BPC)\|Formal entity]]
 
-2. **[[(Todo) broadcategories/Characteristics vs. Properties (BPC)\|Characteristic]]**
-    - **a.** [[note/Entity and Property (BPC)\|Property]]
+2. **[[(Todo) broadcategories/Characteristics (BPC)\|Characteristic]]**
+    - **a.** [[note/Entities and Properties (BPC)\|Property]]
         - **i.** [[(Todo) broadcategories/Relationship (BPC)\|Relationship]]
             - **1.** [[(Todo) broadcategories/Action (BPC)\|Action]]
         - **ii.** [[(Todo) broadcategories/Matter and Form (BPC)\|Matter]]
