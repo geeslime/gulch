@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/broad-physical-categories-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T21:36:39.490-05:00","updated":"2025-01-06T02:41:00.712-05:00"}
+{"dg-publish":true,"permalink":"/note/broad-physical-categories-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T21:36:39.490-05:00","updated":"2025-01-07T01:48:39.124-05:00"}
 ---
 
 
@@ -26,7 +26,7 @@
 > [!order] Principle of ordering:
 >  Existents which condition the identity of a given existent will come before that existent and will show up in the definition of that existent. If two ideas are written side by side, it means they [[Logic of Reciprocity\|mutually condition]] one another.
 
-[[Existence Exists\|Existent]] and [[Law of Identity\|Identity]] are defined *ostensively*, viz., they can only be gestured to. We simply point at something and say that's that. These two concepts cannot [[note/Rules of Definitions\|be defined]] any further because existent and identity are the broadest categories, they don't belong to any wider [[(Todo) rulesofdefinitionsss/(1) Rule of Genus and Differentia\|genus]]. These are the basis of everything else—everything else is an existent with identity. 
+[[Existence Exists\|Existent]] and [[Law of Identity\|Identity]] are defined *ostensively*, viz., they can only be gestured to. We simply point at something and say that's that. These two concepts cannot [[(Todo) rulesofdefinitionsss/Rules of Proper Definition\|be defined]] any further because existent and identity are the broadest categories, they don't belong to any wider [[(Todo) rulesofdefinitionsss/(1) Rule of Genus and Differentia\|genus]]. These are the basis of everything else—everything else is an existent with identity. 
 
 | Category                                                                  | Definition                                                                                                                                                                                       |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
