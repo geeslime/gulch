@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/entities-and-properties-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T22:39:00.207-05:00","updated":"2025-01-06T19:55:56.175-05:00"}
+{"dg-publish":true,"permalink":"/note/entities-and-properties-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T22:39:00.207-05:00","updated":"2025-01-06T19:57:27.613-05:00"}
 ---
 
 <head>
@@ -58,7 +58,7 @@ Zoom in and we can treat the door itself as a system with its own DoFs: rotation
 
 At no level do entities lose their distinctness. A door remains a door, even as it influences and aligns to the constraints of higher ordered system like the house. Similarly, a river remains a river, even as it flows into the ocean and participates in global hydrological cycles. The nested nature of these systems highlights the principle that: *entities are defined by their structural-functional reciprocity with other nested natural units*. Not by reductionist or arbitrary designation.
 
-<center><h6><i>Brief Foray in Economics:</i></center></h6>
+<center><h1><i>Brief Foray in Economics:</i></center></h1>
 
 
 Zooming further out to the level of the human ecosystem introduces additional degrees of freedom (DoFs) that illustrate the principles of reciprocity in economic systems. Some (not exhaustive of all) relevant degrees of freedom are (1) the arrangement of shelters, (2) flow of resources, (3) the structure of production, and (4) interpersonal relations. At this scale, the house itself is a structural-functional unit, supporting human activity through properties such as insulation, storage capacity, and accessibility. The house’s DoFs influence, and are constrained by higher order socio-environmental systems. A house is both a consumption and capital good. A house is such a good example for the broader discussion at hand because it's literally designed to emphasize its embeddedness in higher order systems. Its personally estimated value stems not merely from its immediate sheltering function but also from its role in supporting future productive activities, such as enabling workers to rest and produce effectively, balancing immediate needs against future production possibilities. Rothbard’s framework, rooted in causal-realist analysis, provides a powerful lens for understanding these dynamics. [^4]
