@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/entities-and-properties-bpc/","tags":["broad-physical-categories"],"created":"2025-01-06T20:04:30.605-05:00","updated":"2025-01-07T02:20:51.632-05:00"}
+{"dg-publish":true,"permalink":"/note/entities-and-properties-bpc/","tags":["broad-physical-categories"],"created":"2025-01-06T20:04:30.605-05:00","updated":"2025-01-07T02:24:05.507-05:00"}
 ---
 
 
@@ -27,7 +27,7 @@
 | ***1.*** Entity                     | An existent having particular **properties**. |
 | ***1.*** Property                   | An aspect of an **entity’s** identity.        |
 
-Notice that [[Entity-Property Reciprocity\|these two categories mutually condition one another]]. Each term appears in the definition of the other, so they are put side by side in the list at the same level of the hierarchy. The standard way to think about **entity and property** is that because all properties are properties of entities, entities should come first. That sounds pretty straightforward and true(in the former) —all properties are properties of entities, so entity does [[(Todo) broadcategories/Conditioning Connections (BPC)\|condition]] property. But what *we validly designate as an entity is something which has particular properties,* so property also conditions entity.
+Notice that [[Entity-Property Reciprocity\|these two categories mutually condition one another]]. Each term appears in the definition of the other, so they are put side by side in the list at the same level of the hierarchy. The standard way to think about **entity and property** is that because all properties are properties of entities, entities should come first. That sounds pretty straightforward and true(of the former) —all properties are properties of entities, so entity does [[(Todo) broadcategories/Conditioning Connections (BPC)\|condition]] property. But what *we validly designate as an entity is something which has particular properties,* so property also conditions entity.
 
 Let's think about a door. A door is an entity. This is to say that it is *a distinctly propertied[^1] reality and acts as a unified whole [at the scale-relevant context of its causal efficaciousness]*. However, the knob, which is just part of the door, is *also an entity in its own right* since it also has certain properties and rotates as a whole. The knob is a part of the door’s [[(Todo) broadcategories/Constituent and Composite Entities (BPC)\|composition]], but composition is *not* equivalent to [[Law of Identity\|identity]]—composition is not a subsumtive relation as traditionally assumed but is a [[Logic of Reciprocity\|reciprocal]] one. In fact, parts are incidental to the *identity* of the whole, and the whole, vice versa, is incidental to the *identity* of its parts. **An entity's identity is its properties**—not its components. (The [[(Todo) broadcategories/Constituent and Composite Entities (BPC)\|reciprocity of parts and wholes]] is of a categorically distinct kind than [[Entity-Property Reciprocity\|the reciprocity of entities and their properties]]; but they are nonetheless both closely linked). 
 
