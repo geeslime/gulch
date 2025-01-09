@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/broad-physical-categories-bpc/","tags":["broad-physical-categories","ontology-epistemology"],"created":"2025-01-03T21:36:39.490-05:00","updated":"2025-01-08T21:49:08.093-05:00"}
+{"dg-publish":true,"permalink":"/note/broad-physical-categories-bpc/","tags":["broad-physical-categories"],"created":"2025-01-03T21:36:39.490-05:00","updated":"2025-01-08T21:49:28.093-05:00"}
 ---
 
 
