@@ -42,6 +42,7 @@ The site also supports Disqus comments at the bottom of each page for readers to
 | [[note/Welcome Page\|Welcome Page]]                                       | \-                                                  | \-                                                                          |
 | [[note/Broad Physical Categories (BPC)\|Broad Physical Categories (BPC)]] | <ul><li>broad-physical-categories</li></ul>         | <ul><li>bpc</li></ul>                                                       |
 | [[note/Entities and Properties (BPC)\|Entities and Properties (BPC)]]     | <ul><li>broad-physical-categories</li></ul>         | <ul><li>Entities</li><li>Properties</li><li>Distinctly Propertied</li></ul> |
+| [[note/Logic of Reciprocity\|Logic of Reciprocity]]                       | <ul><li>perception-action</li></ul>                 | <ul><li>Reciprocity</li><li>reciprocal connection</li></ul>                 |
 | [[note/Ecological Approach\|Ecological Approach]]                         | <ul><li>perception-action</li><li>ecology</li></ul> | <ul><li>ecological approach</li></ul>                                       |
 | [[people/geeslime\|geeslime]]                                             | <ul><li>person</li></ul>                            | <ul><li>gee</li></ul>                                                       |
 

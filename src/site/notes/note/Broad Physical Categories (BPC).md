@@ -24,7 +24,7 @@
 
 
 > [!order] Principle of ordering:
->  Existents which condition the identity of a given existent will come before that existent and will show up in the definition of that existent. If two ideas are written side by side, it means they [[Logic of Reciprocity\|mutually condition]] one another.
+>  Existents which condition the identity of a given existent will come before that existent and will show up in the definition of that existent. If two ideas are written side by side, it means they [[note/Logic of Reciprocity\|mutually condition]] one another.
 
 [[Existence Exists\|Existent]] and [[Law of Identity\|Identity]] are defined *ostensively*, viz., they can only be gestured to. We simply point at something and say that's that. These two concepts cannot [[(Todo) rulesofdefinitionsss/Rules of Proper Definition\|be defined]] any further because existent and identity are the broadest categories, they don't belong to any wider [[(Todo) rulesofdefinitionsss/(1) Rule of Genus and Differentia\|genus]]. These are the basis of everything else—everything else is an existent with identity. 
 
