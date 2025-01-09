@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/logic-of-reciprocity/","tags":["ontology-epistemology"],"created":"2025-01-07T16:14:49.824-05:00","updated":"2025-01-08T23:17:25.274-05:00"}
+{"dg-publish":true,"permalink":"/note/logic-of-reciprocity/","tags":["ontology-epistemology"],"created":"2025-01-07T16:14:49.824-05:00","updated":"2025-01-08T23:21:58.041-05:00"}
 ---
 
 <head>
@@ -48,7 +48,7 @@ Rejecting [[Plato\|Plato’s]] elevation of eternity and the primordial as the "
 
 #todo
 
-[^1]: Not to be mistaken as ([[Fallacy of Reification of the Zero\|Fallacy of Reification of the Zero]]) advancing some sort of Hegelian dialectic. [[Non-Existence\|Non-Existence]] has no logical or otherwise relation to existence. Reciprocity does *not* consider this as an actual ontological distinction.
+[^1]: Not to be mistaken as ([[Fallacy of Reification of the Zero\|Fallacy of Reification of the Zero]]) advancing some sort of Hegelian dialectic. Reciprocity does *not* consider "[[Non-Existence\|non-existence]]/existence" as an actual ontological distinction.
 
 <body>
   </div>
