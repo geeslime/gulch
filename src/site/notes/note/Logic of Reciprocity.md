@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/logic-of-reciprocity/","tags":["perception-action"],"created":"2025-01-07T16:14:49.824-05:00","updated":"2025-01-08T21:26:19.402-05:00"}
+{"dg-publish":true,"permalink":"/note/logic-of-reciprocity/","tags":["ontology-epistemology"],"created":"2025-01-07T16:14:49.824-05:00","updated":"2025-01-08T21:48:33.989-05:00"}
 ---
 
 <head>
