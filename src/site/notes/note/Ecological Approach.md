@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/ecological-approach/","tags":["perception-action","ecology"],"created":"2025-01-03T18:54:57.728-05:00","updated":"2025-01-09T01:00:51.426-05:00"}
+{"dg-publish":true,"permalink":"/note/ecological-approach/","tags":["perception-action","ecology"],"created":"2025-01-03T18:54:57.728-05:00","updated":"2025-01-09T01:12:56.122-05:00"}
 ---
 
 
