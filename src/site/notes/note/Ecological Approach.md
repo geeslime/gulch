@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/note/ecological-approach/","tags":["perception-action","ecology"],"created":"2025-01-03T18:54:57.728-05:00","updated":"2025-01-09T01:12:56.122-05:00"}
+{"dg-publish":true,"permalink":"/note/ecological-approach/","tags":["perception-action","ecology"],"created":"2025-01-03T18:54:57.728-05:00","updated":"2025-01-12T01:13:11.259-05:00"}
 ---
 
 
 <head>
   <title>Ecological Approach</title>
-  <meta property="og:title" content="Ecological Apporach" />
+  <meta property="og:title" content="Ecological Approach" />
   <meta property="og:type" content="article" />
   <meta property="og:image" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />
   <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/geeslime/img/main/atlasdoodle.png" />

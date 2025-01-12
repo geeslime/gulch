@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/entities-and-properties-bpc/","tags":["broad-physical-categories"],"created":"2025-01-06T20:04:30.605-05:00","updated":"2025-01-08T21:49:25.733-05:00"}
+{"dg-publish":true,"permalink":"/note/entities-and-properties-bpc/","tags":["broad-physical-categories"],"created":"2025-01-06T20:04:30.605-05:00","updated":"2025-01-09T03:55:33.586-05:00"}
 ---
 
 
@@ -54,7 +54,7 @@ Using this framework to address a famous example given by [[Heraclitus\|Heraclit
 
 To illustrate further why arbitrary designations fail: a car is an entity as it is distinctly propertied such as to enable mobility, energy conversion, and passenger transport, which depend on the structural-functional repricoity both among its parts *and* a mutually compatable driving-terrain. However, you cannot designate "the steering wheel and the left rear tire" as a separate entity because this grouping is not distinctly propertied such as to enable it to act as a whole. The steering wheel cannot direct movement without the rest of the car's systems, and the tire cannot move independently of the vehicle's integration in relation to the terrain. 
 
-For something to qualify as an entity, *it must be distinctly propertied and act as a unified whole at the scale-relevant context of its causal efficaciousness*. This means the designation of an entity (as a nested natural unit) depends on the appropriate [[Constraints and Degrees of Freedom\|degrees of freedom]] (DoF) necessary to describe the system’s behavior. 
+For something to qualify as an entity, *it must be distinctly propertied and act as a unified whole at the scale-relevant context of its causal efficaciousness*. This means the designation of an entity (as a nested natural unit) depends on the appropriate [[Degree of Freedom and Degree of Constraint\|degrees of freedom]] (DoF) necessary to describe the system’s behavior. 
 
 In the house system some of the relevant degrees of freedom include the division of rooms, access points (doors, windows), and thermal or acoustic insulation. The door is a key degree of freedom, as it regulates access and environmental separations—a door, as a whole, is distinctly propertied such as to enable resistance to environmental factors (like drafts or noise). Its functional role cannot be reduced to the parts of the door (e.g., hinges, knob) when considered at the level of the house system. The knob, while essential at finer grains of analyses, is not functionally relevant at this *level of differentiation*. The concept of DoFs becomes clearer when examining the nested nature of systems:
 
