@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/logic-of-reciprocity/","tags":["ontology-epistemology"],"created":"2025-01-07T16:14:49.824-05:00","updated":"2025-01-27T10:14:16.623-05:00"}
+{"dg-publish":true,"permalink":"/note/logic-of-reciprocity/","tags":["ontology-epistemology"],"created":"2025-01-07T16:14:49.824-05:00","updated":"2025-01-27T10:18:33.847-05:00"}
 ---
 
 <head>
@@ -35,7 +35,7 @@ List of important reciprocal connections: #todo
 - [[Structural-Functional Reciprocity\|Structural-Functional Reciprocity]]
 - [[Permanency-Change Reciprocity\|Permanency-Change Reciprocity]]
 - [[Mind-Body Reciprocity\|Mind-Body Reciprocity]]
-- [[Discrete-Continuous Reciprocity\|Discrete-Continuous Reciprocity]]
+- 
 - 
 	...
 (more to be filled out soon---don't wanna spoil anything without a ready explanation)
